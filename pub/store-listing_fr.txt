@@ -2,7 +2,7 @@ Title: Bus STO Gatineau - MonTransit
 ----------
 Short description:
 Autobus STO de Gatineau pour MonTransit.
-Horaire…
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 12 novembre 2015 au 20 décembre 2015.

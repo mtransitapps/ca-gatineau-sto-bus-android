@@ -2,7 +2,7 @@ Title: Gatineau STO Bus - MonTransit
 ----------
 Short description:
 Gatineau STO Bus for MonTransit.
-Schedule…
+Schedule. News.
 ----------
 What's new in this version?:
 Schedule from November 12, 2015 to December 20, 2015.
