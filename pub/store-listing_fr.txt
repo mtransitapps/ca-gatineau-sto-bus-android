@@ -1,0 +1,33 @@
+Title: Bus STO Gatineau - MonTransit
+----------
+Short description:
+Autobus STO de Gatineau pour MonTransit.
+Horaire…
+----------
+What's new in this version?:
+Horaires du 12 novembre 2015 au 20 décembre 2015.
+----------
+Full description:
+Cette application ajoute les informations des autobus Société de Transport de l'Outaouais (STO) de Gatineau à MonTransit.
+
+L'app contient les horaires plannifiées et les dernières nouvelles de YouTube.
+
+STO dessert Gatineau au Québec, Canada.
+
+Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
+
+Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+
+Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
+
+Ces horaires sont générées à partir du fichier GTFS fourni par la Société de Transport de l'Outaouais (STO)
+http://www.sto.ca/index.php?id=575
+
+Cette application est gratuite et open-source : 
+https://github.com/mtransitapps/ca-gatineau-sto-bus-android
+
+Cette application n'est pas associée à Société de Transport de l'Outaouais (STO).
+
+Autorisations :
+- Autres : requis pour lire les nouvelles de YouTube.
+----------
