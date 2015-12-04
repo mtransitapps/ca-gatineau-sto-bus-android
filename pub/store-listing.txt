@@ -6,11 +6,12 @@ Schedule. News.
 ----------
 What's new in this version?:
 Schedule from November 12, 2015 to December 20, 2015.
+News from @STOGatineau (starting January 2016).
 ----------
 Full description:
 This app adds Société de Transport de l'Outaouais (STO) buses information to MonTransit.
 
-This app provides the buses schedule and the latest news from YouTube.
+This app provides the buses schedule and the latest news from YouTube and @STOGatineau on Twitter.
 
 STO buses serve Gatineau in Quebec, Canada.
 
@@ -29,7 +30,7 @@ https://github.com/mtransitapps/ca-gatineau-sto-bus-android
 This app is not related with the Société de Transport de l'Outaouais (STO).
 
 Permissions:
-- Other: required to read the news from YouTube
+- Other: required to read the news from Twitter & YouTube
 ----------
 Application type: Applications
 ----------
