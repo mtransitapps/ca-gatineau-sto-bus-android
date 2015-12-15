@@ -1,9 +1,11 @@
 MonTransit pour Android
-MonTransit vous donne accès aux informations de la STO, incluant : 
-- les horaires planifiées des autobus (disponibles hors-ligne),
-- les Info-Réseau de sto.ca,
-- les dernières nouvelles de @STOGatineau sur Twitter (bientôt),
-- les dernières vidéos publiées par la STO sur YouTube.
-MonTransit est compatible avec (presque) toutes les agences de transport au Canada.
 
-https://play.google.com/store/apps/details?id=org.mtransit.android
+MonTransit vous donne accès aux informations de la STO, incluant :
+- les horaires planifiées des autobus (aucune connexion Internet ou Wi-Fi requise pour consulter les horaires);
+- les Info-Réseau portant sur les modifications au service d'autobus;
+- les dernières vidéos publiées par la STO sur YouTube,
+- les dernières nouvelles de @STOGatineau sur Twitter (dès janvier 2016).
+MonTransit est compatible avec (presque) toutes les agences de transport au Canada.
+Téléchargez gratuitement l'application MonTransit sur Google Play.
+
+https://play.google.com/store/apps/details?id=org.mtransit.android&hl=fr

@@ -1,11 +1,13 @@
 MonTransit for Android
-MonTransit gives you access to STO information, including: 
-- buses planned schedule (available offline),
-- System-Info from sto.ca,
-- the latests news from @STOGatineau on Twitter (soon),
-- the latests videos uploaded by the STO on YouTube.
-MonTransit is compatible with (almost) all transit agencies in Canada.
 
-https://play.google.com/store/apps/details?id=org.mtransit.android
+MonTransit gives you access to STO information, including:
+- planned bus schedules (no Internet connection or Wi-Fi required to view the timetables);
+- System-Info on the latest changes for your bus route;
+- the latests videos uploaded by the STO on YouTube,
+- the latests news from @STOGatineau on Twitter (available as of January 2016).
+MonTransit is compatible with (almost) all transit agencies in Canada.
+Download MonTransit for free on Google Play
+
+https://play.google.com/store/apps/details?id=org.mtransit.android&hl=en
 
 

@@ -12,7 +12,7 @@ Nouvelles de @STOGatineau (à partir de janvier 2016).
 Full description:
 Cette application ajoute les informations des autobus Société de Transport de l'Outaouais (STO) de Gatineau à MonTransit.
 
-L'app contient les horaires plannifiées ainsi que les Info-Réseau de sto.ca et les dernières nouvelles de YouTube et @STOGatineau sur Twitter.
+L'app contient les horaires planifiés ainsi que les Info-Réseau de sto.ca et les dernières nouvelles de YouTube et @STOGatineau sur Twitter.
 
 STO dessert Gatineau au Québec, Canada.
 
