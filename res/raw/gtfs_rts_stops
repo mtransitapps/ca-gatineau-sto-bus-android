@@ -44,7 +44,7 @@
 1061,'1061','Vanier / Antoine-Boucher',45.426643,-75.815282
 1064,'1064','Principale / Broad',45.395117,-75.843
 1066,'1066','Principale / Broad',45.39503,-75.842564
-1068,'1068','Frank Robinson / Principale',45.394683,-75.840783
+1068,'1068','Frank-Robinson / Principale',45.394683,-75.840783
 1072,'1072','Wilfrid-Lavigne / Principale',45.39596,-75.838502
 1073,'1073','Wilfrid-Lavigne / Principale',45.397763,-75.83812
 1074,'1074','Wilfrid-Lavigne / Principale',45.396413,-75.838113
@@ -70,7 +70,7 @@
 1103,'1103','Broad / Wright',45.408847,-75.848622
 1106,'1106','Broad / Louis-St-Laurent',45.406972,-75.846524
 1107,'1107','Broad / Louis-St-Laurent',45.407064,-75.846385
-1108,'1108','Front / Allumettieres',45.410318,-75.856529
+1108,'1108','Front / Allumettières',45.410318,-75.856529
 1109,'1109','Front / Allumettières',45.410316,-75.856861
 1110,'1110','Front / Verger',45.412749,-75.856425
 1111,'1111','Verger / Front',45.412926,-75.85685
@@ -78,7 +78,7 @@
 1113,'1113','Verger / Élan',45.412405,-75.854299
 1114,'1114','Verger / Klock',45.412428,-75.851308
 1115,'1115','Verger / Klock',45.412609,-75.851158
-1116,'1116','Allumetières / Front',45.409414,-75.857065
+1116,'1116','Allumettières / Front',45.409414,-75.857065
 1117,'1117','Front / Allumettières',45.408428,-75.85659
 1119,'1119','Allumettières / Front',45.409151,-75.856115
 1120,'1120','Bagot / Broad',45.402841,-75.845236
@@ -150,14 +150,20 @@
 1258,'1258','Lucerne / Fraser',45.384739,-75.821884
 1259,'1259','Fraser / Louis',45.386351,-75.823018
 1261,'1261','Lucerne / Fraser',45.384646,-75.822266
+1263,'1263','Côté / Lucerne',45.38519,-75.809231
 1265,'1265','Côté / Lucerne',45.38519,-75.809231
 1268,'1268','Lucerne / Garden',45.385725,-75.809839
 1280,'1280','Chemin D''aylmer / Garden',45.398637,-75.810573
 1282,'1282','Chemin D''aylmer / Garden',45.398495,-75.811568
+1283,'1283','Côté / Deschênes',45.384021,-75.80901
 1284,'1284','Chemin D''aylmer / Maple Grove',45.39758,-75.813612
+1285,'1285','Côté / Lamoureux',45.381503,-75.808642
 1286,'1286','Chemin D''aylmer / Maple Grove',45.397853,-75.813258
+1287,'1287','Lamoureux / Vanier',45.381261,-75.804743
 1288,'1288','Chemin D''aylmer / Grimes',45.396645,-75.818568
+1289,'1289','Vanier / Madaire',45.383601,-75.804751
 1290,'1290','Chemin D''aylmer / Grimes',45.396827,-75.818303
+1291,'1291','Vanier / Lucerne',45.386209,-75.805031
 1292,'1292','Chemin D''aylmer / Foley',45.396345,-75.822652
 1293,'1293','Mc Connell / Manoirs',45.413461,-75.795309
 1294,'1294','Chemin D''aylmer / Foley',45.396619,-75.822081
@@ -228,10 +234,7 @@
 1383,'1383','Chemin D''aylmer / Pont Champlain',45.414839,-75.765
 1384,'1384','Chemin D''aylmer / Royale',45.416024,-75.762792
 1386,'1386','Chemin D''aylmer / Pont Champlain',45.411718,-75.773878
-1387,'1387','Perry / Pink',45.437512,-75.880095
 1388,'1388','Chemin D''aylmer / Pont Champlain',45.41199,-75.773664
-1389,'1389','Chemin D''aylmer / Pont Champlain',45.437562,-75.880582
-1390,'1390','Baillie / Perry',45.46714,-75.88534
 1391,'1391','Mgne / Vanier',45.463948,-75.822164
 1392,'1392','Mgne / Vanier',45.463681,-75.821738
 1393,'1393','Mc Connell / Jean-De La Fontaine',45.413077,-75.798843
@@ -271,7 +274,6 @@
 1435,'1435','Wilfrid-Lavigne / Maquis',45.412608,-75.839094
 1436,'1436','Wilfrid-Lavigne / Allumettières',45.41117,-75.838855
 1437,'1437','Maurice-Duplessis / Klock',45.41955,-75.849856
-1438,'1438','Wilfrid-Lavigne / Allumettières',45.410672,-75.839269
 1439,'1439','Maurice-Duplessis / Jean-Lesage',45.419734,-75.849207
 1441,'1441','Klock / Clématite',45.415856,-75.850312
 1442,'1442','Klock / Clématite',45.415764,-75.850464
@@ -283,7 +285,6 @@
 1452,'1452','Vallon / Grand-Calumet',45.405191,-75.831662
 1454,'1454','Vallon / Caveau',45.405818,-75.832144
 1456,'1456','Vallon / Pionniers',45.40334,-75.831328
-1458,'1458','Parc-O-Bus Rivermead Arrivée Chemin D''aylmer',45.404703,-75.794099
 1459,'1459','Conservatoire / Louvre',45.441526,-75.810804
 1460,'1460','Conservatoire / Louvre',45.441528,-75.810625
 1461,'1461','Louvre / Grand-Palais',45.441096,-75.8081
@@ -341,9 +342,14 @@
 2084,'2084','St-Joseph / Montcalm',45.430889,-75.733256
 2086,'2086','St-Joseph / Allumettières',45.433049,-75.733259
 2088,'2088','St-Joseph / Montcalm',45.43305,-75.733093
+2090,'2090','Route 105 / Pont Alonzo Wright',45.480225,-75.745693
+2091,'2091','Route 105 / Pont Alonzo Wright',45.480132,-75.746127
 2092,'2092','St-Joseph / Amherst',45.434311,-75.733045
+2093,'2093','Route 105 / Pont Alonzo Wright',45.48221,-75.749187
 2094,'2094','St-Joseph / Amherst',45.43485,-75.733193
+2095,'2095','Route 105 / Pont Alonzo Wright',45.482268,-75.749968
 2096,'2096','St-Joseph / Monseigneur-Beaudoin',45.436022,-75.732965
+2097,'2097','Pont Alonzo Wright / Route 105',45.484242,-75.750865
 2098,'2098','St-Joseph / Monseigneur-Beaudoin',45.43584,-75.733154
 2099,'2099','Grives / Atmosphère',45.43828,-75.785876
 2100,'2100','St-Joseph / Dumas',45.437282,-75.732905
@@ -363,7 +369,7 @@
 2118,'2118','St-Joseph / Charles-Church',45.448973,-75.73459
 2119,'2119','Grives / Rosée',45.439353,-75.786978
 2120,'2120','St-Joseph / René-Marengère',45.450223,-75.736154
-2121,'2121','Casino Du Lac Leamy',45.446418,-75.725964
+2121,'2121','Casino Du Lac-Leamy',45.446418,-75.725964
 2122,'2122','St-Joseph / René-Marengère',45.449776,-75.735765
 2124,'2124','St-Joseph / Curé-Robert',45.451472,-75.737961
 2125,'2125','Grives / Atmosphere',45.437562,-75.785598
@@ -386,6 +392,7 @@
 2148,'2148','St-Joseph / Jean-Proulx',45.467764,-75.737918
 2149,'2149','St-Joseph / Jean-Proulx',45.469562,-75.738286
 2151,'2151','Terminus Parc-O-Bus Freeman',45.473377,-75.741317
+2152,'2152','St-Joseph / Freeman',45.473508,-75.740474
 2153,'2153','Terminus Freeman',45.47354,-75.741115
 2154,'2154','St-Joseph / Juneau',45.475386,-75.742469
 2155,'2155','Freeman / St-Joseph - Temps D''attente',45.473124,-75.741455
@@ -426,7 +433,6 @@
 2195,'2195','Cité-Des-Jeunes / Aviron',45.4684,-75.777672
 2196,'2196','Atmosphère / Grives',45.437738,-75.786252
 2197,'2197','Cité-Des-Jeunes / Aviron',45.466792,-75.775936
-2198,'2198','Cité-Des-Jeunes / Étudiants',45.457353,-75.766073
 2199,'2199','Gravité / Solstice',45.443634,-75.779582
 2200,'2200','Cité-Des-Jeunes / Perras',45.456695,-75.764875
 2201,'2201','Gravité / Solstice',45.443633,-75.779761
@@ -573,11 +579,8 @@
 2422,'2422','Lionel-Émond / St-Raymond',45.444839,-75.747439
 2423,'2423','Émond & Gamelin Terminus',45.443499,-75.74723
 2424,'2424','Lionel-Émond / Gamelin',45.44349,-75.747306
-2426,'2426','Lionel-Émond / Gamelin',45.443227,-75.747622
 2427,'2427','Lionel-Émond / Gamelin',45.443218,-75.747584
-2428,'2428','Gamelin / Moussette',45.443284,-75.745782
 2430,'2430','Gamelin / Moussette',45.443247,-75.743096
-2432,'2432','Gamelin / Labelle',45.44329,-75.742087
 2434,'2434','Gamelin / Moussette',45.443334,-75.74366
 2436,'2436','Gamelin / Richelieu',45.443537,-75.739993
 2438,'2438','Gamelin / Richelieu',45.443455,-75.738802
@@ -702,19 +705,24 @@
 2642,'2642','St-Rédempteur / Sacré-Coeur',45.436269,-75.722459
 2643,'2643','St-Rédempteur / Allard',45.43501,-75.722136
 2644,'2644','St-Rédempteur / Sacré-Cœur',45.43565,-75.722003
+2645,'2645','Galène / Quartz',45.477781,-75.787973
 2646,'2646','St-Rédempteur / Adélard-Beauchamp',45.438517,-75.72282
 2648,'2648','St-Rédempteur / Adélard-Beauchamp',45.438519,-75.722411
+2649,'2649','Galène / Aurora-Lafleur',45.479285,-75.791705
 2650,'2650','Sacré-Coeur / St-Henri',45.43691,-75.720626
+2651,'2651','Galène / Mica',45.477081,-75.785085
 2652,'2652','Sacré-Coeur / St-Henri',45.436645,-75.719817
+2653,'2653','Galène / Mineurs',45.474569,-75.783796
 2654,'2654','Sacré-Coeur / Mance',45.437112,-75.717215
 2656,'2656','Sacré-Coeur / Açores',45.436937,-75.716343
 2658,'2658','Sacré-Coeur / Açores',45.437212,-75.71563
 2660,'2660','Sacré-Coeur / Kent',45.437134,-75.713686
 2662,'2662','Sacré-Coeur / Notre-Dame-De-L''île',45.437426,-75.710135
-2668,'2668','Sacré-Coeur / Laurier',45.437162,-75.709237
+2668,'2668','Sacré-Coeur / Laurier',45.437204,-75.709471
 2672,'2672','Sacré-Coeur / St-Rédempteur',45.436543,-75.721797
 2674,'2674','Laurier / Verdun',45.434822,-75.709054
 2676,'2676','Laurier / Verdun',45.435272,-75.709162
+2677,'2677','Marie-Burger / Galène',45.479365,-75.793164
 2680,'2680','Laurier / Allumettières',45.432928,-75.709657
 2682,'2682','Laurier / Allumettières',45.43275,-75.709463
 2683,'2683','Dussault / Notre-Dame-De-L''île',45.440582,-75.709165
@@ -970,15 +978,15 @@
 3402,'3402','St-Louis / Nantel',45.48161,-75.740325
 3403,'3403','St-Louis / Lenoir',45.47874,-75.738739
 3406,'3406','St-Louis / Cartier',45.484752,-75.741735
-3416,'3416','Cannes / Monte-Carlo',45.488138,-75.733014
-3418,'3418','Cannes / Monte-Carlo',45.488047,-75.73314
+3416,'3416','Cannes / Monté-Carlo',45.488138,-75.733014
+3418,'3418','Cannes / Monté-Carlo',45.488047,-75.73314
 3420,'3420','Cannes / Vence',45.490551,-75.735694
 3421,'3421','Cannes / Castillou',45.489659,-75.734467
 3422,'3422','Cannes / Villefranche',45.49046,-75.735859
 3423,'3423','Cannes / Castillou',45.489389,-75.734501
 3424,'3424','École Secondaire De L''érablière',45.492506,-75.739738
 3426,'3426','École Secondaire De L''érablière',45.492687,-75.739561
-3430,'3430','St-Louis / Monte-Carlo',45.483852,-75.741634
+3430,'3430','St-Louis / Monté-Carlo',45.483852,-75.741634
 3432,'3432','St-Louis / Pont Alonzo-Wright',45.487612,-75.74478
 3433,'3433','St-Louis / Cartier',45.485914,-75.742889
 3434,'3434','St-Louis / Pont Alonzo-Wright',45.487787,-75.745524
@@ -1621,8 +1629,8 @@
 4664,'4664','Pierre-Laporte / Albert-Fillion',45.573839,-75.430582
 4665,'4665','Forteresse / Hauts-Bois',45.528355,-75.482791
 4666,'4666','Forteresse / Hauts-Bois',45.528264,-75.482944
-4667,'4667','Forteresse / Chatelet',45.530066,-75.482678
-4668,'4668','Forteresse / Chatelet',45.530155,-75.482909
+4667,'4667','Forteresse / Châtelet',45.530066,-75.482678
+4668,'4668','Forteresse / Châtelet',45.530155,-75.482909
 4669,'4669','Forteresse / Trois-Moulins',45.532764,-75.48306
 4670,'4670','Forteresse / Trois-Moulins',45.532673,-75.483289
 4671,'4671','Forteresse / Neuville',45.535193,-75.483439
@@ -1702,13 +1710,8 @@
 5082,'5082','Holland / Sorrel',45.405853,-75.735233
 5085,'5085','Tunney''s Pasture',45.407731,-75.737059
 5086,'5086','Tunney''s Pasture',45.407736,-75.736382
-5500,'5500','Route 105 / Pont A.Wright',45.48221,-75.749187
-5501,'5501','Pont Alonzo Wright / Route 105',45.484242,-75.750865
-5502,'5502','Route 105 / Pont Alonzo Wright',45.482268,-75.749968
 5503,'5503','Pont Alonzo Wright / Route 105',45.483884,-75.750579
-5535,'5535','Route 105 / Pont Alonzo Wright',45.480132,-75.746127
-5536,'5536','Route 105 / Pont Alonzo Wright',45.480225,-75.745693
-6301,'6301','Erables / Taché',45.522545,-75.740708
+6301,'6301','Érables / Taché',45.522545,-75.740708
 7050,'7050','Érables / Tire (Arrêt De Courtoisie)',45.50243,-75.74454
 7051,'7051','Érables / Tire (Arrêt De Courtoisie)',45.502377,-75.74436
 7052,'7052','Érables / Sucrerie (Arrêt De Courtoisie)',45.507737,-75.739541
@@ -1822,71 +1825,8 @@
 8081,'8081','Ston De La Cité',45.481114,-75.684274
 8090,'8090','Ston Gouin',45.486146,-75.661288
 8091,'8091','Ston Gouin',45.486232,-75.661942
-8101,'8101','Ston Labrosse',45.490468,-75.64376
-8103,'8103','Quai Local Labrosse Ligne 79',45.490594,-75.64368
+8501,'8501','Ston Labrosse',45.490468,-75.64376
+8502,'8502','Quai Local Labrosse Ligne 79',45.490594,-75.64368
 9735,'9735','Quai Local De La Gappe',45.468865,-75.716299
 9736,'9736','Quai Local De La Gappe #7',45.468584,-75.716641
 9737,'9737','Quai Local De La Gappe #6',45.468629,-75.716629
-101265,'1265A','Côté / Lucerne',45.38519,-75.809231
-101304,'1304A','Côté / Deschênes',45.384021,-75.80901
-101308,'1308A','Côté / Lamoureux',45.381503,-75.808642
-101310,'1310A','Lamoureux / Vanier',45.381261,-75.804743
-101312,'1312A','Vanier / Madaire',45.383601,-75.804751
-101316,'1316A','Vanier / Lucerne',45.386209,-75.805031
-102008,'2008A','Cegep Gabrielle-Roy/',45.459306,-75.767443
-102010,'2010A','Cegep Gabrielle-Roy',45.458793,-75.767423
-102187,'2187A','Cité-Des-Jeunes / Talbot',45.463315,-75.771028
-102192,'2192A','Cité-Des-Jeunes / Talbot',45.462333,-75.769735
-102194,'2194A','Cité-Des-Jeunes / Mont-Bleu',45.460815,-75.768026
-102210,'2210A','Centre Asticou',45.450505,-75.76185
-102352,'2352A','Georges-Bilodeau / Lucien-Brault',45.462565,-75.74839
-102597,'2597A','Maisonneuve / Allumettières',45.432097,-75.713086
-102598,'2598A','Maisonneuve / Papineau',45.429123,-75.713585
-102602,'2602A','Tsses De La Chaudière',45.42503,-75.720398
-102618,'2618A','Musée De L''histoire',45.431128,-75.709724
-102620,'2620A','Laurier / Hôtel-De-Ville',45.428244,-75.710263
-102622,'2622A','Place D''accueil',45.426189,-75.713522
-102668,'2668A','Sacré-Coeur / Laurier',45.437162,-75.709237
-102680,'2680A','Laurier / St-Étienne',45.432928,-75.709657
-102694,'2694A','Allumettières / Kent',45.432441,-75.715596
-102702,'2702A','Allumettières / St-Rédempteur',45.432133,-75.721626
-102724,'2724A','Place D''accueil',45.42597,-75.714133
-102746,'2746A','Galène / Quartz',45.477781,-75.787973
-102749,'2749A','Galène / Aurora-Lafleur',45.479285,-75.791705
-102750,'2750A','Galène / Mica',45.477081,-75.785085
-102754,'2754A','Galène / Mineurs',45.474569,-75.783796
-102777,'2777A','Marie-Burger / Galène',45.479365,-75.793164
-102823,'2823A','Grives / Alizés',45.445212,-75.785691
-102824,'2824A','Grives / Vaudaire',45.44699,-75.789015
-102825,'2825A','Grives / Chinook',45.448876,-75.789629
-102826,'2826A','Grives / Mgne',45.450318,-75.789407
-102827,'2827A','Mgne / Chinook',45.449895,-75.785462
-102828,'2828A','Mgne / Brise',45.447846,-75.7823
-103370,'3370A','Barry / Vérendrye',45.48746,-75.712107
-103634,'3634A','Davidson / Cognac',45.50598,-75.671301
-103636,'3636A','Nobert / Davidson',45.505775,-75.667932
-103638,'3638A','Nobert / Radmore',45.504289,-75.66808
-103640,'3640A','Nobert / Pinot',45.502839,-75.66965
-103656,'3656A','Nobert / Sauternes',45.502449,-75.67474
-103660,'3660A','Nobert / Mtée Paiement',45.502169,-75.676414
-103681,'3681A','Davidson / Sauternes',45.504984,-75.675308
-104051,'4051A','Vérendrye Est / Lorrain Nord',45.506781,-75.610325
-104053,'4053A','Henri-Matisse / Auguste-Renoir',45.504866,-75.61321
-104055,'4055A','Auguste-Renoir / Vérendrye',45.504526,-75.609545
-104772,'4772A','Aréna / Lombard',45.546826,-75.408611
-105003,'5003A','King Edward / Clarence',45.43135,-75.688173
-105014,'5014A','Rideau / Cumberland',45.427838,-75.688309
-105024,'5024A','Rideau / Nicholas',45.42629,-75.691243
-105030,'5030A','Rideau / Elgin',45.42363,-75.697823
-105032,'5032A','Wellington / Metcalfe',45.423324,-75.698048
-105034,'5034A','Wellington / Metcalfe',45.422918,-75.699638
-105040,'5040A','Wellington / Bank',45.421634,-75.702089
-105042,'5042A','Wellington / Bank',45.421448,-75.702918
-105048,'5048A','Wellington / Lyon',45.420448,-75.704644
-105050,'5050A','Wellington / Lyon',45.419804,-75.706847
-107114,'7114A','Montréal Est / Brabant (Arrêt De Courtoisie)',45.528697,-75.476225
-107116,'7116A','Montréal Est / Brabant (Arrêt De Courtoisie)',45.531081,-75.4702
-107118,'7118A','Montréal Est / Brabant (Arrêt De Courtoisie)',45.532372,-75.462552
-107120,'7120A','Montréal Est / Brabant (Arrêt De Courtoisie)',45.534531,-75.453848
-107122,'7122A','Montréal Est / Brabant (Arrêt De Courtoisie)',45.537561,-75.443344
-108081,'8081A','Ston De La Cité',45.481114,-75.684274
