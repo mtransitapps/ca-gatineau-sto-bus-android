@@ -1,9 +1,9 @@
 1100,0,'Cgp GRoy',11
-1101,0,'Place d''Accueil',11
+1101,0,'Place D''accueil',11
 1501,0,'Gappe',15
 1500,0,'Érables',15
 1700,0,'Cgp GRoy',17
-1701,0,'Place d''Accueil',17
+1701,0,'Place D''accueil',17
 2000,0,'Freeman',20
 2001,0,'Ottawa',20
 2100,0,'Freeman',21
@@ -23,9 +23,9 @@
 2901,0,'Ottawa',29
 2900,0,'Trembles',29
 3100,0,'Cgp GRoy',31
-3101,0,'Ottawa',31
+3101,0,'Laurier / Boul Allum. (Direction Sud)',31
 3200,0,'Cgp GRoy',32
-3201,0,'Ottawa',32
+3201,0,'Musée De L''Histoire',32
 3300,0,'Cité',33
 3301,0,'Musée de l''Histoire',33
 3500,0,'Galène',35
@@ -65,7 +65,7 @@
 5400,0,'Parc Champlain',54
 5401,0,'Rivermead',54
 5700,0,'Cité',57
-5701,0,'P-O-B Rivermead',57
+5701,0,'Rivermead',57
 5801,0,'Pré-Tunney',58
 5800,0,'Rivermead',58
 5901,0,'Ottawa',59
@@ -128,5 +128,3 @@
 40001,0,'Ottawa',400
 80000,0,'Labrosse',800
 80001,0,'Rivermead',800
-81000,0,'Labrosse',810
-81001,0,'Rivermead',810
