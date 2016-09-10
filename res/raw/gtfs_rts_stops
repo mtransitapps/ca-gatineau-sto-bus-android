@@ -88,10 +88,13 @@
 1119,'1119','Allumettières / Front',45.409151,-75.856115
 1120,'1120','Bagot / Broad',45.402841,-75.845236
 1121,'1121','Bagot / Parker',45.402731,-75.84793
+1122,'1122','Wilfrid-Lavigne / Maurice St-Louis',45.420664,-75.845246
 1123,'1123','Wilfrid-Lavigne / Maurice-Duplessis',45.420393,-75.845421
 1124,'1124','Broad / Anna',45.403205,-75.844743
+1127,'1127','Wilfrid-Lavigne / Lyse-Daniels',45.422178,-75.847352
 1128,'1128','Broad / Louis-St-Laurent',45.405634,-75.844971
 1129,'1129','Broad / Louis-St-Laurent',45.406081,-75.845361
+1130,'1130','Wilfrid-Lavigne / Paul-Berthiaume',45.42191,-75.847143
 1131,'1131','Bagot / Broad',45.402746,-75.846001
 1132,'1132','Parc-O-Bus Allumettières',45.407261,-75.865607
 1133,'1133','Parc-O-Bus Allumettières',45.407187,-75.865976
@@ -103,12 +106,22 @@
 1145,'1145','Chartier / Bourgeau',45.403874,-75.851627
 1147,'1147','Cormier / Chartier',45.40414,-75.852245
 1150,'1150','Bourgeau / Louis-St-Laurent',45.406111,-75.85345
+1151,'1151','Wilfrid-Lavigne / Pierre-Debain',45.422699,-75.850006
 1152,'1152','Bourgeau / Louis-St-Laurent',45.405841,-75.853471
+1153,'1153','Eardley / Parker',45.397779,-75.848188
+1154,'1154','Eardley / Parker',45.39751,-75.848056
+1155,'1155','Wilfrid-Lavigne / Klock',45.422787,-75.850275
 1156,'1156','Front / Tsse-Eardley',45.40592,-75.854916
+1157,'1157','Eardley / Thomas',45.396269,-75.845393
 1158,'1158','Frank-Robinson / Patrimoine',45.394772,-75.840976
+1159,'1159','Eardley / Court',45.396089,-75.845365
+1161,'1161','Eardley / Roméo-Gendron',45.399112,-75.850419
 1162,'1162','Wychwood / Smiley',45.392872,-75.842315
+1163,'1163','Eardley / Dalhousie',45.398932,-75.850454
 1164,'1164','Wychwood / Lord-Aylmer',45.390263,-75.842071
+1165,'1165','Eardley / Adélard-Sauvé',45.400356,-75.852584
 1166,'1166','Wychwood / Lord-Aylmer',45.39287,-75.842455
+1167,'1167','Eardley / Goulet',45.400265,-75.852723
 1168,'1168','Wychwood / Lake',45.38909,-75.841288
 1169,'1169','Principale / Frank-Robinson',45.395384,-75.839016
 1170,'1170','Wychwood / Lord-Aylmer',45.390316,-75.842238
