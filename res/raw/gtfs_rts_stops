@@ -137,7 +137,7 @@
 1185,'1185','Pine / Arbutus',45.385442,-75.836622
 1186,'1186','Pine / Arbutus',45.385443,-75.836469
 1188,'1188','Lucerne / Pine',45.387515,-75.836359
-1190,'1190','Lucerne / Pine',45.387659,-75.836272
+1190,'1190','Pine / Glenholm',45.387141,-75.836829
 1191,'1191','Lucerne / Riesling',45.386212,-75.829787
 1192,'1192','Lucerne / Eastern',45.385539,-75.827069
 1193,'1193','Lucerne / Riesling',45.38627,-75.830554
@@ -178,7 +178,7 @@
 1263,'1263','Côté / Lucerne',45.38519,-75.809231
 1265,'1265','Côté / Lucerne',45.38519,-75.809231
 1268,'1268','Lucerne / Garden',45.385725,-75.809839
-1279,'1279','Parc-O-Bus Rivermead',45.403753,-75.793486
+1279,'1279','Parc-O-Bus Rivermead',45.404328,-75.794443
 1280,'1280','Chemin D''aylmer / Garden',45.3986,-75.810764
 1281,'1281','Hochelaga / Atholl Doune',45.427997,-75.789006
 1282,'1282','Chemin D''aylmer / Garden',45.398495,-75.811568
@@ -228,8 +228,8 @@
 1335,'1335','Mc Connell / Manoirs',45.413188,-75.795816
 1336,'1336','Vanier / Crescent',45.396626,-75.806009
 1338,'1338','Vanier / Crescent',45.396375,-75.805878
-1340,'1340','Vanier / Chemin D''aylmer',45.399522,-75.806382
-1342,'1342','Vanier / Chemin D''aylmer',45.399253,-75.8062
+1340,'1340','Vanier / Chemin D''aylmer',45.398541,-75.80628
+1342,'1342','Vanier / Chemin D''aylmer',45.398578,-75.806125
 1344,'1344','Chemin D''aylmer / Lakeview',45.399234,-75.808831
 1346,'1346','Chemin D''aylmer / Lakeview',45.399414,-75.808962
 1347,'1347','Mc Connell / Morley-Walters',45.412773,-75.803644
@@ -239,8 +239,6 @@
 1353,'1353','Chemin D''aylmer / Vanier',45.400336,-75.805857
 1354,'1354','Chemin D''aylmer / Vanier',45.399965,-75.807385
 1355,'1355','Chemin D''aylmer / Castelbeau',45.402081,-75.800924
-1356,'1356','Chemin D''aylmer / Castelbeau',45.403457,-75.797149
-1357,'1357','Chemin D''aylmer / Castelbeau',45.403546,-75.797265
 1358,'1358','Chemin D''aylmer / Rivermead',45.404468,-75.794122
 1361,'1361','Chemin D''aylmer / Honfleur',45.406209,-75.789801
 1362,'1362','Chemin D''aylmer / Atholl Doune',45.407219,-75.786928
@@ -285,8 +283,10 @@
 1410,'1410','Colline / Artisans',45.399244,-75.832546
 1411,'1411','Pink / Vernon',45.442955,-75.799636
 1412,'1412','Colline / Vallon',45.400871,-75.831598
+1413,'1413','Chemin D''aylmer / Vanier',45.399812,-75.807257
 1416,'1416','Vallon / Colline',45.401144,-75.83127
 1420,'1420','Vallon / Draveurs',45.403931,-75.831669
+1421,'1421','Vanier / Chemin D''aylmer',45.399716,-75.806273
 1423,'1423','Allumettières / Champignons',45.410058,-75.843171
 1424,'1424','Wilfrid-Lavigne / Maurice-Duplessis',45.419855,-75.845119
 1425,'1425','Maurice-Duplessis / Wilfrid-Lavigne',45.419941,-75.845631
@@ -365,7 +365,6 @@
 2053,'2053','Terminus Freeman',45.473433,-75.741167
 2058,'2058','Alexandre-Taché / Coopération',45.42284,-75.73916
 2060,'2060','Alexandre-Taché / Coopération',45.422798,-75.738622
-2063,'2063','Alexandre-Taché / Corridor Rapibus',45.423574,-75.732778
 2064,'2064','Alexandre-Taché / St-Joseph',45.423431,-75.732674
 2065,'2065','Alexandre-Taché / St-Joseph',45.423414,-75.733939
 2066,'2066','St-Joseph / Châtelain',45.424137,-75.733425

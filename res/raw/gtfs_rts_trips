@@ -57,8 +57,8 @@
 5000,0,'Cgp GRoy',50
 5001,0,'P-O-B Allum',50
 5101,0,'Gal.Aylmer',51
-5200,0,'Lavigne / Wychwood / Vanier',52
-5301,0,'Vanier / Wychwood / Lavigne',53
+5200,0,'Lavigne',52
+5301,0,'Cédres',53
 5400,0,'Champlain',54
 5401,0,'Rivermead',54
 5501,0,'Ottawa',55
@@ -141,7 +141,7 @@
 53301,0,'College Nf',533
 53300,0,'Promenades',533
 53900,0,'College Nf',539
-53901,0,'Taché / St-Joseph',539
+53901,0,'Taché / Stjo',539
 56401,0,'College Nf',564
 56400,0,'Promenades',564
 62500,0,'Plateau',625
@@ -180,7 +180,7 @@
 73700,0,'E Montbleu',737
 73701,0,'Marengere',737
 73900,0,'Plateau',739
-73901,0,'Taché / St-Joseph',739
+73901,0,'Taché / Stjo',739
 74001,0,'Coll St-Jo',740
 74000,0,'Jlavigne',740
 74900,0,'E Montbleu',749
