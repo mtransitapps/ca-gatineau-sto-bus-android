@@ -311,7 +311,9 @@
 1450,'1450','Caveau / Samuel-Edey',45.406559,-75.829331
 1451,'1451','Mc Connell / Wilfrid-Lavigne',45.410363,-75.838383
 1452,'1452','Vallon / Grand-Calumet',45.405191,-75.831662
+1453,'1453','Klock / Maurice-Duplessis',45.419902,-75.85082
 1454,'1454','Vallon / Caveau',45.405818,-75.832144
+1455,'1455','Klock / Maurice-Duplessis',45.419721,-75.850958
 1456,'1456','Vallon / Pionniers',45.403393,-75.831405
 1459,'1459','Conservatoire / Louvre',45.441526,-75.810804
 1460,'1460','Conservatoire / Louvre',45.441482,-75.810701
@@ -1445,7 +1447,6 @@
 4163,'4163','Maloney Est / Monseigneur-Lemieux',45.482526,-75.616371
 4164,'4164','Maloney Est / Chamberland',45.48293,-75.613343
 4167,'4167','Lorrain / Fleurs',45.506237,-75.609385
-4202,'4202','Centre Cado',45.483059,-75.662813
 4227,'4227','Cannes / Sanary',45.485026,-75.727036
 4228,'4228','Cannes / Sanary',45.484937,-75.726907
 4230,'4230','Cannes / Rayol',45.488465,-75.724137

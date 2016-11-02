@@ -7,7 +7,7 @@
 2000,0,'Freeman',20
 2001,0,'Ottawa',20
 2100,0,'Freeman',21
-2101,0,'Musée de l''Histoire',21
+2101,0,'Ottawa',21
 2201,0,'Ottawa',22
 2200,0,'Plateau',22
 2401,0,'Ottawa',24
@@ -136,8 +136,7 @@
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
 43901,0,'Plateau',439
-43900,0,'Polyvalente De L''île',439
-47201,0,'Cado',472
+43900,0,'École De L''île',439
 53301,0,'College Nf',533
 53300,0,'Promenades',533
 53900,0,'College Nf',539
@@ -145,14 +144,14 @@
 56401,0,'College Nf',564
 56400,0,'Promenades',564
 62500,0,'Plateau',625
-62501,0,'Polyvalente De L''île',625
-62701,0,'Polyvalente De L''île',627
+62501,0,'École De L''île',625
+62701,0,'École De L''île',627
 62900,0,'Plateau',629
-62901,0,'Polyvalente De L''île',629
+62901,0,'École De L''île',629
 63303,0,'Freeman',633
 63304,0,'Polyvalente de l''Île',633
-63700,0,'Polyvalente De L''île',637
 63701,0,'Taché',637
+63700,0,'École De L''île',637
 64900,0,'E Montbleu',649
 64901,0,'Rivermead',649
 65001,0,'Esgrivière',650
@@ -191,8 +190,8 @@
 75301,0,'Lucerne / Robert-Sterward',753
 75401,0,'Esgrivière',754
 75400,0,'Mcconnell',754
-76701,0,'Polyvalente De L''île',767
 76700,0,'Promenades',767
+76701,0,'École De L''île',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
 82901,0,'Taché',829
