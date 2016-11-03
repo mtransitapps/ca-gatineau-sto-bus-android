@@ -7,7 +7,7 @@
 2000,0,'Freeman',20
 2001,0,'Ottawa',20
 2100,0,'Freeman',21
-2101,0,'Ottawa',21
+2101,0,'Musée de l''Histoire',21
 2201,0,'Ottawa',22
 2200,0,'Plateau',22
 2401,0,'Ottawa',24
@@ -137,6 +137,7 @@
 40001,0,'Ottawa',400
 43901,0,'Plateau',439
 43900,0,'École De L''île',439
+47201,0,'Cado',472
 53301,0,'College Nf',533
 53300,0,'Promenades',533
 53900,0,'College Nf',539
