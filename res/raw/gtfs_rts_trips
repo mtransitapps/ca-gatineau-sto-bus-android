@@ -5,9 +5,9 @@
 1700,0,'Cgp GRoy',17
 1701,0,'Ottawa',17
 2000,0,'Freeman',20
-2001,0,'Ottawa',20
+2001,0,'Mhistoire',20
 2100,0,'Freeman',21
-2101,0,'Ottawa',21
+2101,0,'Musée de l''Histoire',21
 2201,0,'Ottawa',22
 2200,0,'Plateau',22
 2401,0,'Ottawa',24
@@ -199,3 +199,4 @@
 83901,0,'E Montbleu1',839
 84901,0,'College Nf',849
 85001,0,'College Nf',850
+90101,0,'Garage',901
