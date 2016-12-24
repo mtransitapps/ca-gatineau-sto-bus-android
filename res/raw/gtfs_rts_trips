@@ -123,80 +123,8 @@
 20001,0,'Ottawa',200
 30000,0,'Labrosse',300
 30001,0,'Ottawa',300
-32503,0,'Col St-Alex',325
-32504,0,'Plateau',325
-32703,0,'Col St-Alex',327
-32704,0,'Hautes-Plaines',327
-33100,0,'Col St-Alex',331
-33303,0,'Col St-Alex',333
-33304,0,'Freeman',333
-33801,0,'Col St-Alex',338
-33903,0,'Col St-Alex',339
-33904,0,'Plateau',339
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
-43902,0,'Plateau',439
-43901,0,'École De L''île',439
-53302,0,'Cité des jeunes',533
-53301,0,'Promenades',533
-53900,0,'College Nf0',539
-53901,0,'College Nf1',539
-56400,0,'College Nf0',564
-56401,0,'College Nf1',564
-62500,0,'École De L''île0',625
-62501,0,'École De L''île1',625
-62701,0,'École De L''île',627
-62900,0,'École De L''île0',629
-62901,0,'École De L''île1',629
-63303,0,'Freeman',633
-63304,0,'Polyvalente de l''Île',633
-63700,0,'École De L''île0',637
-63701,0,'École De L''île1',637
-64900,0,'E Montbleu0',649
-64901,0,'E Montbleu1',649
-65000,0,'Esgrivière0',650
-65001,0,'Esgrivière1',650
-65100,0,'Esgrivière0',651
-65101,0,'Esgrivière1',651
-65300,0,'Esgrivière0',653
-65301,0,'Esgrivière1',653
-65400,0,'Esgrivière0',654
-65401,0,'Esgrivière1',654
-66600,0,'College Nf0',666
-66601,0,'College Nf1',666
-67100,0,'College Nf0',671
-67101,0,'College Nf1',671
-67600,0,'College Nf0',676
-67601,0,'College Nf1',676
-69600,0,'College Nf0',696
-69601,0,'College Nf1',696
-73100,0,'Cgp GRoy',731
-73101,0,'Coll St-Jo',731
-73300,0,'E Montbleu0',733
-73301,0,'E Montbleu1',733
-73500,0,'E Montbleu0',735
-73501,0,'E Montbleu1',735
-73702,0,'E Montbleu',737
-73701,0,'Tsses de la Chaudière',737
-73900,0,'Plateau',739
-73901,0,'École De L''île',739
-74000,0,'Coll St-Jo0',740
-74001,0,'Coll St-Jo1',740
-74900,0,'E Montbleu0',749
-74901,0,'E Montbleu1',749
-75100,0,'Esgrivière0',751
-75101,0,'Esgrivière1',751
-75302,0,'ESGRivière',753
-75301,0,'Lucerne / Robert-Sterward',753
-75400,0,'Esgrivière0',754
-75401,0,'Esgrivière1',754
-76700,0,'École De L''île0',767
-76701,0,'École De L''île1',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
-82901,0,'E Montbleu',829
-83900,0,'E Montbleu0',839
-83901,0,'E Montbleu1',839
-84901,0,'College Nf',849
-85001,0,'College Nf',850
 90101,0,'Garage',901
