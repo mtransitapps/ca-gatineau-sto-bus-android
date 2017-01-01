@@ -5,7 +5,7 @@
 1700,0,'Cgp GRoy',17
 1701,0,'Ottawa',17
 2000,0,'Freeman',20
-2001,0,'Mhistoire',20
+2001,0,'Ottawa',20
 2100,0,'Freeman',21
 2101,0,'Musée de l''Histoire',21
 2201,0,'Ottawa',22
@@ -123,8 +123,30 @@
 20001,0,'Ottawa',200
 30000,0,'Labrosse',300
 30001,0,'Ottawa',300
+32503,0,'Col St-Alex',325
+32504,0,'Plateau',325
+32703,0,'Col St-Alex',327
+32704,0,'Hautes-Plaines',327
+33100,0,'Col St-Alex',331
+33303,0,'Col St-Alex',333
+33304,0,'Freeman',333
+33801,0,'Col St-Alex',338
+33903,0,'Col St-Alex',339
+33904,0,'Plateau',339
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
+43902,0,'Plateau',439
+43901,0,'École De L''île',439
+53302,0,'Cité des jeunes',533
+53301,0,'Promenades',533
+53903,0,'Col NF',539
+53904,0,'Col St-Jo',539
+56402,0,'Col NF',564
+56401,0,'Promenades',564
+62501,0,'ES De L''Île',625
+62502,0,'Pink / Conservatoire',625
+62701,0,'ES De L''Île',627
+62900,0,'ES De L''Île',629
+73900,0,'ES De L''Île',739
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
-90101,0,'Garage',901
