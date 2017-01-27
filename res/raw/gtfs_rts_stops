@@ -412,7 +412,7 @@
 2132,'2132','St-Joseph / Charron',45.454872,-75.740985
 2134,'2134','St-Joseph / Charron',45.455106,-75.74109
 2135,'2135','Plateau / Grives',45.435531,-75.779854
-2137,'2137','Plateau / Satellite',45.436097,-75.776078
+2137,'2137','Plateau / Satellite',45.436108,-75.775894
 2138,'2138','St-Joseph / Meunier',45.457491,-75.742465
 2139,'2139','Plateau / Satellite',45.435889,-75.776216
 2140,'2140','St-Joseph / Meunier',45.458286,-75.742079
@@ -477,7 +477,7 @@
 2209,'2209','Gravité / Galaxie',45.441649,-75.780348
 2210,'2210','Centre Asticou',45.450424,-75.761759
 2211,'2211','Atmosphère / Gravité',45.440299,-75.780253
-2212,'2212','Cité-Des-Jeunes / Asticou',45.451253,-75.757653
+2212,'2212','Cité-Des-Jeunes / Cité-Des-Jeunes',45.451253,-75.757653
 2213,'2213','Atmosphère / Gravité',45.440123,-75.779726
 2214,'2214','Cité-Des-Jeunes / Bédard',45.450357,-75.756963
 2215,'2215','Cité-Des-Jeunes / St-Raymond',45.446705,-75.751134
@@ -709,6 +709,7 @@
 2584,'2584','Édifice Louis-St-Laurent',45.445504,-75.728101
 2586,'2586','Édifice Louis-St-Laurent',45.447214,-75.728097
 2588,'2588','Carrière / Galeries',45.444165,-75.727815
+2595,'2595','Maisonneuve / Allumettières',45.432097,-75.713086
 2596,'2596','Maisonneuve / Papineau',45.429306,-75.713153
 2597,'2597','Maisonneuve / Allumettières',45.431998,-75.713097
 2598,'2598','Maisonneuve / Papineau',45.429123,-75.713585
@@ -1876,9 +1877,7 @@
 7180,'7180','Mgne / Zéphyr (Arrêt De Courtoisie)',45.455471,-75.797753
 7181,'7181','Mgne / Zéphyr (Arrêt De Courtoisie)',45.455681,-75.797296
 7182,'7182','Mgne / Grives',45.45042,-75.787656
-7183,'7183','Mgne / Grives',45.450657,-75.787148
 7184,'7184','Mgne / Brise (Arrêt De Courtoisie)',45.448103,-75.782879
-7185,'7185','Mgne / Brise (Arrêt De Courtoisie)',45.448303,-75.782665
 7186,'7186','Mgne / Pink (Arrêt De Courtoisie)',45.445299,-75.778365
 7187,'7187','Mgne / Pink (Arrêt De Courtoisie)',45.445391,-75.778059
 7188,'7188','Hochelaga / Brouage (Arrêt De Courtoisie)',45.425062,-75.791726

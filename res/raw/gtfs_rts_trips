@@ -135,8 +135,8 @@
 33904,0,'Plateau',339
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
+43901,0,'ES De L''Île',439
 43902,0,'Plateau',439
-43901,0,'École De L''île',439
 53302,0,'Cité des jeunes',533
 53301,0,'Promenades',533
 53903,0,'Col NF',539
@@ -150,3 +150,5 @@
 73900,0,'ES De L''Île',739
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
+87003,0,'Arena Guertin',870
+87004,0,'Wellington/Metcalfe',870
