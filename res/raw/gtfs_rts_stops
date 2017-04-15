@@ -873,7 +873,7 @@
 2815,'2815','Grives / Chinook',45.448876,-75.789629
 2816,'2816','Grives / Mgne',45.450318,-75.789407
 2817,'2817','Amérique-Française / Art Moderne',45.435976,-75.806582
-2818,'2818','Amérique-Française / Art Moderne Dus',45.436152,-75.807057
+2818,'2818','Amérique-Française / Art Moderne',45.436152,-75.807057
 2819,'2819','Amérique-Française / Art Moderne',45.437042,-75.808528
 2820,'2820','Amérique-Française / Art Moderne',45.437133,-75.808375
 2821,'2821','Conservatoire / Glenbow',45.438871,-75.809564
@@ -1264,7 +1264,7 @@
 3736,'3736','St-René / Bécancour',45.498948,-75.620174
 3737,'3737','St-René / Sunset',45.498044,-75.626396
 3738,'3738','St-René / Bécancour',45.499066,-75.620257
-3739,'3739','Atmec / St-René Est',45.510583,-75.573138
+3739,'3739','Atmec / St-René',45.510583,-75.573138
 3740,'3740','St-René / Hubert',45.498811,-75.617752
 3741,'3741','Maloney Est / Joseph-Roy',45.489557,-75.597674
 3742,'3742','St-René / Hubert',45.498907,-75.616678
@@ -1591,7 +1591,7 @@
 4426,'4426','Davidson / Vérendrye',45.502043,-75.635772
 4427,'4427','Lorrain / Beauchamp',45.491327,-75.603465
 4428,'4428','Lorrain / Beauchamp',45.492582,-75.604361
-4429,'4429','Davidson / Vérendrye Est',45.501576,-75.635574
+4429,'4429','Davidson / Vérendrye',45.501576,-75.635574
 4436,'4436','Maloney Est / Camille',45.495608,-75.576172
 4437,'4437','Maloney Est / Camille',45.495336,-75.576464
 4439,'4439','Maloney Est / Pélissier',45.49769,-75.572136
@@ -1658,7 +1658,7 @@
 4552,'4552','Church / Dollard',45.584995,-75.407427
 4553,'4553','Church / Curé-Brady',45.584948,-75.405516
 4554,'4554','Church / Laframboise',45.585185,-75.404518
-4556,'4556','Church / Maclaren Est',45.585374,-75.402071
+4556,'4556','Church / Maclaren',45.585374,-75.402071
 4557,'4557','Maclaren Est / Church',45.585664,-75.401624
 4558,'4558','Maclaren Est / Brewer',45.587441,-75.403073
 4560,'4560','Maclaren Est / Brewer',45.586903,-75.402428
@@ -1672,8 +1672,8 @@
 4571,'4571','Maclaren / Sauvé',45.583849,-75.40056
 4572,'4572','Maclaren Est / James',45.588314,-75.41054
 4573,'4573','Maclaren / Elisabeth-Chauvin',45.579951,-75.400763
-4574,'4574','Bélanger / Maclaren Est',45.588306,-75.412963
-4575,'4575','Bélanger / Maclaren Est',45.588324,-75.412835
+4574,'4574','Bélanger / Maclaren',45.588306,-75.412963
+4575,'4575','Bélanger / Maclaren',45.588324,-75.412835
 4576,'4576','Bélanger / Joseph',45.589745,-75.413243
 4577,'4577','Maclaren / Elisabeth-Chauvin',45.579951,-75.400712
 4578,'4578','Bélanger / Joseph',45.589206,-75.412944
@@ -1696,8 +1696,8 @@
 4598,'4598','Av De Buckingham / Maclaren',45.587301,-75.416904
 4600,'4600','Maclaren Ouest / Georges',45.586205,-75.421203
 4602,'4602','Maclaren Ouest / Georges',45.586257,-75.421909
-4604,'4604','Kenny / Maclaren Ouest',45.586555,-75.424013
-4606,'4606','Kenny / Maclaren Ouest',45.586195,-75.424062
+4604,'4604','Kenny / Maclaren',45.586555,-75.424013
+4606,'4606','Kenny / Maclaren',45.586195,-75.424062
 4608,'4608','Kenny / Spencer',45.585022,-75.424861
 4610,'4610','Kenny / Spencer',45.584571,-75.425037
 4611,'4611','Kenny / Bridge',45.583037,-75.425961
@@ -1821,32 +1821,32 @@
 7053,'7053','Érables / Sucrerie (Arrêt De Courtoisie)',45.507684,-75.739309
 7054,'7054','Érables / Fleurimont (Arrêt De Courtoisie)',45.51615,-75.740048
 7055,'7055','Érables / Fleurimont (Arrêt De Courtoisie)',45.516178,-75.739843
-7100,'7100','Maloney Est / Schryer (Arrêt De Courtoisie)',45.50551,-75.554269
-7101,'7101','Maloney Est / Schryer (Arrêt De Courtoisie)',45.50577,-75.554335
-7102,'7102','Maloney Est / Granby (Arrêt De Courtoisie)',45.50676,-75.546933
-7103,'7103','Maloney Est / Granby (Arrêt De Courtoisie)',45.50659,-75.546778
-7104,'7104','Maloney Est / Chauret (Arrêt De Courtoisie)',45.510182,-75.540975
-7105,'7105','Maloney Est / Chauret (Arrêt De Courtoisie)',45.510129,-75.540769
-7106,'7106','Maloney Est / Chauret (Arrêt De Courtoisie)',45.513292,-75.532376
-7107,'7107','Maloney Est / Chauret (Arrêt De Courtoisie)',45.513157,-75.532285
-7108,'7108','Montréal Ouest / Mongeon (Arrêt De Courtoisie)',45.515154,-75.524826
-7109,'7109','Montréal Ouest / Mongeon Dr (Arrêt De Courtoisie)',45.51511,-75.524506
-7110,'7110','Montréal Ouest / Kamouraska D (Arrêt De Courtoisie)',45.517492,-75.517422
-7111,'7111','Montréal Ouest / Kamouraska D (Arrêt De Courtoisie)',45.517303,-75.517318
-7112,'7112','Montréal Ouest / Kamouraska D (Arrêt De Courtoisie)',45.518731,-75.510058
-7113,'7113','Montréal Ouest / Kamouraska (Arrêt De Courtoisie)',45.518543,-75.50989
-7114,'7114','Montréal Est / Brabant (Arrêt De Courtoisie)',45.528697,-75.476225
-7115,'7115','Montréal Est / Forteresse D (Arrêt De Courtoisie)',45.528563,-75.476057
-7116,'7116','Montréal Est / Brabant (Arrêt De Courtoisie)',45.531081,-75.4702
-7117,'7117','Montréal Est / Brabant (Arrêt De Courtoisie)',45.530946,-75.470058
-7118,'7118','Montréal Est / Brabant (Arrêt De Courtoisie)',45.532372,-75.462552
-7119,'7119','Montréal Est / Brabant (Arrêt De Courtoisie)',45.532184,-75.462435
-7120,'7120','Montréal Est / Brabant (Arrêt De Courtoisie)',45.534531,-75.453848
-7121,'7121','Montréal Est / Brabant (Arrêt De Courtoisie)',45.534361,-75.453693
-7122,'7122','Montréal Est / Brabant (Arrêt De Courtoisie)',45.537561,-75.443344
-7123,'7123','Montréal Est / Brabant (Arrêt De Courtoisie)',45.537444,-75.443266
-7124,'7124','Montréal Est / Kendall (Arrêt De Courtoisie)',45.540374,-75.435168
-7125,'7125','Montréal Est / Kendall (Arrêt De Courtoisie)',45.540239,-75.434988
+7100,'7100','Maloney / Schryer (Arrêt De Courtoisie)',45.50551,-75.554269
+7101,'7101','Maloney / Schryer (Arrêt De Courtoisie)',45.50577,-75.554335
+7102,'7102','Maloney / Granby (Arrêt De Courtoisie)',45.50676,-75.546933
+7103,'7103','Maloney / Granby (Arrêt De Courtoisie)',45.50659,-75.546778
+7104,'7104','Maloney / Chauret (Arrêt De Courtoisie)',45.510182,-75.540975
+7105,'7105','Maloney / Chauret (Arrêt De Courtoisie)',45.510129,-75.540769
+7106,'7106','Maloney / Chauret (Arrêt De Courtoisie)',45.513292,-75.532376
+7107,'7107','Maloney / Chauret (Arrêt De Courtoisie)',45.513157,-75.532285
+7108,'7108','Montréal / Mongeon (Arrêt De Courtoisie)',45.515154,-75.524826
+7109,'7109','Montréal / Mongeon (Arrêt De Courtoisie)',45.51511,-75.524506
+7110,'7110','Montréal / Kamouraska (Arrêt De Courtoisie)',45.517492,-75.517422
+7111,'7111','Montréal / Kamouraska (Arrêt De Courtoisie)',45.517303,-75.517318
+7112,'7112','Montréal / Kamouraska (Arrêt De Courtoisie)',45.518731,-75.510058
+7113,'7113','Montréal / Kamouraska (Arrêt De Courtoisie)',45.518543,-75.50989
+7114,'7114','Montréal / Brabant (Arrêt De Courtoisie)',45.528697,-75.476225
+7115,'7115','Montréal / Forteresse (Arrêt De Courtoisie)',45.528563,-75.476057
+7116,'7116','Montréal / Brabant (Arrêt De Courtoisie)',45.531081,-75.4702
+7117,'7117','Montréal / Brabant (Arrêt De Courtoisie)',45.530946,-75.470058
+7118,'7118','Montréal / Brabant (Arrêt De Courtoisie)',45.532372,-75.462552
+7119,'7119','Montréal / Brabant (Arrêt De Courtoisie)',45.532184,-75.462435
+7120,'7120','Montréal / Brabant (Arrêt De Courtoisie)',45.534531,-75.453848
+7121,'7121','Montréal / Brabant (Arrêt De Courtoisie)',45.534361,-75.453693
+7122,'7122','Montréal / Brabant (Arrêt De Courtoisie)',45.537561,-75.443344
+7123,'7123','Montréal / Brabant (Arrêt De Courtoisie)',45.537444,-75.443266
+7124,'7124','Montréal / Kendall (Arrêt De Courtoisie)',45.540374,-75.435168
+7125,'7125','Montréal / Kendall (Arrêt De Courtoisie)',45.540239,-75.434988
 7130,'7130','Pink / Klock (Arrêt De Courtoisie)',45.441598,-75.823412
 7131,'7131','Pink / Kolck (Arrêt De Courtoisie)',45.441355,-75.823383
 7132,'7132','Pink / Klock (Arrêt De Courtoisie)',45.441009,-75.832635
@@ -1904,7 +1904,7 @@
 7186,'7186','Mgne / Pink (Arrêt De Courtoisie)',45.445299,-75.778365
 7187,'7187','Mgne / Pink (Arrêt De Courtoisie)',45.445391,-75.778059
 7188,'7188','Hochelaga / Brouage (Arrêt De Courtoisie)',45.425062,-75.791726
-7189,'7189','Montagnais / Atholl-Doune D (Arrêt De Courtoisie)',45.415657,-75.788911
+7189,'7189','Montagnais / Atholl-Doune (Arrêt De Courtoisie)',45.415657,-75.788911
 7190,'7190','Port-Royal / St-Malo (Arrêt De Courtoisie)',45.418897,-75.792944
 8010,'8010','Taché-Uqo',45.423973,-75.731812
 8011,'8011','Taché-Uqo',45.423786,-75.732102
@@ -1923,9 +1923,9 @@
 8063,'8063','Ston De La Gappe #2',45.469502,-75.7161
 8070,'8070','Ston Promenades',45.477737,-75.69786
 8071,'8071','Ston Promenades',45.478011,-75.697185
-8080,'8080','Ston De La Cité Sud #3',45.48115,-75.683356
-8081,'8081','Ston De La Cité Nord #1',45.481111,-75.68424
-8083,'8083','Ston De La Cité Nord #2',45.481243,-75.683664
+8080,'8080','Ston De La Cité #3',45.48115,-75.683356
+8081,'8081','Ston De La Cité #1',45.481111,-75.68424
+8083,'8083','Ston De La Cité #2',45.481243,-75.683664
 8090,'8090','Ston Gouin',45.486146,-75.661288
 8091,'8091','Ston Gouin',45.486232,-75.661942
 8501,'8501','Ston Labrosse #1',45.490435,-75.643848
