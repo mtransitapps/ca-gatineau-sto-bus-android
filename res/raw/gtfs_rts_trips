@@ -5,9 +5,9 @@
 1700,0,'Cgp GRoy',17
 1701,0,'Ottawa',17
 2000,0,'Freeman',20
-2001,0,'Ottawa',20
-2100,0,'Freeman',21
-2101,0,'Musée de l''Histoire',21
+2001,0,'Mhistoire',20
+2100,0,'Casino',21
+2101,0,'Ottawa',21
 2201,0,'Ottawa',22
 2200,0,'Plateau',22
 2401,0,'Ottawa',24
@@ -53,7 +53,7 @@
 4800,0,'Lucerne',48
 4801,0,'Ottawa',48
 4900,0,'Cgp GRoy',49
-4901,0,'Rivermead',49
+4901,0,'Gal.Aylmer',49
 5000,0,'Cgp GRoy',50
 5001,0,'P-O-B Allum',50
 5101,0,'Gal.Aylmer',51
@@ -172,15 +172,15 @@
 69602,0,'Col NF',696
 69601,0,'Masson-Angers',696
 73100,0,'Cgp GRoy',731
-73101,0,'Col St-Jo',731
+73101,0,'E Montbleu',731
 73302,0,'ES Mont-Bleu',733
 73301,0,'P-O-B Freeman',733
 73503,0,'Galène / Mineurs',735
 73504,0,'Émond / Gamelin',735
 73702,0,'ES Mont-Bleu',737
 73701,0,'Tsses de la Chaudière',737
+73900,0,'Col St-Jo',739
 73901,0,'ES De L''Île',739
-73900,0,'Plateau',739
 74001,0,'Col St-Jo',740
 74002,0,'Jardins-Lavigne',740
 74900,0,'E Montbleu',749
