@@ -124,79 +124,49 @@
 30000,0,'Labrosse',300
 30001,0,'Ottawa',300
 32503,0,'Col St-Alex',325
-32504,0,'Plateau',325
 32703,0,'Col St-Alex',327
-32704,0,'Hautes-Plaines',327
 33100,0,'Col St-Alex',331
 33303,0,'Col St-Alex',333
-33304,0,'Freeman',333
-33801,0,'Col St-Alex',338
 33903,0,'Col St-Alex',339
 33904,0,'Plateau',339
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
 43901,0,'ES De L''Île',439
-43902,0,'Plateau',439
 47201,0,'Cado',472
 53302,0,'Cité des jeunes',533
-53301,0,'Promenades',533
-53903,0,'Col NF',539
 53904,0,'Col St-Jo',539
 56402,0,'Col NF',564
-56401,0,'Promenades',564
 62501,0,'ES De L''Île',625
-62502,0,'Pink / Conservatoire',625
 62701,0,'ES De L''Île',627
 62901,0,'ES De L''Île',629
 62902,0,'Le Manoir',629
 63304,0,'ES De L''Île',633
-63303,0,'Freeman',633
 63701,0,'ES De L''Île',637
-63702,0,'St-Joseph',637
 64900,0,'E Montbleu',649
 64901,0,'Rivermead',649
 65002,0,'ES G Rivière',650
-65001,0,'Pink / Conservatoire',650
 65102,0,'ES G Rivière',651
-65101,0,'Rivermead',651
 65302,0,'ES G Rivière',653
-65301,0,'Rivermead',653
 65402,0,'ES G Rivière',654
-65401,0,'Parc Champlain',654
 66604,0,'Col NF',666
-66603,0,'Mont-Luc',666
 67102,0,'Col NF',671
-67101,0,'Labrosse',671
 67602,0,'Col NF',676
-67601,0,'Labrosse',676
 69602,0,'Col NF',696
-69601,0,'Masson-Angers',696
 73100,0,'Cgp GRoy',731
-73101,0,'E Montbleu',731
+73101,0,'ES De L''Île',731
 73302,0,'ES Mont-Bleu',733
-73301,0,'P-O-B Freeman',733
 73503,0,'Galène / Mineurs',735
 73504,0,'Émond / Gamelin',735
 73702,0,'ES Mont-Bleu',737
-73701,0,'Tsses de la Chaudière',737
-73900,0,'Col St-Jo',739
 73901,0,'ES De L''Île',739
 74001,0,'Col St-Jo',740
-74002,0,'Jardins-Lavigne',740
 74900,0,'E Montbleu',749
-74901,0,'Rivermead',749
 75102,0,'ES G Rivière',751
-75101,0,'Rivermead',751
 75302,0,'ES G Rivière',753
-75301,0,'Lucerne / Robert-Sterward',753
 75402,0,'ES G Rivière',754
-75401,0,'McConnell / Vanier',754
 76704,0,'ES De L''Île',767
-76703,0,'P-O-B Les Promenades',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
 82901,0,'E Montbleu',829
 83903,0,'ES Mont-Bleu',839
 83904,0,'Taché / St-Joseph',839
-84901,0,'Rivermead',849
-85001,0,'College Nf',850
