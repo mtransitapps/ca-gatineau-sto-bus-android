@@ -6,8 +6,6 @@
 1701,0,'Ottawa',17
 2000,0,'Freeman',20
 2001,0,'Mhistoire',20
-2100,0,'Casino',21
-2101,0,'Ottawa',21
 2201,0,'Ottawa',22
 2200,0,'Plateau',22
 2401,0,'Ottawa',24
@@ -123,12 +121,6 @@
 20001,0,'Ottawa',200
 30000,0,'Labrosse',300
 30001,0,'Ottawa',300
-32503,0,'Col St-Alex',325
-32703,0,'Col St-Alex',327
-33100,0,'Col St-Alex',331
-33303,0,'Col St-Alex',333
-33903,0,'Col St-Alex',339
-33904,0,'Plateau',339
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
 43901,0,'ES De L''Île',439
@@ -167,6 +159,13 @@
 76704,0,'ES De L''Île',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
+80401,0,'Lansdowne',804
+81301,0,'Nav.Cirque / Mosaïcanada',813
 82901,0,'E Montbleu',829
 83903,0,'ES Mont-Bleu',839
 83904,0,'Taché / St-Joseph',839
+85901,0,'Lansdowne',859
+87003,0,'Arena Guertin',870
+87004,0,'Laurier / Allumettières',870
+95002,0,'Front / Harvey',950
+95001,0,'Galerie Aylmer',950
