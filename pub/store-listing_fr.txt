@@ -5,7 +5,7 @@ Autobus STO de Gatineau pour MonTransit.
 Horaires. Info-Réseau. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 20 juin 2017 au 27 août 2017.
+Horaires du 24 juin 2017 au 27 août 2017.
 Info-Réseau de sto.ca.
 Nouvelles de @STOGatineau (à partir de janvier 2016).
 ----------
