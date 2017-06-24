@@ -151,7 +151,6 @@
 1206,'1206','Belmont / Glenwood',45.39009,-75.828745
 1207,'1207','Glenwood / Montgomery',45.391007,-75.826522
 1208,'1208','Belmont / Winston-Churchill',45.391071,-75.829998
-1209,'1209','Elizabeth / Bordeaux',45.392746,-75.834929
 1210,'1210','Belmont / Winston-Churchill',45.391429,-75.830387
 1220,'1220','Chemin D''aylmer / Colline',45.395556,-75.832172
 1222,'1222','Chemin D''aylmer / Colline',45.39573,-75.833056
@@ -160,11 +159,8 @@
 1230,'1230','Chemin D''aylmer / Samuel-Edey',45.396129,-75.827734
 1232,'1232','Chemin D''aylmer / Samuel-Edey',45.396002,-75.827745
 1234,'1234','Chemin D''aylmer / Fraser',45.396301,-75.825105
-1236,'1236','Fraser / Christophe-Colomb',45.395883,-75.824409
 1238,'1238','Fraser / Chemin D''aylmer',45.395704,-75.824215
-1240,'1240','Fraser / Elgin',45.393968,-75.8241
 1242,'1242','Fraser / Holmes',45.393636,-75.823929
-1244,'1244','Fraser / Nelson-Morin',45.392196,-75.82387
 1246,'1246','Fraser / Glenwood',45.391603,-75.82367
 1247,'1247','Fraser / Riopelle',45.387431,-75.823009
 1248,'1248','Fraser / Chapel',45.390128,-75.823584
@@ -198,7 +194,6 @@
 1295,'1295','Manoirs / Mc Connell',45.413549,-75.795668
 1296,'1296','Chemin D''aylmer / Fraser',45.396272,-75.824057
 1297,'1297','Chemin D''aylmer / Vanier',45.400828,-75.805022
-1298,'1298','Lucerne / Robert-Steward',45.388959,-75.798005
 1301,'1301','Rivermead / Émile-Zola',45.411307,-75.794422
 1302,'1302','Rivermead / Émile-Zola',45.410859,-75.794211
 1303,'1303','Vanier / Kilroy',45.439038,-75.819002
@@ -290,7 +285,6 @@
 1421,'1421','Vanier / Chemin D''aylmer',45.399716,-75.806273
 1423,'1423','Allumettières / Champignons',45.410058,-75.843171
 1424,'1424','Wilfrid-Lavigne / Maurice-Duplessis',45.419855,-75.845119
-1425,'1425','Maurice-Duplessis / Wilfrid-Lavigne',45.419941,-75.845631
 1426,'1426','Wilfrid-Lavigne / Jean-Lesage',45.418055,-75.845066
 1427,'1427','Wilfrid-Lavigne / Jean-Lesage',45.418147,-75.844838
 1428,'1428','Wilfrid-Lavigne / Bois Franc',45.41672,-75.843014
@@ -302,8 +296,6 @@
 1434,'1434','Wilfrid-Lavigne / Verger',45.413415,-75.839578
 1435,'1435','Wilfrid-Lavigne / Maquis',45.412608,-75.839094
 1436,'1436','Wilfrid-Lavigne / Allumettières',45.41117,-75.838855
-1437,'1437','Maurice-Duplessis / Klock',45.41955,-75.849856
-1439,'1439','Maurice-Duplessis / Jean-Lesage',45.419621,-75.849985
 1441,'1441','Klock / Clématite',45.415856,-75.850312
 1442,'1442','Klock / Clématite',45.415764,-75.850464
 1444,'1444','Samuel-Edey / Paysans',45.409618,-75.829465
@@ -331,8 +323,6 @@
 1471,'1471','Klock / Allumettières',45.410371,-75.84954
 1472,'1472','Klock / Verger',45.412257,-75.850015
 1473,'1473','Klock / Verger',45.412438,-75.849864
-1475,'1475','Prado / Pink',45.442565,-75.803952
-1479,'1479','Prado / Beaux-Arts',45.437611,-75.804483
 1500,'1500','Victor-Beaudry / Norval-Jones',45.386693,-75.813072
 1501,'1501','Victor-Beaudry / Norval-Jones',45.386874,-75.812909
 1502,'1502','Victor-Beaudry / Guilford-Booth',45.39064,-75.814969
@@ -769,13 +759,10 @@
 2683,'2683','Dussault / Notre-Dame-De-L''île',45.440582,-75.709165
 2684,'2684','Laurier / Dussault',45.439995,-75.708071
 2690,'2690','Allumettières / Champlain',45.432194,-75.712026
-2691,'2691','Allumettières / Maisonneuve',45.432617,-75.713399
 2692,'2692','Maisonneuve / Allumettières',45.433001,-75.712496
 2693,'2693','Maisonneuve / Verdun',45.43471,-75.712645
 2694,'2694','Allumettières / Kent',45.432441,-75.715596
 2695,'2695','Maisonneuve / Verdun',45.434352,-75.71227
-2696,'2696','Allumettières / Ste-Hélène',45.432746,-75.715791
-2698,'2698','Allumettières / Isidore-Ostiguy',45.432614,-75.718206
 2699,'2699','Allumettières / Kent',45.432441,-75.715596
 2702,'2702','Allumettières / St-Rédempteur',45.432215,-75.721486
 2703,'2703','Allumettières / St-Rédempteur',45.432133,-75.721626
@@ -866,12 +853,6 @@
 2814,'2814','Grives / Vaudaire',45.44699,-75.789015
 2815,'2815','Grives / Chinook',45.448876,-75.789629
 2816,'2816','Grives / Mgne',45.450318,-75.789407
-2817,'2817','Amérique-Française / Art Moderne',45.435976,-75.806582
-2818,'2818','Amérique-Française / Art Moderne',45.436152,-75.807057
-2819,'2819','Amérique-Française / Art Moderne',45.437042,-75.808528
-2820,'2820','Amérique-Française / Art Moderne',45.437133,-75.808375
-2821,'2821','Conservatoire / Glenbow',45.438871,-75.809564
-2822,'2822','Conservatoire / Glenbow',45.439193,-75.809798
 2823,'2823','Grives / Alizés',45.445212,-75.785691
 2824,'2824','Grives / Vaudaire',45.447007,-75.789079
 2825,'2825','Grives / Chinook',45.449091,-75.789684
@@ -1019,8 +1000,6 @@
 3368,'3368','Av Gatineau / Touraine',45.480205,-75.723685
 3369,'3369','Av Gatineau / Touraine',45.480188,-75.723532
 3370,'3370','Barry / Vérendrye',45.48746,-75.712107
-3374,'3374','Touraine / Marseille',45.48053,-75.720721
-3375,'3375','Touraine / Auvergne',45.479118,-75.720511
 3376,'3376','Av Gatineau / Touraine',45.482095,-75.720894
 3378,'3378','Av Gatineau / Bernay',45.482613,-75.720069
 3381,'3381','Av Gatineau / Vérendrye',45.488564,-75.718469
@@ -1434,7 +1413,6 @@
 4138,'4138','Maloney Ouest / Elm',45.483767,-75.652406
 4139,'4139','Maloney Ouest / Oak',45.483526,-75.653465
 4141,'4141','Maloney / Broadway',45.484065,-75.648941
-4147,'4147','Maloney Est / Labrosse',45.484833,-75.638892
 4150,'4150','Maloney Est / Sabourin',45.4846,-75.632159
 4152,'4152','Maloney Est / Alonzo-Carrière',45.484609,-75.630547
 4154,'4154','Maloney Est / Côtéville',45.484255,-75.629596
@@ -1535,8 +1513,6 @@
 4362,'4362','Gappe / Cité',45.483799,-75.682298
 4370,'4370','Maloney Est / Vieux-Port',45.502499,-75.564326
 4371,'4371','Maloney Est / Vieux-Port',45.502482,-75.56421
-4374,'4374','Gappe / Alliance',45.479351,-75.697419
-4376,'4376','Gappe / Bellehumeur',45.480075,-75.693884
 4378,'4378','Maloney Est / Aéroport',45.504312,-75.561784
 4379,'4379','Maloney Est / Aéroport',45.503851,-75.562202
 4380,'4380','Gréber / Bienvenue',45.483924,-75.701826
@@ -1598,7 +1574,6 @@
 4446,'4446','Maloney Est / Fleur-De-Lys',45.501611,-75.565443
 4447,'4447','Labrosse / Davidson',45.507804,-75.643684
 4448,'448','Labrosse / Davidson',45.508615,-75.643604
-4450,'4450','Hôpital / Oasis',45.492688,-75.68897
 4451,'4451','Hôpital / Oasis',45.493271,-75.689297
 4452,'4452','Hôpital / Mont-Royal',45.497048,-75.689907
 4453,'4453','Hôpital / Mont-Royal',45.496417,-75.690014
