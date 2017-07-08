@@ -81,8 +81,8 @@
 6601,0,'Gappe',66
 6700,0,'Cité',67
 6701,0,'Ottawa',67
+6800,0,'Affaires',68
 6801,0,'Cgp GRoy',68
-6800,0,'Labrosse',68
 6901,0,'Gappe',69
 6900,0,'Gd Jardins',69
 7101,0,'Cité',71
@@ -129,5 +129,3 @@
 80401,0,'Lansdowne',804
 81301,0,'Nav.Cirque / Mosaïcanada',813
 85901,0,'Lansdowne',859
-87003,0,'Arena Guertin',870
-87004,0,'Laurier / Allumettières',870
