@@ -41,7 +41,7 @@
 3800,0,'Freeman',38
 3801,0,'Ottawa',38
 3900,0,'Freeman',39
-3901,0,'Ottawa',39
+3901,0,'Plateau',39
 4000,0,'Jlavigne',40
 4001,0,'Ottawa',40
 4101,0,'Ottawa',41
@@ -202,7 +202,6 @@
 76703,0,'P-O-B Les Promenades',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
-80401,0,'Lansdowne',804
 80701,0,'Montgolfières-Nav',807
 80700,0,'Promenades-Nav',807
 81101,0,'Montgolfières-Nav',811
@@ -214,6 +213,5 @@
 83904,0,'Taché / St-Joseph',839
 84901,0,'Rivermead',849
 85001,0,'College Nf',850
-85901,0,'Lansdowne',859
 90400,0,'Labrosse',904
 90401,0,'Montgolfières-Nav',904
