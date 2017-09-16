@@ -337,6 +337,7 @@
 1478,'1478','Prado / Beaux-Arts',45.437555,-75.804648
 1479,'1479','Prado / Beaux-Arts',45.437611,-75.804483
 1485,'1485','Samuel-Edey / Mcconnell',45.411153,-75.829514
+1486,'1486','Samuel-Edey / Mcconnell',45.411151,-75.829698
 1500,'1500','Victor-Beaudry / Norval-Jones',45.386693,-75.813072
 1501,'1501','Victor-Beaudry / Norval-Jones',45.386874,-75.812909
 1502,'1502','Victor-Beaudry / Guilford-Booth',45.39064,-75.814969
@@ -1883,9 +1884,8 @@
 7150,'7150','Perry / Cook (Arrêt De Courtoisie)',45.453583,-75.883159
 7151,'7151','Perry / Chevreuils (Arrêt De Courtoisie)',45.458188,-75.88364
 7152,'7152','Perry / Ravin (Arrêt De Courtoisie)',45.462675,-75.884183
-7153,'7153','Saisons / Ravin (Arrêt De Courtoisie)',45.464482,-75.887883
-7154,'7154','Saisons / Ravin (Arrêt De Courtoisie)',45.458791,-75.887013
-7155,'7155','Chevreuils / Saisons (Arrêt De Courtoisie)',45.455461,-75.884736
+7153,'7153','Gande-Allée / Saisons (Arrêt De Courtoisie)',45.464198,-75.890201
+7154,'7154','Grande Allée / Saisons (Arrêt De Courtoisie)',45.455361,-75.889181
 7156,'7156','Cook / Boisvert (Arrêt De Courtoisie)',45.4527,-75.877403
 7157,'7157','Cook / Boisvert (Arrêt De Courtoisie)',45.452942,-75.87747
 7158,'7158','Cook / Boisvert (Arrêt De Courtoisie)',45.453122,-75.870529

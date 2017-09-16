@@ -202,10 +202,6 @@
 76703,0,'P-O-B Les Promenades',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
-80701,0,'Montgolfières-Nav',807
-80700,0,'Promenades-Nav',807
-81101,0,'Montgolfières-Nav',811
-81100,0,'Nav-Cas / Plat / Ayl',811
 81304,0,'Musée de l''Histoire',813
 81303,0,'Robert Guertin Ctr',813
 82901,0,'E Montbleu',829
@@ -213,5 +209,3 @@
 83904,0,'Taché / St-Joseph',839
 84901,0,'Rivermead',849
 85001,0,'College Nf',850
-90400,0,'Labrosse',904
-90401,0,'Montgolfières-Nav',904
