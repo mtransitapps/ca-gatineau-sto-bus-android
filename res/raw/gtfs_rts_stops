@@ -1580,8 +1580,8 @@
 4403,'4403','Ernest-Gaboury / Outaouais',45.487731,-75.697394
 4404,'4404','Labrosse / A-Gibeault',45.505079,-75.643269
 4405,'4405','Labrosse / A-Gibeault',45.505836,-75.643201
-4406,'4406','Davidson / Castagnier',45.508705,-75.640302
-4407,'4407','Davidson / Castagnier',45.508615,-75.640288
+4406,'4406','Davidson / Castagnier',45.5087,-75.640404
+4407,'4407','Davidson / Castagnier',45.508589,-75.640134
 4408,'4408','Davidson / Duparquet',45.508425,-75.637367
 4409,'4409','Davidson / Duparquet',45.5086,-75.638111
 4410,'4410','Davidson / A-Gibeault',45.506719,-75.636464
@@ -1613,7 +1613,7 @@
 4445,'4445','Maloney Est / Fleur-De-Lys',45.501039,-75.566436
 4446,'4446','Maloney Est / Fleur-De-Lys',45.501611,-75.565443
 4447,'4447','Labrosse / Davidson',45.507804,-75.643684
-4448,'448','Labrosse / Davidson',45.508615,-75.643604
+4448,'4448','Labrosse / Davidson',45.508615,-75.643604
 4450,'4450','Hôpital / Oasis',45.492688,-75.68897
 4451,'4451','Hôpital / Oasis',45.493271,-75.689297
 4452,'4452','Hôpital / Mont-Royal',45.497048,-75.689907

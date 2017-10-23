@@ -7,7 +7,7 @@
 1800,0,'Labrosse',18
 1801,0,'Pré-Tunney',18
 2000,0,'Freeman',20
-2001,0,'Mhistoire',20
+2001,0,'Ottawa',20
 2201,0,'Ottawa',22
 2200,0,'Plateau',22
 2301,0,'Ottawa',23
@@ -160,7 +160,7 @@
 63303,0,'Freeman',633
 63701,0,'ES De L''Île',637
 63702,0,'St-Joseph',637
-64900,0,'E Montbleu',649
+64900,0,'ES Mont-Bleu',649
 64901,0,'Rivermead',649
 65002,0,'ES G Rivière',650
 65001,0,'Pink / Conservatoire',650
@@ -202,10 +202,8 @@
 76703,0,'P-O-B Les Promenades',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
-81304,0,'Musée de l''Histoire',813
-81303,0,'Robert Guertin Ctr',813
 82901,0,'E Montbleu',829
 83903,0,'ES Mont-Bleu',839
 83904,0,'Taché / St-Joseph',839
-84901,0,'Rivermead',849
+84901,0,'College Nf',849
 85001,0,'College Nf',850
