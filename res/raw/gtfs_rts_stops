@@ -290,7 +290,6 @@
 1421,'1421','Vanier / Chemin D''aylmer',45.399716,-75.806273
 1423,'1423','Allumettières / Champignons',45.410058,-75.843171
 1424,'1424','Wilfrid-Lavigne / Maurice-Duplessis',45.419855,-75.845119
-1425,'1425','Maurice-Duplessis / Wilfrid-Lavigne',45.419941,-75.845631
 1426,'1426','Wilfrid-Lavigne / Jean-Lesage',45.418055,-75.845066
 1427,'1427','Wilfrid-Lavigne / Jean-Lesage',45.418147,-75.844838
 1428,'1428','Wilfrid-Lavigne / Bois Franc',45.41672,-75.843014
@@ -302,8 +301,6 @@
 1434,'1434','Wilfrid-Lavigne / Verger',45.413415,-75.839578
 1435,'1435','Wilfrid-Lavigne / Maquis',45.412608,-75.839094
 1436,'1436','Wilfrid-Lavigne / Allumettières',45.41117,-75.838855
-1437,'1437','Maurice-Duplessis / Klock',45.41955,-75.849856
-1439,'1439','Maurice-Duplessis / Jean-Lesage',45.419621,-75.849985
 1441,'1441','Klock / Clématite',45.415856,-75.850312
 1442,'1442','Klock / Clématite',45.415764,-75.850464
 1444,'1444','Samuel-Edey / Paysans',45.409618,-75.829465
@@ -373,7 +370,7 @@
 2058,'2058','Alexandre-Taché / Coopération',45.422973,-75.737986
 2060,'2060','Alexandre-Taché / Coopération',45.422798,-75.738622
 2064,'2064','Alexandre-Taché / St-Joseph',45.423431,-75.732674
-2065,'2065','Alexandre-Taché / St-Joseph',45.42347,-75.733683
+2065,'2065','Alexandre-Taché / St-Joseph',45.423589,-75.732474
 2066,'2066','St-Joseph / Châtelain',45.424137,-75.733425
 2068,'2068','St-Joseph / Châtelain',45.424586,-75.733622
 2070,'2070','St-Joseph / Duquesne',45.425848,-75.733383
@@ -693,7 +690,6 @@
 2542,'2542','St-Raymond / Trembles',45.426201,-75.76183
 2543,'2543','St-Raymond / Capucines',45.420331,-75.760754
 2545,'2545','St-Raymond / Jonquilles',45.422424,-75.761383
-2546,'2546','Alexandre-Taché / Millar',45.423817,-75.728576
 2547,'2547','St-Raymond / Jonquilles',45.423191,-75.761086
 2548,'2548','Alexandre-Taché / Front',45.423989,-75.728386
 2549,'2549','Carrière / Casino',45.450537,-75.729278
@@ -1061,7 +1057,7 @@
 3433,'3433','St-Louis / Cartier',45.485914,-75.742889
 3434,'3434','St-Louis / Pont Alonzo-Wright',45.487921,-75.745744
 3435,'3435','St-Louis / Cartier',45.486364,-75.742997
-3438,'3438','Pont Alonzo-Wright / St-Louis',45.4881,-75.747243
+3438,'3438','Pont Alonzo- Wright / St-Louis',45.4881,-75.747243
 3440,'3440','St-Louis / Lebaudy',45.488948,-75.746909
 3442,'3442','St-Louis / Lebaudy',45.489461,-75.748285
 3446,'3446','St-Louis / Moulin',45.491085,-75.750495
