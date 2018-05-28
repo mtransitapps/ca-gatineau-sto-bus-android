@@ -346,7 +346,7 @@
 1521,'1521','Bordeaux / Malbec',45.394633,-75.835276
 2000,'2000','Alexandre-Taché / St-Raymond',45.41839,-75.758938
 2002,'2002','Alexandre-Taché / St-Raymond',45.417664,-75.759785
-2004,'2004','Alexandre-Taché / St-Raymond',45.420133,-75.753964
+2004,'2004','Alexandre-Taché / St-Dominique',45.420133,-75.753964
 2006,'2006','Alexandre-Taché / St-Dominique',45.419954,-75.75377
 2007,'2007','Lucerne / St-Dominique',45.419655,-75.753946
 2008,'2008','Cegep Gabrielle-Roy/',45.458696,-75.767392
@@ -1938,5 +1938,6 @@
 9030,'9030','Pink / Auguste-Mondoux',45.442063,-75.816297
 9036,'9036','Fictif Grande Riv.',45.402738,-75.844582
 9037,'9037','Fictif Grande Riv.',45.402727,-75.844838
+9603,'9603','École St-Alexandre',45.492611,-75.749993
 9735,'9735','Terminus La Gappe',45.468865,-75.716299
 9737,'9737','Quai Local De La Gappe #6',45.468629,-75.716629
