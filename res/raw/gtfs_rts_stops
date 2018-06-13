@@ -290,6 +290,7 @@
 1421,'1421','Vanier / Chemin D''aylmer',45.399716,-75.806273
 1423,'1423','Allumettières / Champignons',45.410058,-75.843171
 1424,'1424','Wilfrid-Lavigne / Maurice-Duplessis',45.419855,-75.845119
+1425,'1425','Maurice-Duplessis / Wilfrid-Lavigne',45.419941,-75.845631
 1426,'1426','Wilfrid-Lavigne / Jean-Lesage',45.418055,-75.845066
 1427,'1427','Wilfrid-Lavigne / Jean-Lesage',45.418147,-75.844838
 1428,'1428','Wilfrid-Lavigne / Bois Franc',45.41672,-75.843014
@@ -301,6 +302,7 @@
 1434,'1434','Wilfrid-Lavigne / Verger',45.413415,-75.839578
 1435,'1435','Wilfrid-Lavigne / Maquis',45.412608,-75.839094
 1436,'1436','Wilfrid-Lavigne / Allumettières',45.41117,-75.838855
+1437,'1437','Maurice-Duplessis / Klock',45.41955,-75.849856
 1441,'1441','Klock / Clématite',45.415856,-75.850312
 1442,'1442','Klock / Clématite',45.415764,-75.850464
 1444,'1444','Samuel-Edey / Paysans',45.409618,-75.829465
@@ -1539,10 +1541,6 @@
 4362,'4362','Gappe / Cité',45.483799,-75.682298
 4370,'4370','Maloney Est / Vieux-Port',45.502499,-75.564326
 4371,'4371','Maloney Est / Vieux-Port',45.502482,-75.56421
-4374,'4374','Gappe / Alliance',45.479351,-75.697419
-4375,'4375','Gappe / Alliance',45.479021,-75.698349
-4376,'4376','Gappe / Bellehumeur',45.480075,-75.693884
-4377,'4377','Gappe / Bellehumeur',45.480167,-75.693475
 4378,'4378','Maloney Est / Aéroport',45.504312,-75.561784
 4379,'4379','Maloney Est / Aéroport',45.503851,-75.562202
 4380,'4380','Gréber / Bienvenue',45.483924,-75.701826
