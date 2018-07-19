@@ -28,8 +28,8 @@
 3101,0,'Ottawa',31
 3200,0,'Cgp GRoy',32
 3201,0,'Ottawa',32
-3301,0,'Cgp GRoy',33
 3300,0,'Cité',33
+3301,0,'Ottawa',33
 3401,0,'Ottawa',34
 3400,0,'Plateau',34
 3500,0,'Galène',35
@@ -42,7 +42,7 @@
 3801,0,'Ottawa',38
 3900,0,'Freeman',39
 3901,0,'Plateau',39
-4000,0,'Jlavigne',40
+4000,0,'JLavigne',40
 4001,0,'Ottawa',40
 4101,0,'Ottawa',41
 4100,0,'P-O-B Allum',41
@@ -109,7 +109,7 @@
 7801,0,'Labrosse',78
 7904,0,'Labrosse',79
 7903,0,'Lorrain',79
-8500,0,'Coteneige',85
+8500,0,'Côtes-Des-Neiges',85
 8501,0,'Ottawa',85
 8700,0,'Cité',87
 8701,0,'Pl.Accueil',87
@@ -136,7 +136,7 @@
 47201,0,'Cado',472
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
-80401,0,'Lansdowne',804
+80401,0,'Rouge & Noir',804
 82400,0,'Grands-Feux-Nav',824
-85901,0,'Lansdowne',859
-87004,0,'Laurier / Allumettières',870
+85901,0,'Rouge & Noir',859
+87004,0,'Laurier / Allum',870
