@@ -142,7 +142,6 @@
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
 43400,0,'ES De L''Île',434
-43401,0,'Plateau',434
 47201,0,'Cado',472
 53301,0,'Cité',533
 53302,0,'Col NF',533
@@ -151,13 +150,10 @@
 56402,0,'Col NF',564
 56401,0,'Les Promenades',564
 62501,0,'ES De L''Île',625
-62502,0,'Pink / Conservatoire',625
 62701,0,'ES De L''Île',627
 62901,0,'ES De L''Île',629
 62902,0,'Le Manoir',629
-63303,0,'Freeman',633
 63701,0,'ES De L''Île',637
-63702,0,'St-Joseph',637
 64900,0,'ES Mont-Bleu',649
 64901,0,'Plateau',649
 65002,0,'ES G Rivière',650
@@ -181,7 +177,6 @@
 73302,0,'Cgp GRoy',733
 73301,0,'ES De L''Île',733
 73400,0,'ES De L''Île',734
-73401,0,'Tsses Chaudière',734
 73504,0,'ES De L''Île',735
 73503,0,'Galène / Mineurs',735
 73701,0,'ES De L''Île',737
@@ -197,13 +192,12 @@
 75402,0,'ES G Rivière',754
 75401,0,'McConnell / Vanier',754
 76704,0,'ES De L''Île',767
-76703,0,'P-O-B Les Promenades',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
 80401,0,'Rouge & Noir',804
 82900,0,'ES De L''Île',829
 83400,0,'ES De L''Île',834
 83401,0,'Taché / St-Joseph',834
-84901,0,'College Nf',849
-85001,0,'College Nf',850
+84901,0,'Col NF',849
+85001,0,'Col NF',850
 85901,0,'Lansdowne',859
