@@ -158,8 +158,8 @@
 63303,0,'Freeman',633
 63701,0,'ES De L''Île',637
 63702,0,'St-Joseph',637
-64901,0,'Asticou Ctr',649
 64900,0,'ES Mont-Bleu',649
+64901,0,'Plateau',649
 65002,0,'ES G Rivière',650
 65001,0,'Pink / Conservatoire',650
 65102,0,'ES G Rivière',651
@@ -180,17 +180,17 @@
 73101,0,'E Montbleu',731
 73200,0,'Asticou Ctr',732
 73201,0,'Isabelle / Richard',732
-73300,0,'Asticou Ctr',733
 73301,0,'Freeman',733
+73300,0,'Plateau',733
 73400,0,'ES De L''Île',734
 73401,0,'Tsses Chaudière',734
-73501,0,'Col NF',735
 73500,0,'Galène / Mineurs',735
+73501,0,'Plateau',735
 73700,0,'Asticou Ctr',737
-73701,0,'Tsses Chaudière',737
+73701,0,'Plateau',737
 74001,0,'Col St-Jo',740
 74002,0,'JLavigne',740
-74900,0,'Asticou Ctr',749
+74900,0,'Plateau',749
 74901,0,'Rivermead',749
 75102,0,'ES G Rivière',751
 75101,0,'Rivermead',751
@@ -202,8 +202,8 @@
 76703,0,'P-O-B Les Promenades',767
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
-82901,0,'Bienvenue',829
-83400,0,'Asticou Ctr',834
+82901,0,'E Montbleu',829
+83400,0,'Plateau',834
 83401,0,'Taché / St-Joseph',834
 84901,0,'Col NF',849
 85001,0,'P-O-B Allum',850
