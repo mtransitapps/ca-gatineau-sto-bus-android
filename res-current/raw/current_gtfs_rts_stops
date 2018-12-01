@@ -46,9 +46,9 @@
 1058,'1058','Vanier / Attikameks',45.413188,-75.808609
 1059,'1059','Vanier / Attikameks',45.413639,-75.808436
 1061,'1061','Vanier / Antoine-Boucher',45.426643,-75.815282
-1064,'1064','Principale / Broad',45.395117,-75.843
+1064,'1064','Principale / Broad',45.395105,-75.843445
 1066,'1066','Principale / Broad',45.395021,-75.842551
-1068,'1068','Frank-Robinson / Principale',45.394683,-75.840783
+1068,'1068','Frank-Robinson / Principale',45.394911,-75.840816
 1072,'1072','Wilfrid-Lavigne / Principale',45.39596,-75.838502
 1073,'1073','Wilfrid-Lavigne / Principale',45.397763,-75.83812
 1074,'1074','Wilfrid-Lavigne / Principale',45.396413,-75.838113
@@ -348,7 +348,7 @@
 1521,'1521','Bordeaux / Malbec',45.394633,-75.835276
 2000,'2000','Alexandre-Taché / St-Raymond',45.41839,-75.758938
 2002,'2002','Alexandre-Taché / St-Raymond',45.417664,-75.759785
-2004,'2004','Alexandre-Taché / St-Dominique',45.420099,-75.754183
+2004,'2004','Alexandre-Taché / St-Dominique',45.420076,-75.754182
 2006,'2006','Alexandre-Taché / St-Dominique',45.419954,-75.75377
 2007,'2007','Lucerne / St-Dominique',45.419655,-75.753946
 2008,'2008','Cegep Gabrielle-Roy/',45.458696,-75.767392
@@ -626,7 +626,7 @@
 2430,'2430','Gamelin / Moussette',45.443247,-75.743096
 2434,'2434','Gamelin / Moussette',45.443334,-75.74366
 2436,'2436','Gamelin / Richelieu',45.443537,-75.739993
-2438,'2438','Gamelin / Richelieu',45.443491,-75.738829
+2438,'2438','Gamelin / Richelieu',45.443507,-75.738437
 2440,'2440','Gamelin / Joffre',45.443643,-75.737577
 2442,'2442','Gamelin / Berri',45.443566,-75.735492
 2446,'2446','Gamelin / St-Joseph',45.443848,-75.733667
@@ -1744,8 +1744,8 @@
 4670,'4670','Forteresse / Trois-Moulins',45.532673,-75.483289
 4671,'4671','Forteresse / Neuville',45.535193,-75.483439
 4672,'4672','Forteresse / Neuville',45.535102,-75.48363
-4689,'4689','Lépine / Findlay',45.575784,-75.398157
-4690,'4690','Lépine / Findlay',45.575937,-75.397992
+4689,'4689','Lépine / Findlay',45.575772,-75.39803
+4690,'4690','Lépine / Findlay',45.575899,-75.398311
 4691,'4691','Affaires / Entreprises',45.513774,-75.654455
 4692,'4692','Affaires / Entreprises',45.51401,-75.654074
 4693,'4693','Affaires / Labrosse',45.514577,-75.646104
@@ -1940,3 +1940,4 @@
 9036,'9036','Fictif Grande Riv.',45.402738,-75.844582
 9037,'9037','Fictif Grande Riv.',45.402727,-75.844838
 9603,'9603','École St-Alexandre',45.492611,-75.749993
+9735,'9735','Terminus La Gappe',45.468865,-75.716299
