@@ -7,8 +7,6 @@
 1006,'1006','Front / Pearson',45.402948,-75.855114
 1007,'1007','Allumettières / Broad',45.409655,-75.848941
 1009,'1009','Allumettières / Klock',45.4098,-75.850068
-1011,'1011','Allumettières / Eardley',45.408999,-75.86318
-1013,'1013','Allumettières / Eardley',45.40873,-75.863099
 1014,'1014','Brook / John',45.398118,-75.855859
 1016,'1016','Brook / Metcalfe',45.398072,-75.857162
 1017,'1017','Beaulac / Canotage',45.400808,-75.864333
@@ -76,7 +74,7 @@
 1102,'1102','Broad / Wright',45.408756,-75.848825
 1103,'1103','Broad / Wright',45.408847,-75.848622
 1106,'1106','Broad / Louis-St-Laurent',45.407258,-75.846822
-1107,'1107','Broad / Louis-St-Laurent',45.407223,-75.846719
+1107,'1107','Broad / Louis-St-Laurent',45.407277,-75.846672
 1108,'1108','Front / Allumettières',45.410318,-75.856529
 1109,'1109','Front / Allumettières',45.410316,-75.856861
 1110,'1110','Front / Verger',45.412749,-75.856425
@@ -242,7 +240,7 @@
 1348,'1348','Chemin D''aylmer / Morley-Walters',45.401297,-75.803135
 1350,'1350','Chemin D''aylmer / Morley-Walters',45.401617,-75.802873
 1352,'1352','Chemin D''aylmer / Castelbeau',45.402861,-75.799261
-1354,'1354','Chemin D''aylmer / Vanier',45.399965,-75.807385
+1354,'1354','Chemin D''aylmer / Vanier',45.400081,-75.807096
 1355,'1355','Chemin D''aylmer / Hippodrome',45.402477,-75.799797
 1358,'1358','Chemin D''aylmer / Rivermead',45.404468,-75.794122
 1361,'1361','Chemin D''aylmer / Honfleur',45.406209,-75.789801
@@ -362,7 +360,7 @@
 2014,'2014','Cegep Gabrielle-Roy #4',45.459278,-75.767795
 2015,'2015','Cegep Gabrielle-Roy #5',45.459413,-75.767917
 2022,'2022','Alexandre-Taché / Boudria',45.421158,-75.748558
-2023,'2023','Alexandre-Taché / Ste-Thérèse',45.420635,-75.751463
+2023,'2023','Alexandre-Taché / Ste-Thérèse',45.420678,-75.751254
 2024,'2024','Alexandre-Taché / Boudria',45.421161,-75.748136
 2025,'2025','Alexandre-Taché / Ste-Thérèse',45.420511,-75.751234
 2026,'2026','Alexandre-Taché / Bégin',45.421535,-75.746058
@@ -694,6 +692,7 @@
 2542,'2542','St-Raymond / Trembles',45.426201,-75.76183
 2543,'2543','St-Raymond / Capucines',45.420331,-75.760754
 2545,'2545','St-Raymond / Jonquilles',45.422424,-75.761383
+2546,'2546','Alexandre-Taché / Millar',45.423817,-75.728576
 2547,'2547','St-Raymond / Jonquilles',45.423191,-75.761086
 2548,'2548','Alexandre-Taché / Front',45.423989,-75.728386
 2549,'2549','Carrière / Casino',45.450537,-75.729278
@@ -775,7 +774,7 @@
 2691,'2691','Allumettières / Maisonneuve',45.432617,-75.713399
 2692,'2692','Maisonneuve / Allumettières',45.433001,-75.712496
 2693,'2693','Maisonneuve / Verdun',45.43471,-75.712645
-2694,'2694','Allumettières / Kent',45.432441,-75.715596
+2694,'2694','Allumettières / Kent',45.432441,-75.715608
 2695,'2695','Maisonneuve / Verdun',45.434352,-75.71227
 2696,'2696','Allumettières / Ste-Hélène',45.432746,-75.715791
 2698,'2698','Allumettières / Isidore-Ostiguy',45.432614,-75.718206
@@ -864,7 +863,7 @@
 2808,'2808','Mgne / Brise',45.447846,-75.7823
 2809,'2809','Plateau / Amsterdam',45.431113,-75.805917
 2810,'2810','Plateau / Amsterdam',45.43119,-75.805568
-2813,'2813','Grives / Alizés',45.445212,-75.785691
+2813,'2813','Grives / Alizés',45.44523,-75.785691
 2814,'2814','Grives / Vaudaire',45.44699,-75.789015
 2815,'2815','Grives / Chinook',45.448876,-75.789629
 2816,'2816','Grives / Mgne',45.450318,-75.789407
@@ -1821,11 +1820,6 @@
 5085,'5085','Tunney''s Pasture',45.407731,-75.737059
 5086,'5086','Tunney''s Pasture',45.407736,-75.736382
 5100,'5100','Wellington / Lyon',45.419781,-75.706844
-5104,'5104','Wellington / Lyon',45.420437,-75.704776
-5108,'5108','Bank / Queen',45.420724,-75.701013
-5109,'5109','Bank / Queen',45.420724,-75.701013
-5112,'5112','Ston Lyon',45.419194,-75.705233
-5113,'5113','Ston Lyon',45.419194,-75.705233
 5503,'5503','Pont Alonzo Wright / Route 105',45.483884,-75.750579
 7050,'7050','Érables / Tire (Arrêt De Courtoisie)',45.50243,-75.74454
 7051,'7051','Érables / Tire (Arrêt De Courtoisie)',45.502377,-75.74436
