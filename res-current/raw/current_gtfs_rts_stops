@@ -49,7 +49,6 @@
 1068,'1068','Frank-Robinson / Principale',45.394657,-75.840768
 1072,'1072','Wilfrid-Lavigne / Principale',45.39596,-75.838502
 1073,'1073','Wilfrid-Lavigne / Principale',45.397763,-75.83812
-1074,'1074','Wilfrid-Lavigne / Principale',45.396413,-75.838113
 1075,'1075','Wilfrid-Lavigne / Leguerrier',45.398308,-75.837489
 1076,'1076','Wilfrid-Lavigne / John-Egan',45.399207,-75.837656
 1077,'1077','Galeries Aylmer',45.398711,-75.835221
@@ -436,7 +435,6 @@
 2151,'2151','Terminus Parc-O-Bus Freeman',45.473303,-75.741598
 2153,'2153','Terminus Freeman',45.473334,-75.741389
 2154,'2154','St-Joseph / Juneau',45.475386,-75.742469
-2155,'2155','Freeman / St-Joseph - Temps D''attente',45.473331,-75.741393
 2156,'2156','St-Joseph / Juneau',45.475384,-75.742751
 2161,'2161','Freeman / Audet',45.47296,-75.741695
 2162,'2162','Freeman / Audet',45.472489,-75.746384
@@ -758,6 +756,7 @@
 2653,'2653','Galène / Mineurs',45.474569,-75.783796
 2654,'2654','Sacré-Coeur / Mance',45.437112,-75.717215
 2656,'2656','Sacré-Coeur / Açores',45.436937,-75.716343
+2657,'2657','Sacré-Coeur / Kent',45.437397,-75.713578
 2658,'2658','Sacré-Coeur / Açores',45.437256,-75.715695
 2660,'2660','Sacré-Coeur / Kent',45.437134,-75.713686
 2662,'2662','Sacré-Coeur / Notre-Dame-De-L''île',45.437426,-75.710135
@@ -1093,7 +1092,6 @@
 3488,'3488','Davidson / Nobert',45.506043,-75.66828
 3489,'3489','Nobert / Radmore',45.504289,-75.66808
 3490,'3490','Nobert / Pinot',45.502839,-75.66965
-3491,'3491','Nobert / Sauternes',45.502449,-75.67474
 3492,'3492','Barry / Baron',45.481454,-75.708206
 3493,'3493','Pierre-Lafontaine / Émile-D''auray',45.479073,-75.704657
 3494,'3494','Barry / Baron',45.481706,-75.70826
@@ -1799,14 +1797,12 @@
 4773,'4773','Aréna / Lombard',45.546862,-75.408624
 4774,'4774','Laurentides / Grandpré',45.529916,-75.496469
 4776,'4776','Laurentides / Neuville',45.530113,-75.496689
-5000,'5000','Murray / Mackenzie',45.428504,-75.697214
 5003,'5003','King Edward / St-Patrick',45.432761,-75.689398
-5004,'5004','Murray / Dalhousie',45.430483,-75.691537
 5014,'5014','Rideau / Cumberland',45.427748,-75.688359
 5016,'5016','Rideau / Waller',45.427293,-75.689133
-5022,'5022','Rideau / Sussex',45.42583,-75.692886
-5024,'5024','Rideau / Nicholas',45.42629,-75.691243
-5026,'5026','Mackenzie / Rideau',45.426984,-75.695697
+5022,'5022','Rideau / Sussex',45.426285,-75.691644
+5024,'5024','Rideau / Nicholas',45.425939,-75.692202
+5026,'5026','Mackenzie / Rideau',45.42653,-75.695326
 5030,'5030','Wellington / Metcalfe',45.423622,-75.697806
 5032,'5032','Wellington / Metcalfe',45.423323,-75.698211
 5034,'5034','Wellington / O''connor',45.422852,-75.699595
@@ -1904,8 +1900,6 @@
 7179,'7179','Mgne / Cook (Arrêt De Courtoisie)',45.458209,-75.803982
 7180,'7180','Mgne / Zéphyr (Arrêt De Courtoisie)',45.455471,-75.797753
 7181,'7181','Mgne / Zéphyr (Arrêt De Courtoisie)',45.455681,-75.797296
-7182,'7182','Mgne / Grives',45.45042,-75.787656
-7184,'7184','Mgne / Brise (Arrêt De Courtoisie)',45.448103,-75.782879
 7186,'7186','Mgne / Pink (Arrêt De Courtoisie)',45.445299,-75.778365
 7187,'7187','Mgne / Pink (Arrêt De Courtoisie)',45.445377,-75.778237
 7188,'7188','Hochelaga / Brouage (Arrêt De Courtoisie)',45.425062,-75.791726

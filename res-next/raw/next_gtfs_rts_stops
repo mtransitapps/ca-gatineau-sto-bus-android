@@ -49,7 +49,6 @@
 1068,'1068','Frank-Robinson / Principale',45.394657,-75.840768
 1072,'1072','Wilfrid-Lavigne / Principale',45.39596,-75.838502
 1073,'1073','Wilfrid-Lavigne / Principale',45.397763,-75.83812
-1074,'1074','Wilfrid-Lavigne / Principale',45.396413,-75.838113
 1075,'1075','Wilfrid-Lavigne / Leguerrier',45.398308,-75.837489
 1076,'1076','Wilfrid-Lavigne / John-Egan',45.399207,-75.837656
 1077,'1077','Galeries Aylmer',45.398711,-75.835221
@@ -346,6 +345,19 @@
 1507,'1507','Victor-Beaudry / Arthur-Quesnel',45.396467,-75.818208
 1520,'1520','Bordeaux / Malbec',45.394695,-75.835456
 1521,'1521','Bordeaux / Malbec',45.394633,-75.835276
+1541,'3541','St-Raymond / Marcel-Chaput',45.419638,-75.761021
+1542,'1542','St-Raymond / Trembles',45.426203,-75.761799
+1545,'1545','St-Raymond / Jonquilles',45.422425,-75.761352
+1727,'1727','Trembles / Mayburry',45.42641,-75.76309
+1735,'1735','Trembles / Boyer',45.426191,-75.76614
+1736,'1736','Trembles / Sitelle',45.424714,-75.768402
+1751,'1751','Louise-Campagna / St-Raymond',45.429628,-75.765308
+1755,'1755','Louise-Campagna / Migrateurs',45.429157,-75.768623
+1759,'1759','Louise-Campagna / Huard',45.428942,-75.772638
+1763,'1763','Trembles / Grives',45.427181,-75.774497
+1771,'1771','Trembles / Parulines',45.424589,-75.773874
+1773,'1773','Trembles / Parulines',45.423742,-75.770794
+1775,'1775','Louise-Campagna / St-Raymond',45.430115,-75.763131
 2000,'2000','Alexandre-Taché / St-Raymond',45.41839,-75.758938
 2002,'2002','Alexandre-Taché / St-Raymond',45.417664,-75.759785
 2004,'2004','Alexandre-Taché / St-Dominique',45.420076,-75.754182
@@ -436,7 +448,6 @@
 2151,'2151','Terminus Parc-O-Bus Freeman',45.473303,-75.741598
 2153,'2153','Terminus Freeman',45.473334,-75.741389
 2154,'2154','St-Joseph / Juneau',45.475386,-75.742469
-2155,'2155','Freeman / St-Joseph - Temps D''attente',45.473331,-75.741393
 2156,'2156','St-Joseph / Juneau',45.475384,-75.742751
 2161,'2161','Freeman / Audet',45.47296,-75.741695
 2162,'2162','Freeman / Audet',45.472489,-75.746384
@@ -596,6 +607,7 @@
 2368,'2368','Jolicoeur / Isabelle',45.459878,-75.746346
 2370,'2370','Jolicoeur / Chouinard',45.460146,-75.746759
 2376,'2376','Isabelle / Wilfrid-Latour',45.459983,-75.744122
+2377,'2377','Parc-O-Bus Rivermead',45.403805,-75.793488
 2378,'2378','Isabelle / Wilfrid-Latour',45.46016,-75.744585
 2380,'2380','Isabelle / Richard',45.459931,-75.742369
 2382,'2382','Isabelle / Richard',45.459726,-75.742098
@@ -612,8 +624,10 @@
 2400,'2400','Mutchmore / René-Marengère',45.451133,-75.734695
 2402,'2402','René-Marengère / Mutchmore',45.450589,-75.735302
 2404,'2404','St-Raymond / Roy',45.447449,-75.736374
+2405,'2405','Pink / Prado',45.442755,-75.804572
 2406,'2406','St-Raymond / Joffre',45.447246,-75.737266
 2408,'2408','St-Raymond / Lévesque',45.447089,-75.739272
+2409,'2409','Pink / Vernon',45.443012,-75.800535
 2410,'2410','St-Raymond / Lévesque',45.44721,-75.739913
 2412,'2412','St-Raymond / Larose',45.447035,-75.742008
 2414,'2414','St-Raymond / Montpetit',45.44685,-75.742709
@@ -636,10 +650,15 @@
 2452,'2452','Labelle / Ste-Marie',45.441548,-75.741437
 2454,'2454','Labelle / Ste-Marie',45.441279,-75.741178
 2456,'2456','Labelle / Montclair',45.440139,-75.741329
+2459,'2459','Conservatoire / Louvre',45.441526,-75.810804
 2460,'2460','Lionel-Émond / Caron',45.441869,-75.747349
+2461,'2461','Louvre / Grand-Palais',45.441138,-75.808107
 2462,'2462','Lionel-Émond / Caron',45.441601,-75.747141
+2463,'2463','Acropole / Prado',45.440314,-75.803915
 2464,'2464','Montclair / Lionel-Émond',45.439983,-75.746685
+2465,'2465','Andromède / Prado',45.440566,-75.80076
 2466,'2466','Montclair / Lionel-Émond',45.439895,-75.746479
+2467,'2467','Andromède / Nova',45.442167,-75.799103
 2468,'2468','Montclair / Moussette',45.440096,-75.74317
 2470,'2470','Montclair / Moussette',45.439912,-75.743781
 2472,'2472','Montclair / Labelle',45.440017,-75.741443
@@ -732,10 +751,12 @@
 2615,'2615','Laval / Laurier',45.425135,-75.716628
 2616,'2616','Portage / Hôtel-De-Ville',45.427139,-75.714212
 2618,'2618','Musée De L''histoire',45.431128,-75.709724
+2619,'2619','Musée De L''histoire 2',45.431131,-75.709756
 2620,'2620','Laurier / Hôtel-De-Ville',45.428244,-75.710263
 2621,'2621','Laurier / Élisabeth-Bruyère',45.431396,-75.709932
 2622,'2622','Place D''accueil',45.426189,-75.713522
 2623,'2623','Laurier / Victoria',45.428693,-75.710422
+2624,'2624','St-Rédempteur / Sacré-Cœur',45.435725,-75.722039
 2625,'2625','Eddy / Portage',45.425321,-75.719941
 2626,'2626','Eddy / Wright',45.427202,-75.719927
 2628,'2628','Eddy / Frontenac',45.428633,-75.720035
@@ -768,6 +789,7 @@
 2676,'2676','Laurier / Verdun',45.435272,-75.709162
 2677,'2677','Marie-Burger / Galène',45.479365,-75.793164
 2680,'2680','Laurier / Allumettières',45.432928,-75.709657
+2681,'2681','Laurier / Allumettières',45.432928,-75.709657
 2682,'2682','Laurier / Allumettières',45.432822,-75.709464
 2683,'2683','Dussault / Notre-Dame-De-L''île',45.440582,-75.709165
 2684,'2684','Laurier / Dussault',45.439995,-75.708071
@@ -883,8 +905,10 @@
 2829,'2829','Chemin De Le Mgne / Brise',45.448016,-75.782285
 2880,'2880','Pink / Mgne',45.444898,-75.778986
 3000,'3000','Promenades',45.474345,-75.6976
+3002,'3002','Alexandre-Taché / St-Raymond',45.417666,-75.759788
 3003,'3003','Promenades',45.474357,-75.697982
 3005,'3005','Promenades',45.474405,-75.6981
+3006,'3006','Alexandre-Taché / St-Dominique',45.41998,-75.753781
 3008,'3008','Savane / Gréber',45.473899,-75.702815
 3009,'3009','Promenades',45.474362,-75.697863
 3011,'3011','Anciens / Lafontaine',45.473324,-75.704112
@@ -1003,6 +1027,7 @@
 3297,'3297','Flandres / Auvergne',45.47741,-75.721577
 3305,'3305','St-Louis / Jacques-Cartier',45.459113,-75.714053
 3307,'3307','Turin / Flandres',45.469647,-75.71645
+3308,'3308','Turin / Flandres',45.469669,-75.716473
 3316,'3316','Auvergne / Monaco',45.47879,-75.716835
 3317,'3317','Bourgogne / Rochefort',45.484337,-75.717839
 3319,'3319','Bourgogne / Alsace',45.482751,-75.716744
@@ -1094,7 +1119,6 @@
 3488,'3488','Davidson / Nobert',45.506043,-75.66828
 3489,'3489','Nobert / Radmore',45.504289,-75.66808
 3490,'3490','Nobert / Pinot',45.502839,-75.66965
-3491,'3491','Nobert / Sauternes',45.502449,-75.67474
 3492,'3492','Barry / Baron',45.481454,-75.708206
 3493,'3493','Pierre-Lafontaine / Émile-D''auray',45.479073,-75.704657
 3494,'3494','Barry / Baron',45.481706,-75.70826
@@ -1392,6 +1416,7 @@
 3993,'3993','Quai Local Labrosse #9',45.490816,-75.643553
 3997,'3997','Quai Local Labrosse #8',45.490884,-75.642379
 3998,'3998','Quai Local Labrosse #7',45.490822,-75.64266
+3999,'3999','Quai Local Labrosse #8',45.490896,-75.642384
 4006,'4006','Ste-Rose / Robert-Corbett',45.495423,-75.594677
 4007,'4007','Sables / Ste-Rose',45.49555,-75.592708
 4008,'4008','Ste-Rose / Robert-Corbett',45.495509,-75.59551
@@ -1424,6 +1449,11 @@
 4056,'4056','Lorrain / Marlene-Goyet',45.501741,-75.608504
 4058,'4058','Lorrain / Fleurs',45.505896,-75.609189
 4060,'4060','Lorrain / Vincent-Legris',45.49987,-75.608254
+4082,'4082','Lorrain / Marlene-Goyet',45.503932,-75.608853
+4084,'4084','Lorrain / St-René',45.498822,-75.608045
+4086,'4086','Lorrain / Marlene-Goyet',45.501742,-75.608494
+4088,'4088','Lorrain / Fleurs',45.505898,-75.609168
+4090,'4090','Lorrain / Vincent-Legris',45.499874,-75.6082
 4111,'4111','Mtée Paiement / St-Luc',45.487993,-75.674862
 4115,'4115','Mtée Paiement / St-Luc',45.488117,-75.675094
 4117,'4117','Carref. / Mtée Paiement',45.486231,-75.675942
@@ -1800,14 +1830,12 @@
 4773,'4773','Aréna / Lombard',45.546862,-75.408624
 4774,'4774','Laurentides / Grandpré',45.529916,-75.496469
 4776,'4776','Laurentides / Neuville',45.530113,-75.496689
-5000,'5000','Murray / Mackenzie',45.428504,-75.697214
 5003,'5003','King Edward / St-Patrick',45.432761,-75.689398
-5004,'5004','Murray / Dalhousie',45.430483,-75.691537
 5014,'5014','Rideau / Cumberland',45.427748,-75.688359
 5016,'5016','Rideau / Waller',45.427293,-75.689133
-5022,'5022','Rideau / Sussex',45.42583,-75.692886
-5024,'5024','Rideau / Nicholas',45.42629,-75.691243
-5026,'5026','Mackenzie / Rideau',45.426984,-75.695697
+5022,'5022','Rideau / Sussex',45.426285,-75.691644
+5024,'5024','Rideau / Nicholas',45.425939,-75.692202
+5026,'5026','Mackenzie / Rideau',45.42653,-75.695326
 5030,'5030','Wellington / Metcalfe',45.423622,-75.697806
 5032,'5032','Wellington / Metcalfe',45.423323,-75.698211
 5034,'5034','Wellington / O''connor',45.422852,-75.699595
@@ -1820,7 +1848,36 @@
 5082,'5082','Tunney''s Pasture / Sorrel',45.405853,-75.735233
 5085,'5085','Tunney''s Pasture',45.407731,-75.737059
 5086,'5086','Tunney''s Pasture',45.407736,-75.736382
+5090,'5090','Tunney''s Pasture / Yarrow',45.404543,-75.73515
+5213,'5213','Atmosphère / Gravité',45.440176,-75.779732
+5219,'5219','Atmosphère / Éclipse',45.439886,-75.776237
+5225,'5225','Atmosphère / Astrolabe',45.437737,-75.773385
+5231,'5231','Atmosphère / Sapinière',45.439347,-75.7745
+5233,'5233','Plateau / Atmosphère',45.436377,-75.771811
+5237,'5237','Plateau / Cèdres',45.436676,-75.77025
+5243,'5243','Europe / Andromède',45.441452,-75.79539
+5247,'5247','Europe / Ganymède',45.439814,-75.795429
+5257,'5257','Atmosphère / Tropique',45.435269,-75.793738
+5269,'5269','Atmosphère / Firmament',45.438236,-75.785085
+5273,'5273','Plateau / St-Raymond',45.435886,-75.766486
+5291,'5291','Atmosphère / Firmament',45.439326,-75.783532
+5476,'5476','Lorrain / Pommetiers',45.516564,-75.612312
+5478,'5478','Lorrain / Rainville',45.519657,-75.61699
+5480,'5480','Lorrain / Thérèse',45.523146,-75.624536
 5503,'5503','Pont Alonzo Wright / Route 105',45.483884,-75.750579
+5597,'5597','Maisonneuve / Allumettières',45.431994,-75.713061
+5724,'5724','St-René Est / Labrosse',45.493137,-75.639054
+5728,'5728','St-René Est / Sunset',45.49389,-75.633941
+5732,'5732','St-René Est / Sunset',45.494685,-75.631773
+5735,'5735','St-René / Bécancour',45.497637,-75.626984
+5736,'5736','St-René / Bécancour',45.498955,-75.620175
+5740,'5740','St-René / Hubert',45.498804,-75.617753
+5744,'5744','St-René / Vermont',45.498226,-75.613106
+5748,'5748','St-René / Guigues',45.497958,-75.610653
+5767,'5767','Pink / Sapinière',45.445338,-75.773871
+5782,'5782','Europe / Londres',45.438111,-75.796853
+5785,'5785','Plateau / Europe',45.435424,-75.798864
+5787,'5287','Europe / Londres',45.436815,-75.799158
 7050,'7050','Érables / Tire (Arrêt De Courtoisie)',45.50243,-75.74454
 7051,'7051','Érables / Tire (Arrêt De Courtoisie)',45.502377,-75.74436
 7052,'7052','Érables / Sucrerie (Arrêt De Courtoisie)',45.507737,-75.739541
@@ -1904,13 +1961,16 @@
 7179,'7179','Mgne / Cook (Arrêt De Courtoisie)',45.458209,-75.803982
 7180,'7180','Mgne / Zéphyr (Arrêt De Courtoisie)',45.455471,-75.797753
 7181,'7181','Mgne / Zéphyr (Arrêt De Courtoisie)',45.455681,-75.797296
-7182,'7182','Mgne / Grives',45.45042,-75.787656
-7184,'7184','Mgne / Brise (Arrêt De Courtoisie)',45.448103,-75.782879
 7186,'7186','Mgne / Pink (Arrêt De Courtoisie)',45.445299,-75.778365
 7187,'7187','Mgne / Pink (Arrêt De Courtoisie)',45.445377,-75.778237
 7188,'7188','Hochelaga / Brouage (Arrêt De Courtoisie)',45.425062,-75.791726
 7189,'7189','Montagnais / Atholl-Doune (Arrêt De Courtoisie)',45.415657,-75.788911
 7190,'7190','Port-Royal / St-Malo (Arrêt De Courtoisie)',45.418897,-75.792944
+7250,'7250','Perry / Cook (Arrêt De Courtoisie)',45.453577,-75.883242
+7251,'7251','Perry / Chevreuils (Arrêt De Courtoisie)',45.45818,-75.883773
+7252,'7252','Perry / Ravin (Arrêt De Courtoisie)',45.462669,-75.884301
+7253,'7253','Gande-Allée / Saisons (Arrêt De Courtoisie)',45.464199,-75.890197
+7254,'7254','Grande Allée / Saisons (Arrêt De Courtoisie)',45.454468,-75.889065
 8010,'8010','Taché-Uqo',45.423973,-75.731812
 8011,'8011','Taché-Uqo',45.423786,-75.732102
 8020,'8020','Ston Montcalm Bretelle',45.430826,-75.729037
@@ -1941,5 +2001,6 @@
 9030,'9030','Pink / Auguste-Mondoux',45.442063,-75.816297
 9036,'9036','Fictif Grande Riv.',45.402738,-75.844582
 9037,'9037','Fictif Grande Riv.',45.402727,-75.844838
+9056,'9056','Fictif Grande Riv.',45.402732,-75.844662
 9603,'9603','École St-Alexandre',45.492611,-75.749993
 9735,'9735','Terminus La Gappe',45.468865,-75.716299
