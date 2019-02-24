@@ -25,9 +25,9 @@
 2901,0,'Ottawa',29
 2900,0,'Trembles',29
 3100,0,'Cgp GRoy',31
-3101,0,'Ottawa',31
+3101,0,'Laurier',31
 3200,0,'Cgp GRoy',32
-3201,0,'Ottawa',32
+3201,0,'Laurier',32
 3300,0,'Cité',33
 3301,0,'Ottawa',33
 3401,0,'Ottawa',34
@@ -194,8 +194,8 @@
 74901,0,'Rivermead',749
 75102,0,'ES G Rivière',751
 75101,0,'Rivermead',751
+75301,0,'Alymer / Rivermead',753
 75302,0,'ES G Rivière',753
-75301,0,'Lucerne / Robert-Sterward',753
 75402,0,'ES G Rivière',754
 75401,0,'McConnell / Vanier',754
 76704,0,'ES De L''Île',767
