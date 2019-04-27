@@ -734,6 +734,7 @@
 2584,'2584','Édifice Louis-St-Laurent',45.445504,-75.728101
 2586,'2586','Édifice Louis-St-Laurent',45.447222,-75.728087
 2588,'2588','Carrière / Galeries',45.444165,-75.727815
+2595,'2595','Maisonneuve / Allumettières',45.432097,-75.713086
 2596,'2596','Maisonneuve / Papineau',45.429306,-75.713153
 2597,'2597','Maisonneuve / Allumettières',45.431998,-75.713097
 2598,'2598','Maisonneuve / Papineau',45.429155,-75.713564
@@ -815,7 +816,6 @@
 2716,'2716','Fournier / Bériault',45.446593,-75.712411
 2717,'2717','Fournier / Henri-Gauthier',45.444547,-75.712936
 2718,'2718','Fournier / Chemin Lac Leamy',45.45482,-75.703665
-2719,'2719','Place D''accueil',45.425942,-75.714146
 2722,'2722','Place D''accueil',45.426189,-75.713522
 2723,'2723','Place D''accueil',45.425942,-75.714146
 2724,'2724','Place D''accueil',45.426096,-75.714109
@@ -1295,7 +1295,7 @@
 3753,'3753','St-René / Lorrain',45.498326,-75.607495
 3754,'3754','St-René / Lorrain',45.498249,-75.608466
 3755,'3755','St-René / Frères-Vachon',45.507871,-75.571983
-3756,'3756','St-René / Lorrain',45.498239,-75.606854
+3756,'3756','Sous-Bois / Mtée Dalton',45.507877,-75.588446
 3758,'3758','St-René / Boyes',45.499219,-75.603754
 3759,'3759','St-René / Frères-Vachon',45.507878,-75.57224
 3760,'3760','St-René / Boyes',45.499246,-75.60378
@@ -1362,14 +1362,14 @@
 3850,'3850','Notre-Dame / Lac',45.480724,-75.620037
 3853,'3853','Sous-Bois / Mtée Dalton',45.507699,-75.587958
 3854,'3854','Notre-Dame / Monseigneur-Lemieux',45.480731,-75.623811
-3855,'3855','Sous-Bois / Mtée Dalton',45.507877,-75.588446
-3856,'3856','Notre-Dame / Monseigneur-Lemieux',45.480958,-75.62343
+3855,'3855','Sous-Bois / Mtée Dalton',45.508071,-75.585786
+3856,'3856','Notre-Dame / Monseigneur-Lemieux',45.48114,-75.622696
 3857,'3857','Sous-Bois / Percherons',45.507888,-75.586309
 3858,'3858','Notre-Dame / Versailles',45.480789,-75.62641
 3860,'3860','Notre-Dame / Versailles',45.480943,-75.62613
 3862,'3862','Notre-Dame / Côtéville',45.480829,-75.630441
 3864,'3864','Notre-Dame / Côtéville',45.480919,-75.630467
-3865,'3865','Sous-Bois / Percherons',45.508071,-75.585786
+3865,'3865','Sous-Bois / Percherons Inactif 23 Avril 19',45.507808,-75.588644
 3866,'3866','Notre-Dame / Racicot',45.480859,-75.633179
 3867,'3867','Sous-Bois / Cheval-Blanc',45.508085,-75.582931
 3868,'3868','Notre-Dame / Watt',45.480732,-75.633498
@@ -1992,7 +1992,7 @@
 8503,'8503','Ston Labrosse #2',45.490518,-75.643486
 8505,'8505','Ston Labrosse #3',45.49055,-75.643331
 9030,'9030','Pink / Auguste-Mondoux',45.442063,-75.816297
-9036,'9036','Fictif Grande Riv.',45.402738,-75.844582
-9037,'9037','Fictif Grande Riv.',45.402727,-75.844838
+9036,'9036','Fictif Grande Riv.-',45.404644,-75.844616
+9037,'9037','Fictif Grande Riv.-',45.404107,-75.844558
 9603,'9603','École St-Alexandre',45.492611,-75.749993
 9735,'9735','Terminus La Gappe',45.468865,-75.716299
