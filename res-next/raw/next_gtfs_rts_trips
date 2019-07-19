@@ -24,9 +24,9 @@
 2801,0,'Pré-Tunney',28
 2901,0,'Ottawa',29
 2900,0,'Trembles',29
-3100,0,'Cgp GRoy',31
+3100,0,'Cégep Cgp GRoy',31
 3101,0,'Laurier',31
-3300,0,'Cité',33
+3300,0,'Freeman',33
 3301,0,'Mhistoire',33
 3401,0,'Ottawa',34
 3400,0,'Plateau',34
@@ -40,7 +40,7 @@
 3801,0,'Ottawa',38
 3900,0,'Freeman',39
 3901,0,'Plateau',39
-4000,0,'JLavigne',40
+4000,0,'Front / Allum',40
 4001,0,'Ottawa',40
 4101,0,'Ottawa',41
 4100,0,'P-O-B Allum',41
@@ -55,7 +55,7 @@
 5000,0,'Cgp GRoy',50
 5001,0,'P-O-B Allum',50
 5200,0,'P-O-B Allum',52
-5201,0,'P-O-B Rivermead',52
+5201,0,'Rivermead',52
 5400,0,'Champlain',54
 5401,0,'Rivermead',54
 5501,0,'Ottawa',55
@@ -70,12 +70,12 @@
 6200,0,'Nobert',62
 6300,0,'Cité',63
 6301,0,'Gappe',63
-6400,0,'Freeman',64
+6400,0,'Cégep Cgp GRoy',64
 6401,0,'Gappe',64
 6500,0,'Cité',65
 6501,0,'Gappe',65
-6600,0,'Aréna Beaudry',66
 6601,0,'Gappe',66
+6600,0,'Promenades',66
 6700,0,'Cité',67
 6701,0,'Ottawa',67
 6800,0,'Affaires',68
@@ -102,7 +102,7 @@
 8501,0,'Ottawa',85
 8700,0,'Cité',87
 8701,0,'Ottawa',87
-8800,0,'Labrosse',88
+8800,0,'Lorrain / St-René',88
 8801,0,'Ottawa',88
 9300,0,'M-Angers',93
 9301,0,'Ottawa',93
