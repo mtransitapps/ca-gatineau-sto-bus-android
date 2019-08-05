@@ -9,27 +9,27 @@
 2000,0,'Freeman',20
 2001,0,'Ottawa / Portage',20
 2201,0,'Ottawa',22
-2200,0,'Plateau',22
+2200,0,'Pink',22
+2300,0,'Conservatoire',23
 2301,0,'Ottawa',23
-2300,0,'Plateau',23
 2401,0,'Ottawa',24
 2400,0,'Plateau',24
+2500,0,'Louvre',25
 2501,0,'Ottawa',25
-2500,0,'Plateau',25
 2601,0,'Ottawa',26
-2600,0,'Plateau',26
+2600,0,'Pink',26
 2700,0,'Hplaines',27
 2701,0,'Ottawa',27
 2800,0,'Plateau',28
 2801,0,'Pré-Tunney',28
+2900,0,'Louise-Campagna',29
 2901,0,'Ottawa',29
-2900,0,'Trembles',29
 3100,0,'Cgp GRoy',31
 3101,0,'Ottawa',31
 3200,0,'Cgp GRoy',32
 3201,0,'Ottawa',32
 3300,0,'Cité',33
-3301,0,'Mhistoire',33
+3301,0,'Ottawa',33
 3401,0,'Ottawa',34
 3400,0,'Plateau',34
 3500,0,'Cgp GRoy',35
@@ -41,7 +41,7 @@
 3800,0,'Freeman',38
 3801,0,'Ottawa',38
 3900,0,'Freeman',39
-3901,0,'Plateau',39
+3901,0,'Pink',39
 4000,0,'JLavigne',40
 4001,0,'Ottawa',40
 4101,0,'Ottawa',41
@@ -63,7 +63,7 @@
 5101,0,'Gal.Aylmer',51
 5200,0,'Lavigne',52
 5300,0,'Cédres',53
-5400,0,'Champlain',54
+5400,0,'Hochelaga',54
 5401,0,'Rivermead',54
 5501,0,'Ottawa',55
 5500,0,'P-O-B Allum',55
@@ -77,8 +77,8 @@
 6001,0,'Gappe',60
 6100,0,'Ar Beaudry',61
 6101,0,'Gappe',61
+6200,0,'Davidson',62
 6201,0,'Gappe',62
-6200,0,'Nobert',62
 6300,0,'Cité',63
 6301,0,'Gappe',63
 6400,0,'Freeman',64
@@ -120,7 +120,7 @@
 9401,0,'Ottawa',94
 9500,0,'Buckingham',95
 9501,0,'Ottawa',95
-9700,0,'Buckingham',97
+9700,0,'Ar Masson',97
 9701,0,'Labrosse',97
 9801,0,'Ottawa',98
 10000,0,'Labrosse',100
@@ -131,7 +131,7 @@
 37101,0,'Ottawa',371
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
-47201,0,'Cado',472
+47201,0,'Cité',472
 80001,0,'Gal.Aylmer',800
 80000,0,'Labrosse',800
 80401,0,'Rouge & Noir',804
