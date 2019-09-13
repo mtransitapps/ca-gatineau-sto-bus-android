@@ -7,7 +7,7 @@
 1800,0,'Labrosse',18
 1801,0,'Pré-Tunney',18
 2000,0,'Freeman',20
-2001,0,'Ottawa',20
+2001,0,'Lyon',20
 2201,0,'Ottawa',22
 2200,0,'Pink',22
 2300,0,'Conservatoire',23
@@ -66,7 +66,7 @@
 5801,0,'Pré-Tunney',58
 5901,0,'Ottawa',59
 5900,0,'P-O-B Allum',59
-6200,0,'Davidson',62
+6200,0,'Davidson O',62
 6201,0,'Gappe',62
 6300,0,'Cité',63
 6301,0,'Gappe',63
@@ -170,7 +170,6 @@
 75401,0,'McConnell / Vanier',754
 80000,0,'Labrosse',800
 80001,0,'P-O-B Allum',800
-80401,0,'Rouge & Noir',804
 82501,0,'ES De L''Île',825
 82502,0,'Plateau',825
 82701,0,'E De L''ile',827
@@ -183,7 +182,6 @@
 83401,0,'Tsses Chaudière',834
 83701,0,'ES De L''Île',837
 83702,0,'St-Joseph',837
-85901,0,'Lansdowne',859
 86704,0,'ES De L''Île',867
 86703,0,'Les Promenades',867
 92901,0,'E Montbleu',929

@@ -38,12 +38,12 @@
 1051,'1051','Vanier / Plateau',45.421127,-75.809631
 1052,'1052','Principale / Jubilee',45.394513,-75.850439
 1053,'1053','Vanier / Plateau',45.4211,-75.809834
-1054,'1054','Principale / Parker',45.394722,-75.848726
+1054,'1054','Principale / Parker',45.394749,-75.848067
 1056,'1056','Principale / Bancroft',45.394669,-75.847877
 1058,'1058','Vanier / Attikameks',45.413188,-75.808609
 1059,'1059','Vanier / Attikameks',45.413639,-75.808436
 1061,'1061','Vanier / Antoine-Boucher',45.426643,-75.815282
-1064,'1064','Principale / Washington',45.395243,-75.841298
+1064,'1064','Principale / Frank-Robinson',45.395243,-75.841298
 1066,'1066','Principale / Washington',45.395053,-75.841564
 1068,'1068','Frank-Robinson / Principale',45.394657,-75.840768
 1072,'1072','Wilfrid-Lavigne / Principale',45.39596,-75.838502
@@ -118,7 +118,7 @@
 1166,'1166','Wychwood / Lord-Aylmer',45.39287,-75.842455
 1167,'1167','Eardley / Goulet',45.400265,-75.852723
 1168,'1168','Wychwood / Lake',45.388454,-75.841258
-1169,'1169','Principale / Frank-Robinson',45.3954,-75.838873
+1169,'1169','Principale / Wilfrid-Lavigne',45.3954,-75.838873
 1170,'1170','Wychwood / Lord-Aylmer',45.390316,-75.842238
 1171,'1171','Parc-O-Bus Rivermead Arrivée Rivermead',45.404041,-75.793515
 1172,'1172','Principale / Wilfrid-Lavigne',45.395176,-75.839325
@@ -151,7 +151,7 @@
 1222,'1222','Chemin D''aylmer / Colline',45.39573,-75.833056
 1224,'1224','Chemin D''aylmer / Bordeaux',45.395445,-75.835083
 1226,'1226','Principale / Bordeaux',45.395617,-75.83621
-1230,'1230','Chemin D''aylmer / Samuel-Edey',45.395929,-75.830612
+1230,'1230','Chemin D''aylmer / Belmont',45.395929,-75.830612
 1232,'1232','Chemin D''aylmer / Belmont',45.395781,-75.830238
 1234,'1234','Chemin D''aylmer / Fraser',45.396301,-75.825105
 1236,'1236','Fraser / Christophe-Colomb',45.395883,-75.824409
@@ -245,7 +245,7 @@
 1376,'1376','Chemin D''aylmer / Chaudière',45.410504,-75.777785
 1377,'1377','Parc-O-Bus Rivermead',45.403798,-75.793461
 1378,'1378','Chemin D''aylmer / Pont Champlain',45.413553,-75.768778
-1379,'1379','Musée De La Nature',45.441981,-75.816535
+1379,'1379','Pink / Auguste-Mondoux',45.442123,-75.814565
 1381,'1381','Chemin D''aylmer / Pont Champlain',45.414542,-75.766404
 1382,'1382','Chemin D''aylmer / Royale',45.416276,-75.762731
 1383,'1383','Chemin D''aylmer / Pont Champlain',45.414839,-75.765
@@ -256,7 +256,7 @@
 1392,'1392','Mgne / Vanier',45.463681,-75.821738
 1393,'1393','Mc Connell / Jean-De La Fontaine',45.413067,-75.798984
 1394,'1394','Mc Connell / Jean-De La Fontaine',45.413198,-75.798283
-1395,'1395','Pink / Auguste-Mondoux',45.441845,-75.816601
+1395,'1395','Pink / Auguste-Mondoux',45.441943,-75.815483
 1396,'1396','Jean-De La Fontaine / Pierre-De Ronsard',45.408843,-75.799256
 1397,'1397','Jean-De La Fontaine / Pierre-De Ronsard',45.408755,-75.799
 1398,'1398','Chemin D''aylmer / Amour',45.406758,-75.788403
@@ -345,7 +345,7 @@
 1556,'1556','Front / Klock',45.415909,-75.851174
 1557,'1557','Front / Carcajou',45.416035,-75.851306
 1558,'1558','Principale / Bancroft',45.394867,-75.846435
-1560,'1560','Principale / Broad',45.394892,-75.843902
+1560,'1560','Principale / Broad',45.394902,-75.843768
 1561,'1561','Allumettières / Samuel-Edey',45.412393,-75.831712
 1562,'1562','Allumettières / Samuel-Edey',45.412565,-75.830621
 1563,'1563','Samuel-Edey / Allumettières',45.412147,-75.83084
@@ -1290,7 +1290,7 @@
 3750,'3750','St-René / Guigues',45.498036,-75.611203
 3751,'3751','St-René / Saros',45.50622,-75.574729
 3752,'3752','St-René / Lorrain',45.498141,-75.608427
-3753,'3753','St-René / Lorrain',45.498322,-75.607327
+3753,'3753','St-René / Lorrain',45.49832,-75.607619
 3754,'3754','St-René / Lorrain',45.498249,-75.608466
 3755,'3755','St-René / Frères-Vachon',45.507871,-75.571983
 3756,'3756','Sous-Bois / Mtée Dalton',45.507877,-75.588446
@@ -1385,7 +1385,7 @@
 3896,'3896','Gappe / Gréber',45.478441,-75.701705
 3897,'3897','Gréber / Gappe',45.477502,-75.70086
 3898,'3898','Gappe / Alliance',45.478434,-75.700066
-3899,'3899','St-René / Lorrain',45.498259,-75.606849
+3899,'3899','St-René / Lorrain',45.498201,-75.607414
 3926,'3926','Labrosse / Géraniums',45.486267,-75.639983
 3928,'3928','Labrosse / Géraniums',45.486895,-75.640323
 3930,'3930','Labrosse / Dorval',45.488785,-75.640447
