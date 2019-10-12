@@ -85,12 +85,12 @@
 1121,'1121','Bagot / Parker',45.402731,-75.84793
 1122,'1122','Wilfrid-Lavigne / Maurice St-Louis',45.420664,-75.845246
 1123,'1123','Wilfrid-Lavigne / Maurice-Duplessis',45.420393,-75.845421
-1124,'1124','Broad / Anna',45.403205,-75.844743
+1124,'1124','Broad / Bagot',45.403205,-75.844743
 1127,'1127','Wilfrid-Lavigne / Lyse-Daniels',45.422178,-75.847352
 1128,'1128','Broad / Louis-St-Laurent',45.405634,-75.844971
 1129,'1129','Broad / Louis-St-Laurent',45.406081,-75.845361
 1130,'1130','Wilfrid-Lavigne / Paul-Berthiaume',45.42191,-75.847143
-1131,'1131','Bagot / Broad',45.402746,-75.846001
+1131,'1131','Bagot / Johnston',45.402746,-75.846001
 1132,'1132','Parc-O-Bus Allumettières',45.407261,-75.865607
 1133,'1133','Parc-O-Bus Allumettières',45.407187,-75.865976
 1134,'1134','Vanier / Amérique-Française',45.436522,-75.8188
@@ -285,7 +285,7 @@
 1429,'1429','Wilfrid-Lavigne / Pinacées',45.415742,-75.841325
 1430,'1430','Wilfrid-Lavigne / Bois Franc',45.416448,-75.843215
 1431,'1431','Wilfrid-Lavigne / Pinacées',45.41547,-75.841564
-1432,'1432','Wilfrid-Lavigne / Pinacées',45.413786,-75.839237
+1432,'1432','Wilfrid-Lavigne / Pinacées',45.41395,-75.839281
 1433,'1433','Wilfrid-Lavigne / Maquis',45.411526,-75.839295
 1434,'1434','Wilfrid-Lavigne / Verger',45.413415,-75.839578
 1436,'1436','Wilfrid-Lavigne / Allumettières',45.41117,-75.838855
@@ -516,7 +516,7 @@
 2228,'2228','Riel / Ravin-Bleu',45.465294,-75.771234
 2231,'2231','Atmosphère / Sapinière',45.439348,-75.774499
 2233,'2233','Plateau / Atmosphère',45.436377,-75.771811
-2234,'2234','Riel / Talbot',45.464325,-75.768087
+2234,'2234','Riel / Talbot',45.464492,-75.768426
 2235,'2235','Plateau / Atmosphère',45.436428,-75.772387
 2236,'2236','Riel / Talbot',45.464233,-75.768303
 2237,'2237','Plateau / Cèdres',45.436712,-75.770256
@@ -525,7 +525,7 @@
 2240,'2240','Riel / Marcoux',45.46381,-75.764383
 2241,'2241','Europe / Andromède',45.442086,-75.795263
 2242,'2242','Riel / St-Brieuc',45.464188,-75.76165
-2243,'2243','Europe / Andromède',45.441452,-75.79539
+2243,'2243','Europe / Andromède',45.441825,-75.795424
 2244,'2244','Riel / Alie',45.464105,-75.760549
 2245,'2245','Europe / Ganymède',45.439401,-75.795558
 2246,'2246','Riel / Escalier',45.463236,-75.755894
@@ -1101,7 +1101,6 @@
 3476,'3476','Grands-Jardins / Port-Daniel',45.504595,-75.758829
 3477,'3477','Grands-Jardins / Anticosti',45.505343,-75.75729
 3478,'3478','Grands-Jardins / Anticosti',45.505445,-75.756843
-3479,'3479','Duquette / Main',45.490955,-75.651182
 3480,'3480','Quai Local De La Cité #5',45.481582,-75.68246
 3481,'3481','Quai Local De La Cité #6',45.481527,-75.682764
 3482,'3482','Quai Local De La Cité #7',45.481498,-75.683052
@@ -1289,7 +1288,7 @@
 3747,'3747','St-René / Palominos',45.505665,-75.580883
 3748,'3748','St-René / Guigues',45.497949,-75.610652
 3749,'3749','St-René Est / Palominos',45.506334,-75.574666
-3750,'3750','St-René / Guigues',45.498036,-75.611203
+3750,'3750','St-René / Guigues',45.498042,-75.61132
 3751,'3751','St-René / Saros',45.50622,-75.574729
 3752,'3752','St-René / Lorrain',45.498141,-75.608427
 3753,'3753','St-René / Lorrain',45.49832,-75.607619
@@ -1527,7 +1526,7 @@
 4318,'4318','Érables / Sommelier',45.498492,-75.751443
 4319,'4319','Érables / St-Alexandre',45.49379,-75.753256
 4321,'4321','Érables / St-Alexandre',45.497283,-75.75251
-4322,'4322','Érables / St-Alexandre',45.494774,-75.753449
+4322,'4322','Érables / St-Alexandre',45.494775,-75.753385
 4323,'4323','Érables / St-Alexandre',45.49701,-75.752865
 4330,'4330','Mont-Luc / Cannes',45.493599,-75.723537
 4338,'4338','Labrosse / Docteur J-Cousineau',45.502445,-75.642663
@@ -1656,7 +1655,7 @@
 4502,'4502','Chambord / Lorrain',45.525322,-75.627211
 4511,'4511','Chambord / Mistassini',45.524929,-75.631548
 4512,'4512','Chambord / Lorrain',45.525223,-75.627159
-4515,'4515','Érables / St-Alexandre',45.493089,-75.752655
+4515,'4515','Érables / St-Alexandre',45.493764,-75.753067
 4522,'4522','Av De Buckingham / Lépine',45.557708,-75.421131
 4524,'4524','Route 309 / Lépine',45.556886,-75.421945
 4525,'4525','Lépine / Buckingham',45.57499,-75.412186
@@ -1837,7 +1836,7 @@
 5231,'5231','Atmosphère / Sapinière',45.439347,-75.7745
 5233,'5233','Plateau / Atmosphère',45.436377,-75.771799
 5237,'5237','Plateau / Cèdres',45.436676,-75.77025
-5243,'5243','Europe / Andromède',45.44147,-75.795393
+5243,'5243','Europe / Andromède',45.441771,-75.795424
 5247,'5247','Europe / Ganymède',45.43983,-75.795419
 5257,'5257','Atmosphère / Tropique',45.435269,-75.793738
 5269,'5269','Atmosphère / Firmament',45.438236,-75.785085
@@ -1855,6 +1854,7 @@
 7053,'7053','Érables / Sucrerie (Arrêt De Courtoisie)',45.507684,-75.739309
 7054,'7054','Érables / Fleurimont (Arrêt De Courtoisie)',45.51615,-75.740048
 7055,'7055','Érables / Fleurimont (Arrêt De Courtoisie)',45.516178,-75.739843
+7060,'7060','Duquette / Main T',45.490897,-75.651738
 7100,'7100','Maloney / Schryer (Arrêt De Courtoisie)',45.50551,-75.554269
 7101,'7101','Maloney / Schryer (Arrêt De Courtoisie)',45.50577,-75.554335
 7102,'7102','Maloney / Granby (Arrêt De Courtoisie)',45.50676,-75.546933
