@@ -7,7 +7,7 @@
 1800,0,'Labrosse',18
 1801,0,'Pré-Tunney',18
 2000,0,'Freeman',20
-2001,0,'Lyon',20
+2001,0,'Stat Lyon',20
 2201,0,'Ottawa',22
 2200,0,'Pink',22
 2300,0,'Conservatoire',23
@@ -199,5 +199,3 @@
 93701,0,'Tsses Chaudière',937
 94902,0,'Asticou Ctr',949
 94901,0,'Rivermead',949
-99000,0,'Test Routier 0',990
-99001,0,'Test Routier 1',990
