@@ -5,7 +5,7 @@ Gatineau STO Bus for MonTransit.
 Schedule. System-Info. News.
 ----------
 What's new in this version?:
-Schedule from October 18, 2019 to December 13, 2019.
+Schedule from October 25, 2019 to December 20, 2019.
 System-Info from sto.ca.
 News from @STOGatineau (starting January 2016).
 ----------
