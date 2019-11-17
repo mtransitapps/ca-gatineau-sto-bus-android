@@ -1,15 +1,3 @@
-Title: Bus STO Gatineau - MonTransit
-----------
-Short description:
-Autobus STO de Gatineau pour MonTransit.
-Horaires. Info-Réseau. Nouvelles.
-----------
-What's new in this version?:
-Horaires du 6 novembre 2019 au 1 janvier 2020.
-Info-Réseau de sto.ca.
-Nouvelles de @STOGatineau (à partir de janvier 2016).
-----------
-Full description:
 Cette application ajoute les informations des autobus Société de Transport de l'Outaouais (STO) de Gatineau à MonTransit.
 
 L'app contient les horaires planifiés ainsi que les Info-Réseau de sto.ca et les dernières nouvelles de YouTube et @STOGatineau sur Twitter.
@@ -32,4 +20,3 @@ Cette application n'est pas associée à Société de Transport de l'Outaouais (
 
 Autorisations :
 - Autres : requis pour lire les Info-Réseau de sto.ca et les nouvelles de Twitter et YouTube.
-----------
