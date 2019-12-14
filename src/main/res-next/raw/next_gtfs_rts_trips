@@ -1,7 +1,7 @@
 1100,0,'Cgp GRoy',11
 1101,0,'Pl.Accueil',11
-1500,0,'Erables',15
 1501,0,'Gappe',15
+1500,0,'Érables',15
 1700,0,'Cgp GRoy',17
 1701,0,'Pl.Accueil',17
 1800,0,'Labrosse',18
@@ -20,7 +20,7 @@
 2600,0,'Pink',26
 2700,0,'Galène',27
 2701,0,'Ottawa',27
-2800,0,'Gam.Emond',28
+2800,0,'Gamémond',28
 2801,0,'Pré-Tunney',28
 2900,0,'Louise-Campagna',29
 2901,0,'Ottawa',29
@@ -98,7 +98,7 @@
 7801,0,'Labrosse',78
 7901,0,'Labrosse',79
 7900,0,'St-Thomas',79
-8500,0,'Coteneiges',85
+8500,0,'Côteneiges',85
 8501,0,'Ottawa',85
 8700,0,'Cité',87
 8701,0,'Ottawa',87
@@ -172,12 +172,12 @@
 80001,0,'P-O-B Allum',800
 82501,0,'ES De L''Île',825
 82502,0,'Plateau',825
-82701,0,'E De L''ile',827
+82701,0,'E De L''île',827
 82901,0,'ES De L''Île',829
 82902,0,'Le Manoir',829
 83102,0,'Cgp GRoy',831
 83101,0,'ES De L''Île',831
-83300,0,'E De L''ile',833
+83300,0,'E De L''île',833
 83400,0,'ES De L''Île',834
 83401,0,'Tsses Chaudière',834
 83701,0,'ES De L''Île',837
