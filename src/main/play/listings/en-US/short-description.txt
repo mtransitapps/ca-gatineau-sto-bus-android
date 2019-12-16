@@ -1,2 +1,1 @@
-Gatineau STO Bus for MonTransit.
-Schedule. System-Info. News.
+Gatineau STO buses for MonTransit: schedule, System-Info and news.
