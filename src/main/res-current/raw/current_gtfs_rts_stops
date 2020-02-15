@@ -413,6 +413,7 @@
 2103,'2103','Grives / Arc-En-Ciel',45.441116,-75.78589
 2104,'2104','St-Joseph / Nicolet',45.439047,-75.732863
 2106,'2106','St-Joseph / Nicolet',45.438431,-75.733031
+2107,'2107','St-Joseph / Montclair',45.439613,-75.732987
 2108,'2108','St-Joseph / Montclair',45.441334,-75.73265
 2110,'2110','St-Joseph / Caron',45.442746,-75.732847
 2112,'2112','St-Joseph / Gamelin',45.444754,-75.732822
@@ -634,7 +635,6 @@
 2414,'2414','St-Raymond / Montpetit',45.44685,-75.742709
 2418,'2418','Lionel-Émond / St-Raymond',45.445318,-75.747506
 2420,'2420','Lionel-Émond / St-Raymond',45.445377,-75.747817
-2422,'2422','Lionel-Émond / St-Raymond',45.444839,-75.747439
 2423,'2423','Lionel-Émond / Gamelin',45.443668,-75.747309
 2424,'2424','Lionel-Émond / Gamelin',45.44349,-75.747306
 2427,'2427','Lionel-Émond / Gamelin',45.443272,-75.747597
@@ -740,7 +740,6 @@
 2597,'2597','Maisonneuve / Allumettières',45.431998,-75.713097
 2598,'2598','Maisonneuve / Papineau',45.429155,-75.713564
 2599,'2599','Maisonneuve / Papineau',45.429123,-75.713585
-2601,'2601','Wellington / St-Rédempteur',45.426106,-75.721102
 2602,'2602','Tsses De La Chaudière',45.425008,-75.720716
 2604,'2604','Tsses De La Chaudière',45.424906,-75.720064
 2606,'2606','Portage / Laval',45.425411,-75.717054
@@ -795,13 +794,10 @@
 2683,'2683','Dussault / Notre-Dame-De-L''île',45.440582,-75.709165
 2684,'2684','Centre La Piétà',45.439436,-75.708152
 2690,'2690','Allumettières / Champlain',45.432194,-75.712026
-2691,'2691','Allumettières / Maisonneuve',45.432617,-75.713399
 2692,'2692','Maisonneuve / Allumettières',45.433001,-75.712496
 2693,'2693','Maisonneuve / Verdun',45.43471,-75.712645
 2694,'2694','Allumettières / Kent',45.432441,-75.715608
 2695,'2695','Maisonneuve / Verdun',45.434352,-75.71227
-2696,'2696','Allumettières / Ste-Hélène',45.432746,-75.715791
-2698,'2698','Allumettières / Isidore-Ostiguy',45.432614,-75.718206
 2699,'2699','Allumettières / Kent',45.432441,-75.715596
 2701,'2701','St-Raymond / Gamelin',45.437378,-75.765986
 2702,'2702','Allumettières / St-Rédempteur',45.432215,-75.721486
@@ -996,6 +992,7 @@
 3220,'3220','St-Louis / Cité',45.472006,-75.677934
 3221,'3221','Quai Local De La Gappe #4',45.468868,-75.716317
 3222,'3222','Quai Local De La Gappe #5',45.468695,-75.71658
+3223,'3223','Quai Local De La Gappe #6',45.468393,-75.71706
 3226,'3226','Gréber / Jacques-Cartier',45.4581,-75.700214
 3228,'3228','Gréber / Jacques-Cartier',45.457968,-75.699752
 3230,'3230','Gréber / St-Louis',45.460174,-75.699689
@@ -1026,7 +1023,6 @@
 3295,'3295','Flandres / Auvergne',45.47714,-75.721522
 3297,'3297','Flandres / Auvergne',45.47717,-75.72126
 3305,'3305','St-Louis / Jacques-Cartier',45.459113,-75.714053
-3307,'3307','Turin / Flandres',45.469647,-75.71645
 3308,'3308','Turin / Flandres',45.469669,-75.716473
 3316,'3316','Auvergne / Monaco',45.47879,-75.716835
 3317,'3317','Bourgogne / Rochefort',45.484337,-75.717839
@@ -1391,7 +1387,6 @@
 3928,'3928','Labrosse / Géraniums',45.486895,-75.640323
 3930,'3930','Labrosse / Dorval',45.489268,-75.640556
 3932,'3932','Labrosse / Cavalier-De La Salle',45.489503,-75.640814
-3934,'3934','Labrosse / Benoît',45.490223,-75.640732
 3940,'3940','Labrosse / Marquette',45.494719,-75.641538
 3941,'3941','Labrosse / Marquette',45.494728,-75.641692
 3942,'3942','Labrosse / Marquette',45.495933,-75.641885
