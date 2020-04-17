@@ -50,9 +50,9 @@
 1074,'1074','Wilfrid-Lavigne / Principale',45.396413,-75.838113
 1075,'1075','Wilfrid-Lavigne / Leguerrier',45.398308,-75.837489
 1076,'1076','Wilfrid-Lavigne / John-Egan',45.399207,-75.837656
-1077,'1077','Galeries Aylmer',45.398711,-75.835221
+1077,'1077','Galeries Aylmer',45.398997,-75.835928
 1078,'1078','Wilfrid-Lavigne / John-Egan',45.400109,-75.837299
-1079,'1079','Galeries Aylmer',45.398681,-75.835261
+1079,'1079','Galeries Aylmer',45.399,-75.835889
 1080,'1080','Wilfrid-Lavigne / Corse',45.401905,-75.837951
 1082,'1082','Wilfrid-Lavigne / Corse',45.401791,-75.83749
 1084,'1084','Wilfrid-Lavigne / Charles-Devlin',45.404066,-75.837894
@@ -1459,8 +1459,8 @@
 4744,'4744','Georges / Écorce',45.556948,-75.434387
 4745,'4745','Georges / Écorce',45.556992,-75.434413
 4749,'4749','Neuville / Chaville',45.531031,-75.494648
-4750,'4750','Parc-O-Bus Encan De Masson',45.553296,-75.43587
-4752,'4752','Parc-O-Bus Encan De Masson',45.553477,-75.435718
+4750,'4750','Encan De Masson',45.553296,-75.43587
+4752,'4752','Encan De Masson',45.553477,-75.435718
 4754,'4754','Georges / Fernand-Laflamme',45.54613,-75.431434
 4755,'4755','Georges / Aut. 50',45.545753,-75.431162
 4760,'4760','Route 148 / Napoléon',45.544007,-75.416725
