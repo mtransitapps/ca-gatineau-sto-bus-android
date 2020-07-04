@@ -229,7 +229,7 @@
 1347,'1347','Mc Connell / Morley-Walters',45.412773,-75.803644
 1348,'1348','Chemin D''aylmer / Morley-Walters',45.401418,-75.802766
 1350,'1350','Chemin D''aylmer / Morley-Walters',45.401617,-75.802873
-1352,'1352','Chemin D''aylmer / Castelbeau',45.402861,-75.799261
+1352,'1352','Chemin D''aylmer / Hippodrome',45.402861,-75.799261
 1354,'1354','Chemin D''aylmer / Vanier',45.400081,-75.807096
 1355,'1355','Chemin D''aylmer / Hippodrome',45.402477,-75.799797
 1358,'1358','Chemin D''aylmer / Rivermead',45.404468,-75.794122
@@ -794,7 +794,7 @@
 2702,'2702','Allumettières / St-Rédempteur',45.432215,-75.721486
 2704,'2704','Allumettières / St-Rédempteur',45.432496,-75.721273
 2706,'2706','Allumettières / Morin',45.432123,-75.726075
-2708,'2708','Pink / Grives',45.44366,-75.791867
+2708,'2708','Pink / Grives',45.443668,-75.791568
 2709,'2709','Pink / Grives',45.443554,-75.791166
 2711,'2711','Place D''accueil',45.426243,-75.7136
 2712,'2712','Cité-Des-Jeunes / Inconnu',45.475362,-75.786327
@@ -836,10 +836,10 @@
 2767,'2767','Pink / Sapinière',45.445383,-75.773878
 2769,'2769','Pink / Sapinière',45.445193,-75.772763
 2770,'2770','St-Rédempteur / Allumettières',45.431861,-75.72198
-2771,'2771','Trembles / Parulines',45.42459,-75.773849
+2771,'2771','Trembles / Parulines',45.424781,-75.773911
 2772,'2772','Trembles / Parulines',45.424861,-75.773712
 2773,'2773','Trembles / Parulines',45.423756,-75.770796
-2774,'2774','Trembles / Parulines',45.423895,-75.770146
+2774,'2774','Trembles / Parulines',45.423873,-75.770795
 2775,'2775','Louise-Campagna / St-Raymond',45.430063,-75.763122
 2777,'2777','Marie-Burger / Galène',45.479365,-75.793164
 2778,'2778','Pink / Grives',45.444129,-75.786149
@@ -897,7 +897,7 @@
 2833,'2833','Cité-Des-Jeunes / Nouvelle-Frontière',45.443423,-75.750544
 2834,'2834','Cité-Des-Jeunes / Gamelin',45.443613,-75.750847
 2835,'2835','Cité-Des-Jeunes / St-Raymond',45.445082,-75.750773
-2836,'2836','Cité-Des-Jeunes / St-Raymond',45.44533,-75.751045
+2836,'2836','Cité-Des-Jeunes / St-Raymond',45.445461,-75.751103
 2837,'2837','Mont-Bleu / Philias-Fortin',45.461765,-75.749153
 2838,'2838','St-Joseph / Freeman',45.473529,-75.740507
 2880,'2880','Pink / Mgne',45.444898,-75.778986
@@ -1034,7 +1034,7 @@
 3370,'3370','Barry / Vérendrye',45.48746,-75.712107
 3373,'3373','Touraine / Marseille',45.480227,-75.720897
 3374,'3374','Gatineau / Touraine',45.482009,-75.720768
-3375,'3375','Touraine / Auvergne',45.479108,-75.720551
+3375,'3375','Touraine / Auvergne',45.479277,-75.720551
 3376,'3376','Av Gatineau / Touraine',45.482095,-75.720894
 3378,'3378','Av Gatineau / Bernay',45.483069,-75.719472
 3381,'3381','Av Gatineau / Vérendrye',45.488564,-75.718469
@@ -1136,7 +1136,7 @@
 3568,'3568','Nelligan / Louis-Hémon',45.485823,-75.695848
 3570,'3570','Nelligan / Troyes',45.486429,-75.696866
 3572,'3572','Nelligan / Union',45.484209,-75.69492
-3574,'3574','Nelligan / Drave',45.48358,-75.694694
+3574,'3574','Nelligan / Drave',45.483722,-75.694678
 3576,'3576','Nelligan / Beauséjour',45.481667,-75.695477
 3577,'3577','Cité / Gappe',45.484948,-75.681288
 3578,'3578','Nelligan / Orléans',45.481632,-75.69531
@@ -1148,7 +1148,7 @@
 3590,'3590','Cité / Gappe',45.483258,-75.680871
 3593,'3593','Gappe / Cité',45.483846,-75.68345
 3594,'3594','Maloney Ouest / Cité',45.481519,-75.679724
-3596,'3596','Maloney Ouest / Mtée Paiement',45.482916,-75.674801
+3596,'3596','Maloney Ouest / Mtée Paiement',45.482849,-75.675154
 3598,'3598','Maloney Ouest / Mtée Paiement',45.482001,-75.677414
 3599,'3599','Hôpital / St-René',45.488647,-75.688819
 3601,'3601','Hôpital / St-René',45.488667,-75.688512
@@ -1428,7 +1428,7 @@
 4138,'4138','Maloney Ouest / Elm',45.483767,-75.652406
 4139,'4139','Maloney Ouest / Oak',45.483526,-75.653465
 4141,'4141','Maloney / Broadway',45.484065,-75.648941
-4147,'4147','Labrosse / Maloney',45.485114,-75.639755
+4147,'4147','Labrosse / Maloney',45.48531,-75.639808
 4149,'4149','Maloney Est / Labrosse',45.484589,-75.638836
 4150,'4150','Maloney Est / Sabourin',45.484762,-75.63381
 4152,'4152','Maloney Est / Alonzo-Carrière',45.484609,-75.630547
