@@ -778,6 +778,7 @@
 2668,'2668','Sacré-Coeur / Laurier',45.437185,-75.709239
 2672,'2672','Sacré-Coeur / St-Rédempteur',45.436543,-75.721797
 2674,'2674','Laurier / Verdun',45.434822,-75.709054
+2675,'2675','Laurier / Sacré-Coeur',45.437588,-75.708556
 2676,'2676','Laurier / Verdun',45.435272,-75.709162
 2677,'2677','Marie-Burger / Galène',45.479365,-75.793164
 2680,'2680','Laurier / Allumettières',45.432928,-75.709657
@@ -1777,6 +1778,7 @@
 4776,'4776','Laurentides / Neuville',45.530113,-75.496689
 5003,'5003','King Edward / St-Patrick',45.432761,-75.689398
 5014,'5014','Rideau / Cumberland',45.428475,-75.686715
+5022,'5022','Rideau / Sussex (Centre Rideau)',45.426285,-75.691644
 5026,'5026','Mackenzie / Rideau',45.42653,-75.695326
 5027,'5027','Centre Rideau (Sussex)',45.42698,-75.694492
 5030,'5030','Wellington / Metcalfe',45.423622,-75.697806
