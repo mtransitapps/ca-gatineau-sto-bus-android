@@ -8,13 +8,13 @@
 1801,0,'Pré-Tunney',18
 2000,0,'Freeman',20
 2001,0,'Stat Lyon',20
-2300,0,'D`amsterdam',23
+2300,0,'Amsterdam',23
 2301,0,'Ottawa',23
 2601,0,'Ottawa',26
-2600,0,'Pink / Sapinière',26
+2600,0,'Pink',26
 2700,0,'Galène',27
 2701,0,'Ottawa',27
-2800,0,'Gamelin / Émond',28
+2800,0,'Gamémond',28
 2801,0,'Pré-Tunney',28
 3100,0,'Cgp GRoy',31
 3101,0,'Ottawa',31
@@ -81,13 +81,13 @@
 7500,0,'Lorrain',75
 7601,0,'Cité',76
 7600,0,'Labrosse',76
-7700,0,'Cheval-Blanc',77
+7700,0,'Chev Blanc',77
 7701,0,'Labrosse',77
-7800,0,'Cheval-Blanc',78
+7800,0,'Chev Blanc',78
 7801,0,'Labrosse',78
 7901,0,'Labrosse',79
 7900,0,'St-Thomas',79
-8500,0,'Côtes-Des-Neiges',85
+8500,0,'Côteneiges',85
 8501,0,'Ottawa',85
 8700,0,'Cité',87
 8701,0,'Ottawa',87
@@ -110,7 +110,7 @@
 37101,0,'Ottawa',371
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
-42901,0,'École Secondaire Mont-Bleu',429
+42901,0,'E Montbleu',429
 43101,0,'Asticou Ctr',431
 43100,0,'Asticou Ctr',431
 43101,0,'ES Mont-Bleu',431
