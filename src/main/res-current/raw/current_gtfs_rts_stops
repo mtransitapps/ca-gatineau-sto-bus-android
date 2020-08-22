@@ -473,7 +473,7 @@
 2182,'2182','Hautes-Plaines / Falaise',45.474651,-75.771847
 2183,'2183','Cité-Des-Jeunes / Plein-Air',45.471622,-75.780429
 2184,'2184','Hautes-Plaines / Terroir',45.474728,-75.773665
-2185,'2185','Cité-Des-Jeunes / Plein-Air',45.46984,-75.779074
+2185,'2185','Cité-Des-Jeunes / Plein-Air',45.469623,-75.778998
 2186,'2186','Cité-Des-Jeunes / Riel',45.465375,-75.77387
 2187,'2187','Cité-Des-Jeunes / Talbot',45.463315,-75.771028
 2188,'2188','Cité-Des-Jeunes / Talbot',45.46296,-75.770306
@@ -481,11 +481,11 @@
 2190,'2190','Cité-Des-Jeunes / Mont-Bleu',45.460906,-75.767771
 2191,'2191','Cité-Des-Jeunes / Aviron',45.46704,-75.775933
 2192,'2192','Cité-Des-Jeunes / Talbot',45.462333,-75.769735
-2193,'2193','Cité-Des-Jeunes / Aviron',45.468309,-75.777901
+2193,'2193','Cité-Des-Jeunes / Aviron',45.467878,-75.77742
 2194,'2194','Cité-Des-Jeunes / Mont-Bleu',45.460815,-75.768026
 2195,'2195','Cité-Des-Jeunes / Aviron',45.4684,-75.777672
 2196,'2196','Atmosphère / Grives',45.437738,-75.786252
-2197,'2197','Cité-Des-Jeunes / Aviron',45.466792,-75.775936
+2197,'2197','Cité-Des-Jeunes / Aviron',45.466514,-75.775527
 2198,'2198','L`atmosphère / L`été',45.436958,-75.787352
 2200,'2200','Cité-Des-Jeunes / Perras',45.456775,-75.76503
 2203,'2203','Atmosphère / Équateur',45.440226,-75.780922
@@ -717,7 +717,7 @@
 2548,'2548','Alexandre-Taché / Millar',45.423989,-75.728386
 2549,'2549','Carrière / Casino',45.450537,-75.729278
 2550,'2550','Alexandre-Taché / Hanson',45.424276,-75.725693
-2551,'2551','Carrière / Adrien-Robert',45.458682,-75.733796
+2551,'2551','Carrière / Adrien-Robert',45.458984,-75.734007
 2553,'2553','Carrière / Edmonton',45.452784,-75.729895
 2555,'2555','Carrière / Edmonton',45.455432,-75.73201
 2560,'2560','Montcalm / Wright',45.426502,-75.72397
@@ -891,7 +891,7 @@
 2819,'2819','Amérique-Française / Art Moderne',45.437042,-75.808528
 2820,'2820','Amérique-Française / Art Moderne',45.437133,-75.808375
 2821,'2821','Conservatoire / Glenbow',45.438871,-75.809564
-2822,'2822','Conservatoire / Glenbow',45.439123,-75.809796
+2822,'2822','Conservatoire / Glenbow',45.439362,-75.809847
 2823,'2823','Grives / Alizés',45.445212,-75.785691
 2824,'2824','Grives / Vaudaire',45.447007,-75.789079
 2825,'2825','Grives / Chinook',45.448842,-75.789615
@@ -1482,7 +1482,7 @@
 4150,'4150','Maloney Est / Sabourin',45.484762,-75.63381
 4152,'4152','Maloney Est / Alonzo-Carrière',45.484609,-75.630547
 4154,'4154','Maloney Est / Côtéville',45.484255,-75.629596
-4156,'4156','Maloney / Achbar',45.484142,-75.627308
+4156,'4156','Maloney / Achbar',45.484262,-75.628085
 4157,'4157','715 Maloney',45.483608,-75.623714
 4158,'4158','Maloney Est / Achbar',45.483907,-75.627263
 4159,'4159','Maloney / Versailles',45.4834,-75.623881
