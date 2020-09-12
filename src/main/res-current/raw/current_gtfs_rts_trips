@@ -14,7 +14,7 @@
 2600,0,'Pink',26
 2700,0,'Galène',27
 2701,0,'Ottawa',27
-2800,0,'Gamémond',28
+2800,0,'GamÉmond',28
 2801,0,'Pré-Tunney',28
 3100,0,'Cgp GRoy',31
 3101,0,'Ottawa',31
@@ -47,6 +47,8 @@
 5001,0,'P-O-B Allum',50
 5200,0,'P-O-B Allum',52
 5201,0,'Rivermead',52
+5400,0,'Hochelaga',54
+5401,0,'Rivermead',54
 5501,0,'Ottawa',55
 5500,0,'P-O-B Allum',55
 5600,0,'Cgp GRoy',56
@@ -69,8 +71,8 @@
 6701,0,'Ottawa',67
 6800,0,'Affaires',68
 6801,0,'Cgp GRoy',68
+6900,0,'GD Jardins',69
 6901,0,'Gappe',69
-6900,0,'Gd Jardins',69
 7101,0,'Cité',71
 7100,0,'Labrosse',71
 7301,0,'Cité',73
@@ -87,7 +89,7 @@
 7801,0,'Labrosse',78
 7901,0,'Labrosse',79
 7900,0,'St-Thomas',79
-8500,0,'Côteneiges',85
+8500,0,'CôteNeiges',85
 8501,0,'Ottawa',85
 8700,0,'Cité',87
 8701,0,'Ottawa',87
@@ -112,7 +114,7 @@
 37101,0,'Ottawa',371
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
-42901,0,'E Montbleu',429
+42901,0,'E MontBleu',429
 43100,0,'Asticou Ctr',431
 43101,0,'ES Mont-Bleu',431
 43201,0,'Asticou Ctr',432
