@@ -395,9 +395,9 @@
 2082,'2082','St-Joseph / Lorimier',45.430078,-75.733361
 2084,'2084','St-Joseph / Montcalm',45.430889,-75.733256
 2088,'2088','St-Joseph / Montcalm',45.43305,-75.733093
-2089,'2089','Centre Asticou',45.450505,-75.76185
-2090,'2090','Centre Asticou (Service Intégré)',45.449091,-75.764138
-2091,'2091','Centre Asticou (Intégré)',45.449051,-75.764229
+2089,'2089','Ctr Asticou',45.450505,-75.76185
+2090,'2090','Ctr Asticou (Service Intégré)',45.449091,-75.764138
+2091,'2091','Ctr Asticou (Intégré)',45.449051,-75.764229
 2092,'2092','St-Joseph / Amherst',45.434284,-75.733083
 2093,'2093','Route 105 / Pont Alonzo Wright',45.48221,-75.749187
 2094,'2094','St-Joseph / Amherst',45.434093,-75.733263
@@ -491,7 +491,7 @@
 2205,'2205','Cité-Des-Jeunes / Perras',45.456211,-75.763188
 2206,'2206','Cité-Des-Jeunes / Églantiers',45.454317,-75.759765
 2208,'2208','Cité-Des-Jeunes / Thérien',45.454212,-75.759265
-2210,'2210','Centre Asticou',45.450424,-75.761759
+2210,'2210','Ctr Asticou',45.450424,-75.761759
 2212,'2212','Cité-Des-Jeunes',45.451253,-75.757653
 2213,'2213','Atmosphère / Gravité',45.440123,-75.779726
 2214,'2214','Cité-Des-Jeunes / Bédard',45.450357,-75.756963
@@ -594,7 +594,6 @@
 2347,'2347','Charles-Albanel / Breton',45.462907,-75.751221
 2348,'2348','Charles-Albanel / Lucien-Brault',45.463086,-75.751364
 2349,'2349','Charles-Albanel / Jumonville',45.464349,-75.750959
-2350,'2350','Charles-Albanel / Jumonville',45.464618,-75.751116
 2351,'2351','Daniel-Johnson / Jumonville',45.465152,-75.749281
 2352,'2352','Georges-Bilodeau / Lucien-Brault',45.462565,-75.74839
 2357,'2357','Daniel-Johnson / Jumonville',45.465084,-75.748589
@@ -787,7 +786,7 @@
 2681,'2681','Laurier / Allumettières',45.432928,-75.709657
 2682,'2682','Laurier / Allumettières',45.433055,-75.709394
 2683,'2683','Dussault / Notre-Dame-De-L''Île',45.440582,-75.709165
-2684,'2684','Centre La Piétà',45.439436,-75.708152
+2684,'2684','Ctr La Piétà',45.439436,-75.708152
 2690,'2690','Allumettières / Champlain',45.432194,-75.712026
 2692,'2692','Maisonneuve / Allumettières',45.433001,-75.712496
 2693,'2693','Maisonneuve / Verdun',45.434454,-75.712692
@@ -799,7 +798,7 @@
 2706,'2706','Allumettières / Morin',45.432123,-75.726075
 2708,'2708','Pink / Blizzard',45.443668,-75.791568
 2709,'2709','Pink / Blizzard',45.443554,-75.791166
-2711,'2711','Place D''Accueil',45.426243,-75.7136
+2711,'2711','Pl D''Accueil',45.426243,-75.7136
 2712,'2712','Cité-Des-Jeunes / Inconnu',45.475362,-75.786327
 2713,'2713','Cité-Des-Jeunes / Quartz',45.477096,-75.78989
 2714,'2714','Fournier / Joanisse',45.445419,-75.7131
@@ -807,8 +806,8 @@
 2716,'2716','Fournier / Bériault',45.446593,-75.712411
 2717,'2717','Fournier / Henri-Gauthier',45.444547,-75.712936
 2718,'2718','Fournier / Chemin Lac Leamy',45.45482,-75.703665
-2722,'2722','Place D''Accueil',45.426189,-75.713522
-2724,'2724','Place D''Accueil',45.426096,-75.714109
+2722,'2722','Pl D''Accueil',45.426189,-75.713522
+2724,'2724','Pl D''Accueil',45.426096,-75.714109
 2726,'2726','Fournier / Lac Leamy',45.454923,-75.703052
 2727,'2727','Trembles / Mayburry',45.426373,-75.763085
 2728,'2728','Trembles / Mayburry',45.426557,-75.762474
@@ -937,9 +936,9 @@
 3047,'3047','Érablière / Pierre-Radisson',45.469461,-75.711599
 3048,'3048','Érablière / Abbé-Guinguet',45.471477,-75.710251
 3049,'3049','Érablière / Pierre-Papin',45.472104,-75.706362
-3050,'3050','Pointe-Gatineau / Moreau',45.466389,-75.706226
-3056,'3056','Pointe-Gatineau / Cousineau',45.466726,-75.702687
-3057,'3057','Pointe-Gatineau / Cousineau',45.4666,-75.702775
+3050,'3050','Pte-Gatineau / Moreau',45.466389,-75.706226
+3056,'3056','Pte-Gatineau / Cousineau',45.466726,-75.702687
+3057,'3057','Pte-Gatineau / Cousineau',45.4666,-75.702775
 3058,'3058','Gréber / Louis-Riel',45.469259,-75.700595
 3060,'3060','Gréber / Louis-Riel',45.470753,-75.701115
 3062,'3062','Gréber / Louis-Riel',45.468681,-75.700828
@@ -962,9 +961,9 @@
 3124,'3124','Cité / Savane',45.476687,-75.677849
 3125,'3125','Cité / Lausanne',45.476614,-75.67813
 3127,'3127','Cité / Fontenelle',45.474073,-75.677037
-3128,'3128','Pointe-Gatineau / St-Rosaire',45.467705,-75.689689
+3128,'3128','Pte-Gatineau / St-Rosaire',45.467705,-75.689689
 3129,'3129','Cité / Bristol',45.47408,-75.677319
-3130,'3130','Pointe-Gatineau / St-Rosaire',45.467599,-75.689458
+3130,'3130','Pte-Gatineau / St-Rosaire',45.467599,-75.689458
 3137,'3137','St-Josaphat / Aline',45.472821,-75.692106
 3138,'3138','St-Josaphat / Aline',45.472536,-75.691744
 3139,'3139','St-Josaphat / Monseigneur-Forbes',45.470845,-75.691442
@@ -973,31 +972,31 @@
 3144,'3144','Gréber / St-Louis',45.461956,-75.699699
 3145,'3145','St-Josaphat / St-Georges',45.468868,-75.69097
 3146,'3146','Gréber / St-Louis',45.462602,-75.700014
-3147,'3147','Gréber / Pointe-Gatineau',45.46459,-75.700281
+3147,'3147','Gréber / Pte-Gatineau',45.46459,-75.700281
 3148,'3148','Gréber / Lafortune',45.463593,-75.699796
-3150,'3150','Gréber / Pointe-Gatineau',45.466136,-75.700492
-3152,'3152','Gréber / Pointe-Gatineau',45.466186,-75.700165
-3154,'3154','Pointe-Gatineau / St-Antoine',45.466925,-75.699683
-3156,'3156','Pointe-Gatineau / St-Antoine',45.466745,-75.69963
-3189,'3189','Pointe-Gatineau / Berthe',45.468349,-75.687395
-3190,'3190','Pointe-Gatineau / Berthe',45.467989,-75.687493
-3192,'3192','Pointe-Gatineau / Florian-Thibault',45.469989,-75.68509
-3194,'3194','Pointe-Gatineau / Florian-Thibault',45.46993,-75.684945
-3195,'3195','Pointe-Gatineau / Jean-Talon',45.470606,-75.684228
-3198,'3198','Pointe-Gatineau / Robert-Savoie',45.470802,-75.683676
+3150,'3150','Gréber / Pte-Gatineau',45.466136,-75.700492
+3152,'3152','Gréber / Pte-Gatineau',45.466186,-75.700165
+3154,'3154','Pte-Gatineau / St-Antoine',45.466925,-75.699683
+3156,'3156','Pte-Gatineau / St-Antoine',45.466745,-75.69963
+3189,'3189','Pte-Gatineau / Berthe',45.468349,-75.687395
+3190,'3190','Pte-Gatineau / Berthe',45.467989,-75.687493
+3192,'3192','Pte-Gatineau / Florian-Thibault',45.469989,-75.68509
+3194,'3194','Pte-Gatineau / Florian-Thibault',45.46993,-75.684945
+3195,'3195','Pte-Gatineau / Jean-Talon',45.470606,-75.684228
+3198,'3198','Pte-Gatineau / Robert-Savoie',45.470802,-75.683676
 3200,'3200','Savane / Florian-Thibault',45.474775,-75.686142
 3207,'3207','Picardie / Provence',45.471135,-75.72174
 3209,'3209','St-Antoine / Lafortune',45.464767,-75.699158
 3211,'3211','St-Antoine / Onésime',45.464949,-75.698943
 3215,'3215','St-Antoine / Aimé',45.462071,-75.698549
-3216,'3216','Pointe-Gatineau / Joly',45.471745,-75.681493
+3216,'3216','Pte-Gatineau / Joly',45.471745,-75.681493
 3217,'3217','St-Louis / St-Antoine',45.4616,-75.698978
-3218,'3218','Pointe-Gatineau / Joly',45.471721,-75.680527
+3218,'3218','Pte-Gatineau / Joly',45.471721,-75.680527
 3219,'3219','St-Louis / Bristol',45.472187,-75.677808
 3220,'3220','St-Louis / Cité',45.472006,-75.677934
-3221,'3221','Quai Local De La Gappe #4',45.468868,-75.716317
-3222,'3222','Quai Local De La Gappe #5',45.468695,-75.71658
-3223,'3223','Quai Local De La Gappe #6',45.468393,-75.71706
+3221,'3221','Quai Local De La GAPPE #4',45.468868,-75.716317
+3222,'3222','Quai Local De La GAPPE #5',45.468695,-75.71658
+3223,'3223','Quai Local De La GAPPE #6',45.468393,-75.71706
 3226,'3226','Gréber / Jacques-Cartier',45.4581,-75.700214
 3228,'3228','Gréber / Jacques-Cartier',45.457968,-75.699752
 3230,'3230','Gréber / St-Louis',45.460174,-75.699689
@@ -1091,10 +1090,10 @@
 3464,'3464','Barry / Bourassa',45.485558,-75.711831
 3465,'3465','Barry / Olier',45.482595,-75.709999
 3466,'3466','Barry / Olier',45.482552,-75.709653
-3471,'3471','Grands-Jardins / Pointe-Taillon',45.506302,-75.751184
-3472,'3472','Grands-Jardins / Pointe-Taillon',45.50613,-75.751348
-3473,'3473','Grands-Jardins / Pointe-Pelée',45.505971,-75.753535
-3474,'3474','Grands-Jardins / Pointe-Pelée',45.505851,-75.753033
+3471,'3471','Grands-Jardins / Pte-Taillon',45.506302,-75.751184
+3472,'3472','Grands-Jardins / Pte-Taillon',45.50613,-75.751348
+3473,'3473','Grands-Jardins / Pte-Pelée',45.505971,-75.753535
+3474,'3474','Grands-Jardins / Pte-Pelée',45.505851,-75.753033
 3475,'3475','Grands-Jardins / Port-Daniel',45.504707,-75.759509
 3476,'3476','Grands-Jardins / Port-Daniel',45.504595,-75.758829
 3477,'3477','Grands-Jardins / Anticosti',45.505343,-75.75729
@@ -1463,7 +1462,7 @@
 4163,'4163','Maloney E / Monseigneur-Lemieux',45.482526,-75.616371
 4164,'4164','Maloney E / Chamberland',45.483236,-75.612023
 4167,'4167','Lorrain / Fleurs',45.506237,-75.609385
-4202,'4202','Centre Cado',45.483728,-75.664821
+4202,'4202','Ctr Cado',45.483728,-75.664821
 4227,'4227','Cannes / Sanary',45.485026,-75.727036
 4228,'4228','Cannes / Sanary',45.484937,-75.726907
 4230,'4230','Cannes / Rayol',45.488465,-75.724137
@@ -1486,7 +1485,7 @@
 4255,'4255','Vérendrye O / Gatineau',45.489232,-75.718768
 4256,'4256','Cannes / LaVÉRENDRYE O',45.489985,-75.72426
 4273,'4273','Lebaudy / Gallois',45.498444,-75.740084
-4275,'4275','Centre Communautaire Limbour',45.498682,-75.739752
+4275,'4275','Ctr Communautaire Limbour',45.498682,-75.739752
 4277,'4277','Gallois / Émard',45.499817,-75.736351
 4278,'4278','Gallois / Émard',45.49989,-75.739207
 4279,'4279','Lebaudy / Loutre',45.496188,-75.740925
@@ -1800,7 +1799,7 @@
 5003,'5003','King Edward / St-Patrick',45.433019,-75.689613
 5014,'5014','Rideau / Cumberland',45.428475,-75.686715
 5026,'5026','Mackenzie / Rideau',45.42653,-75.695326
-5027,'5027','Centre Rideau',45.42411,-75.689427
+5027,'5027','Ctr Rideau',45.42411,-75.689427
 5030,'5030','Wellington / Metcalfe',45.423622,-75.697806
 5032,'5032','Wellington / Metcalfe',45.423323,-75.698211
 5034,'5034','Wellington / O''Connor',45.422852,-75.699595
@@ -1819,7 +1818,7 @@
 5109,'5109','Bank / Queen',45.420724,-75.701013
 5112,'5112','Ston Lyon',45.419194,-75.705233
 5113,'5113','Ston Lyon',45.419203,-75.705233
-5136,'5136','Ston Centre Rideau',45.424111,-75.689429
+5136,'5136','Ston Ctr Rideau',45.424111,-75.689429
 5138,'5138','Ston Rideau',45.424108,-75.689962
 5198,'5198','L`Atmosphère / L` Été',45.436958,-75.787352
 5213,'5213','Atmosphère / Gravité',45.440176,-75.779732
@@ -1935,7 +1934,7 @@
 7254,'7254','Grande Allée / Saisons (Arrêt De Courtoisie)',45.454468,-75.889065
 8010,'8010','Taché-Uqo #2',45.423973,-75.731812
 8011,'8011','Taché-Uqo #1',45.423786,-75.732102
-8020,'8020','Ston Montcalm Bretelle Dir N #2',45.430826,-75.729037
+8020,'8020','Ston MONTCALM Bretelle Dir N #2',45.430826,-75.729037
 8021,'8021','Ston Montcalm Bretelle Dir S #1',45.430467,-75.72922
 8022,'8022','Ston Montcalm #5',45.430194,-75.72955
 8023,'8023','Ston Montcalm #4',45.42993,-75.729714
@@ -1951,9 +1950,9 @@
 8070,'8070','Ston Promenades #2',45.477737,-75.69786
 8071,'8071','Ston Promenades #1',45.478011,-75.697185
 8072,'8072','Ston Locale Les Promenades',45.478003,-75.697566
-8080,'8080','Ston De La Cité #3',45.48115,-75.683356
-8081,'8081','Ston De La Cité #1',45.481111,-75.68424
-8083,'8083','Ston De La Cité #2',45.481261,-75.683737
+8080,'8080','Ston De La CITÉ #3',45.48115,-75.683356
+8081,'8081','Ston De La CITÉ #1',45.481111,-75.68424
+8083,'8083','Ston De La CITÉ #2',45.481261,-75.683737
 8090,'8090','Ston Gouin #2',45.486146,-75.661288
 8091,'8091','Ston Gouin #1',45.486232,-75.661942
 8500,'8500','Ston Labrosse #04',45.490393,-75.643424
