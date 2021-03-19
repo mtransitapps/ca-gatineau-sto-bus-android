@@ -8,14 +8,22 @@
 1801,0,'Pré-Tunney',18
 2000,0,'Freeman',20
 2001,0,'Stat Lyon',20
+2201,0,'Ottawa',22
+2200,0,'Pink',22
 2300,0,'Amsterdam',23
 2301,0,'Ottawa',23
+2401,0,'Ottawa',24
+2400,0,'Plateau',24
+2500,0,'Amérique-Française',25
+2501,0,'Ottawa',25
 2601,0,'Ottawa',26
 2600,0,'Pink',26
 2700,0,'Galène',27
 2701,0,'Ottawa',27
 2800,0,'GamÉmond',28
 2801,0,'Pré-Tunney',28
+2900,0,'Louise-Campagna',29
+2901,0,'Ottawa',29
 3100,0,'Cgp GRoy',31
 3101,0,'Ottawa',31
 3300,0,'Freeman',33
@@ -24,6 +32,7 @@
 3400,0,'P-O-B Allum',34
 3500,0,'M.Burger',35
 3501,0,'Ottawa',35
+3600,0,'Cgp GRoy',36
 3601,0,'Ottawa',36
 3700,0,'Cgp GRoy',37
 3701,0,'Ottawa',37
@@ -95,10 +104,12 @@
 8701,0,'Ottawa',87
 9300,0,'M-Angers',93
 9301,0,'Ottawa',93
+9401,0,'Ottawa',94
 9500,0,'Buckingham',95
 9501,0,'Ottawa',95
 9700,0,'Ar Masson',97
 9701,0,'Labrosse',97
+9801,0,'Ottawa',98
 29700,0,'AM',297
 29701,0,'PM',297
 32501,0,'AM',325
