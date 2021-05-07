@@ -1,55 +1,55 @@
 1100,0,'Cgp GRoy',11
-1101,0,'Pl.Accueil',11
+1101,0,'Ottawa / Lyon / Pl.Accueil',11
 1501,0,'Gappe',15
 1500,0,'Érables',15
 1700,0,'Cgp GRoy',17
-1701,0,'Pl.Accueil',17
+1701,0,'Ottawa / Lyon / Pl.Accueil',17
 1800,0,'Labrosse',18
 1801,0,'Pré-Tunney',18
 2000,0,'Freeman',20
 2001,0,'Stat Lyon',20
-2201,0,'Ottawa',22
-2200,0,'Pink',22
+2201,0,'Ottawa / Lyon',22
+2200,0,'Pink / Sapinière',22
 2300,0,'Amsterdam',23
-2301,0,'Ottawa',23
-2401,0,'Ottawa',24
+2301,0,'Ottawa / Ctr Rideau',23
+2401,0,'Ottawa / Ctr Rideau',24
 2400,0,'Plateau',24
 2500,0,'Amérique-Française',25
-2501,0,'Ottawa',25
-2601,0,'Ottawa',26
-2600,0,'Pink',26
+2501,0,'Ottawa / Lyon',25
+2601,0,'Ottawa / Lyon',26
+2600,0,'Pink / Sapinière',26
 2700,0,'Galène',27
-2701,0,'Ottawa',27
+2701,0,'Ottawa / Lyon',27
 2800,0,'GamÉmond',28
 2801,0,'Pré-Tunney',28
 2900,0,'Louise-Campagna',29
-2901,0,'Ottawa',29
+2901,0,'Ottawa / Lyon',29
 3100,0,'Cgp GRoy',31
 3101,0,'Ottawa',31
 3300,0,'Freeman',33
 3301,0,'Ottawa',33
-3401,0,'Ottawa',34
+3401,0,'Ottawa / Ctr Rideau',34
 3400,0,'P-O-B Allum',34
-3500,0,'M.Burger',35
+3500,0,'Cgp GRoy / M.Burger',35
 3501,0,'Ottawa',35
 3600,0,'Cgp GRoy',36
-3601,0,'Ottawa',36
+3601,0,'Ottawa / Ctr Rideau',36
 3700,0,'Cgp GRoy',37
-3701,0,'Ottawa',37
+3701,0,'Ottawa / Ctr Rideau',37
 3800,0,'Freeman',38
-3801,0,'Ottawa',38
+3801,0,'Ottawa / Ctr Rideau',38
 3900,0,'Freeman',39
 3901,0,'Vanier',39
 4000,0,'Front / Allum',40
-4001,0,'Ottawa',40
-4101,0,'Ottawa',41
+4001,0,'Ottawa / Lyon',40
+4101,0,'Ottawa / Lyon',41
 4100,0,'P-O-B Allum',41
 4500,0,'Gal.Aylmer',45
-4501,0,'Ottawa',45
+4501,0,'Ottawa / Lyon',45
 4700,0,'Gal.Aylmer',47
-4701,0,'Ottawa',47
+4701,0,'Ottawa / Lyon',47
 4800,0,'Cook / Perry',48
-4801,0,'Ottawa',48
+4801,0,'Ottawa / Lyon',48
 4900,0,'Cgp GRoy',49
 4901,0,'Gal.Aylmer',49
 5000,0,'Cgp GRoy',50
@@ -98,18 +98,19 @@
 7801,0,'Labrosse',78
 7901,0,'Labrosse',79
 7900,0,'St-Thomas',79
-8500,0,'CôteNeiges',85
-8501,0,'Ottawa',85
+8500,0,'CôteNeiges / Côtes-Des-Neiges',85
+8501,0,'Ottawa / Lyon',85
 8700,0,'Cité',87
-8701,0,'Ottawa',87
+8701,0,'Ottawa / Ctr Rideau',87
 9300,0,'M-Angers',93
-9301,0,'Ottawa',93
-9401,0,'Ottawa',94
+9301,0,'Ottawa / Lyon',93
+9401,0,'Ottawa / Lyon',94
 9500,0,'Buckingham',95
-9501,0,'Ottawa',95
+9501,0,'Ottawa / Lyon',95
 9700,0,'Ar Masson',97
 9701,0,'Labrosse',97
-9801,0,'Ottawa',98
+9801,0,'Ottawa / Lyon',98
+13400,0,'Plateau',134
 29700,0,'AM',297
 29701,0,'PM',297
 32501,0,'AM',325
@@ -122,7 +123,7 @@
 33400,0,'AM',334
 33401,0,'PM',334
 37100,0,'Cgp GRoy',371
-37101,0,'Ottawa',371
+37101,0,'Ottawa / Ctr Rideau',371
 40000,0,'Labrosse',400
 40001,0,'Ottawa',400
 42901,0,'É MontBleu',429
