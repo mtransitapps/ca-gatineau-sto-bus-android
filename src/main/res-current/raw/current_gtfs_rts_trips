@@ -1,13 +1,13 @@
 1100,0,'Cgp GRoy',11
-1101,0,'Pl.Accueil',11
+1101,0,'Ottawa',11
 1501,0,'Gappe',15
 1500,0,'Érables',15
 1700,0,'Cgp GRoy',17
-1701,0,'Pl.Accueil',17
+1701,0,'Ottawa',17
 1800,0,'Labrosse',18
 1801,0,'Pré-Tunney',18
 2000,0,'Freeman',20
-2001,0,'Stat Lyon',20
+2001,0,'Ottawa',20
 2201,0,'Ottawa',22
 2200,0,'Pink',22
 2300,0,'Amsterdam',23
@@ -110,6 +110,7 @@
 9700,0,'Ar Masson',97
 9701,0,'Labrosse',97
 9801,0,'Ottawa',98
+13400,0,'Plateau',134
 29700,0,'AM',297
 29701,0,'PM',297
 32501,0,'AM',325
