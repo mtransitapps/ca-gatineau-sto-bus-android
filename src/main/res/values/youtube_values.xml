@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="youtube_db_version">1</integer>
+    <integer name="youtube_db_version">2</integer>
     <string name="youtube_authority">org.mtransit.android.ca_gatineau_sto_bus.news.youtube</string>
     <string name="youtube_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="youtube_color">@string/gtfs_rts_color</string>
@@ -12,6 +12,9 @@
     </string-array>
     <string-array name="youtube_channels_uploads_playlist_id">
         <item>UURWwm_Ps2d-omfPlCj_vQbg</item>
+    </string-array>
+    <string-array name="youtube_channels_author_icon">
+        <item>https://yt3.ggpht.com/pZdy9xz_Cd5_9S6l-Gcx0MQnaOA1IhRYExZ4uYW0CTr5Szy5OAkgR-87FnWPm9gWphLGmccw=s88-c-k-c0x00ffffff-no-rj</item>
     </string-array>
     <string-array name="youtube_channels_author_name">
         <item>@string/gtfs_rts_short_name</item>
