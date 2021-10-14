@@ -1,12 +1,12 @@
 This app adds Société de Transport de l'Outaouais (STO) buses information to MonTransit.
 
-This app provides the buses schedule as well as the System-Info from sto.ca and the latest news from YouTube and @STOGatineau on Twitter.
+This app provides the buses schedule as well as the System-Info from sto.ca and the latest news from @STOGatineau on Twitter.
 
 STO buses serve Gatineau in Quebec, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-gatineau-sto-bus-android
 This app is not related with the Société de Transport de l'Outaouais (STO).
 
 Permissions:
-- Other: required to read the System-Info from sto.ca and the news from Twitter & YouTube
+- Other: required to read the System-Info from sto.ca and the news from Twitter
