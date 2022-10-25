@@ -31,7 +31,7 @@
 3500,0,'M.Burger',35
 3501,0,'Ottawa',35
 3600,0,'Cgp GRoy',36
-3601,0,'Ottawa / Ctr Rideau',36
+3601,0,'Ottawa',36
 3700,0,'Cgp GRoy',37
 3701,0,'Ottawa',37
 3800,0,'Freeman',38
@@ -103,20 +103,20 @@
 9300,0,'M-Angers',93
 9301,0,'Ottawa',93
 9401,0,'Ottawa',94
-9500,0,'Buckingham',95
+9500,0,'Buck',95
 9501,0,'Ottawa',95
 9700,0,'Ar Masson',97
 9701,0,'Labrosse',97
 9801,0,'Ottawa',98
 13400,0,'Plateau',134
-29701,0,'H-Gamelin',297
-29700,0,'H-Gamelin / Nord',297
-32500,0,'C St-Alex',325
-32501,0,'C St-Alex / Col St-Alexandre',325
-32600,0,'C St-Alex',326
-32601,0,'C St-Alex / Col St-Alexandre',326
-32901,0,'C St-Alex',329
-32900,0,'C St-Alex / Col St-Alexandre',329
+29700,0,'AM',297
+29701,0,'PM',297
+32501,0,'AM',325
+32500,0,'PM',325
+32601,0,'AM',326
+32600,0,'PM',326
+32900,0,'AM',329
+32901,0,'PM',329
 33100,0,'AM',331
 33101,0,'PM',331
 37100,0,'Cgp GRoy',371
