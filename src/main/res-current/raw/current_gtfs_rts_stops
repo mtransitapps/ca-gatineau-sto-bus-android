@@ -692,7 +692,7 @@
 2547,'2547','St-Raymond / Jonquilles',45.423191,-75.761086,1
 2548,'2548','Alexandre-Taché / Millar',45.423989,-75.728386,1
 2549,'2549','Carrière / Casino',45.450537,-75.729278,1
-2550,'2550','Alexandre-Taché / Hanson',45.424276,-75.725693,2
+2550,'2550','Alexandre-Taché / Hanson',45.424211,-75.72614,2
 2551,'2551','Carrière / Adrien-Robert',45.458984,-75.734007,1
 2552,'2552','Carrière / Adrien-Robert',45.457084,-75.732767,2
 2553,'2553','Carrière / Edmonton',45.452144,-75.729768,1
@@ -1941,19 +1941,21 @@
 9048,'9048','Lambert / Joanisse',45.444926,-75.716955,2
 9049,'9049','Lambert / Joanisse',45.444261,-75.716324,2
 9050,'9050','Lambert / Fournier',45.443992,-75.713836,2
-9051,'9051','Camp Fortune',45.508981,-75.852904,1
+9051,'9051','Camp Fortune',45.509115,-75.850627,1
 9052,'9052','Champlain',45.508491,-75.912821,1
-9053,'9053','Ctr Des Visiteurs / Visitor Center',45.505244,-75.812345,1
-9054,'9054','Ctr Des Visiteurs / Visitor Center',45.505253,-75.812345,1
-9100,'9100','Entrée S / South Entrance',45.440542,-75.761665,1
-9101,'9101','Entrée S / South Entrance',45.440542,-75.761652,1
-9102,'9102','Lac Pink / Pink Lake',45.466777,-75.807916,1
-9103,'9103','Lac Pink / Pink Lake',45.466786,-75.807916,1
-9104,'9104','Mackenzie-King',45.480269,-75.848441,1
-9105,'9105','Mackenzie-King',45.480188,-75.84844,1
-9106,'9106','Mont King / King Mountain',45.492599,-75.86139,1
+9053,'9053','Ctr Des Visiteurs / Visitor Center',45.505154,-75.812382,1
+9054,'9054','Ctr Des Visiteurs / Visitor Center',45.505163,-75.812382,1
+9100,'9100','Entrée S / South Entrance',45.439988,-75.761609,1
+9101,'9101','Entrée S / South Entrance',45.439979,-75.76161,1
+9102,'9102','Lac Pink / Pink Lake',45.466786,-75.80798,1
+9103,'9103','Lac Pink / Pink Lake',45.466777,-75.80798,1
+9104,'9104','Mackenzie-King',45.485215,-75.846167,1
+9105,'9105','Mackenzie-King',45.485205,-75.846167,1
+9106,'9106','Mont King / King Mountain',45.492557,-75.862165,1
 9107,'9107','Mont King / King Mountain',45.492488,-75.861339,1
 9108,'9108','Fictif P-O-B Cheval Blanc',45.50493,-75.582207,1
+9111,'9111','Lauriault / Mulvihill',45.484093,-75.857849,1
+9112,'9112','Lauriault / Mulvihill',45.48393,-75.857734,1
 9113,'9113','Parc Pindigen',45.416436,-75.714267,1
 9114,'9114','Parc Pindigen',45.416427,-75.714267,1
 9602,'9602','É St-Joseph (Fictif)',45.431621,-75.709901,2
