@@ -572,6 +572,7 @@
 2347,'2347','Charles-Albanel / Breton',45.462907,-75.751221,2
 2348,'2348','Charles-Albanel / Lucien-Brault',45.463086,-75.751364,2
 2349,'2349','Charles-Albanel / Jumonville',45.464379,-75.75096,2
+2350,'2350','Charles-Albanel / Jumonville',45.464618,-75.751116,1
 2351,'2351','Daniel-Johnson / Jumonville',45.464939,-75.748703,1
 2352,'2352','Georges-Bilodeau / Lucien-Brault',45.462565,-75.74839,2
 2357,'2357','Daniel-Johnson / Jumonville',45.464684,-75.748344,2
@@ -1854,9 +1855,13 @@
 7179,'7179','Mgne / Cook (Arrêt De Courtoisie)',45.458209,-75.803982,2
 7180,'7180','Mgne / Zéphyr (Arrêt De Courtoisie)',45.455471,-75.797753,2
 7181,'7181','Mgne / Zéphyr (Arrêt De Courtoisie)',45.455681,-75.797296,2
+7182,'7182','Mgne / Grives',45.45042,-75.787656,2
+7184,'7184','Mgne / Brise (Arrêt De Courtoisie)',45.448103,-75.782879,2
 7188,'7188','Hochelaga / Brouage (Arrêt De Courtoisie)',45.425062,-75.791726,2
 7189,'7189','Montagnais / Atholl-Doune (Arrêt De Courtoisie)',45.415657,-75.788911,2
 7190,'7190','Port-Royal / St-Malo (Arrêt De Courtoisie)',45.418897,-75.792944,2
+7192,'7192','Mgne / Grives',45.450522,-75.787622,2
+7194,'7194','Mgne / Brise (Arrêt De Courtoisie)',45.448157,-75.782829,2
 7250,'7250','Perry / Cook (Arrêt De Courtoisie)',45.453577,-75.883242,2
 7251,'7251','Perry / Chevreuils (Arrêt De Courtoisie)',45.45818,-75.883773,2
 7252,'7252','Perry / Ravin (Arrêt De Courtoisie)',45.462669,-75.884301,2
