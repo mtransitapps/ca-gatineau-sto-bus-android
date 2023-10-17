@@ -1,6 +1,6 @@
 1000,'1000','Front / Cormier',45.404937,-75.854477,2
 1001,'1001','Front / Tsse-Eardley',45.408163,-75.856295,2
-1002,'1002','Front / Cormier',45.40429,-75.854024,2
+1002,'1002','Cormier / Front',45.40429,-75.854024,2
 1004,'1004','Eardley / Front',45.401477,-75.854773,1
 1005,'1005','Front / Tsse-Eardley',45.406665,-75.855729,1
 1006,'1006','Eardley / Front',45.401653,-75.854754,1
@@ -15,7 +15,7 @@
 1023,'1023','147 Eardley',45.404807,-75.860497,2
 1024,'1024','Arthur-Croteau / Xavier',45.400531,-75.860534,2
 1025,'1025','Eardley / Riley',45.406576,-75.86336,2
-1026,'1026','Beaulac / Arthur-Croteau',45.400316,-75.861629,2
+1026,'1026','Arthur-Croteau / Xavier',45.400316,-75.861629,2
 1027,'1027','Eardley / Riley',45.406395,-75.863485,2
 1028,'1028','Beaulac / Xavier',45.400704,-75.86399,1
 1030,'1030','Beaulac / Kayak',45.402114,-75.866438,1
@@ -26,11 +26,11 @@
 1039,'1039','Beaulac / Rameur',45.403222,-75.8688,2
 1040,'1040','Front / Derwin',45.397891,-75.855024,2
 1042,'1042','Front / Cathcart',45.395751,-75.854623,2
-1043,'1043','Lattion / Beaulac',45.408013,-75.870947,2
+1043,'1043','Lattion / Beaupré',45.408013,-75.870947,2
 1044,'1044','Front / Cathcart',45.39575,-75.854725,1
-1045,'1045','Lattion / Beaulac',45.407907,-75.870741,2
+1045,'1045','Lattion / Beaupré',45.407907,-75.870741,2
 1046,'1046','Principale / Tiberius',45.394405,-75.852852,2
-1047,'1047','Lattion / Beaulac',45.404735,-75.872447,1
+1047,'1047','Beaulac / Lattion',45.404735,-75.872447,1
 1048,'1048','Principale / Tiberius',45.39438,-75.852545,1
 1049,'1049','Lattion / Beaulac',45.405337,-75.87244,2
 1050,'1050','Principale / Jubilee',45.39461,-75.85067,1
@@ -38,7 +38,7 @@
 1052,'1052','Principale / Jubilee',45.394513,-75.850439,1
 1053,'1053','Vanier / Plateau',45.4211,-75.809834,2
 1054,'1054','Principale / Parker',45.394749,-75.848067,2
-1056,'1056','Principale / Bancroft',45.394669,-75.847877,2
+1056,'1056','Principale / Parker',45.394669,-75.847877,2
 1058,'1058','Vanier / Attikameks',45.413188,-75.808609,1
 1059,'1059','Vanier / Attikameks',45.413639,-75.808436,1
 1061,'1061','Vanier / Antoine-Boucher',45.426643,-75.815282,2
@@ -49,26 +49,26 @@
 1073,'1073','Wilfrid-Lavigne / Principale',45.397763,-75.83812,1
 1074,'1074','Wilfrid-Lavigne / Principale',45.396413,-75.838113,1
 1075,'1075','Wilfrid-Lavigne / Leguerrier',45.398308,-75.837489,1
-1076,'1076','Wilfrid-Lavigne / John-Egan',45.399207,-75.837656,1
+1076,'1076','Wilfrid-Lavigne / Leguerrier',45.399207,-75.837656,1
 1078,'1078','Wilfrid-Lavigne / John-Egan',45.400109,-75.837299,1
 1080,'1080','Wilfrid-Lavigne / Corse',45.401905,-75.837951,1
 1082,'1082','Wilfrid-Lavigne / Corse',45.401881,-75.837591,1
 1084,'1084','Wilfrid-Lavigne / Charles-Devlin',45.404066,-75.837894,1
-1085,'1085','Vanier / Antoine-Boucher',45.427458,-75.815728,2
+1085,'1085','Vanier / Amsterdam',45.427458,-75.815728,2
 1086,'1086','Wilfrid-Lavigne / Charles-Devlin',45.404153,-75.838266,1
 1088,'1088','Wilfrid-Lavigne / Rédemptoristes',45.406581,-75.838595,1
 1090,'1090','Wilfrid-Lavigne / Rédemptoristes',45.406943,-75.838291,1
 1091,'1091','Vanier / Allumettières',45.416698,-75.808861,1
 1092,'1092','Wilfrid-Lavigne / Bruyne',45.409281,-75.838597,1
 1093,'1093','Wilfrid-Lavigne / Jean-Delisle',45.409818,-75.839039,1
-1095,'1095','Vanier / Allumettières',45.417716,-75.809247,2
+1095,'1095','Vanier / Séto',45.417716,-75.809247,2
 1096,'1096','P-O-B Allumettières',45.407098,-75.865783,1
 1097,'1097','P-O-B Allumettières',45.407032,-75.866201,1
 1098,'1098','Allumettières / Wilfrid-Lavigne',45.410535,-75.839536,1
 1099,'1099','P-O-B Allumettières',45.407107,-75.865835,1
 1100,'1100','Allumettières / Champignons',45.410329,-75.843021,1
 1102,'1102','Broad / Wright',45.408756,-75.848825,1
-1103,'1103','Broad / John-Ronay',45.407976,-75.847543,1
+1103,'1103','Broad / John-Roney',45.407976,-75.847543,1
 1106,'1106','Broad / Louis-St-Laurent',45.407258,-75.846822,1
 1108,'1108','Front / Allumettières',45.410318,-75.856529,1
 1109,'1109','Front / Allumettières',45.410316,-75.856861,2
@@ -79,7 +79,7 @@
 1119,'1119','Allumettières / Front',45.409151,-75.856115,1
 1120,'1120','Bagot / Broad',45.402835,-75.845601,1
 1121,'1121','Bagot / Parker',45.402731,-75.84793,1
-1122,'1122','Wilfrid-Lavigne / Maurice St-Louis',45.420306,-75.845207,1
+1122,'1122','Wilfrid-Lavigne / Maurice-Duplessis',45.420306,-75.845207,1
 1123,'1123','Wilfrid-Lavigne / Maurice-Duplessis',45.42044,-75.845425,1
 1124,'1124','Broad / Bagot',45.403205,-75.844743,2
 1127,'1127','Wilfrid-Lavigne / Lyse-Daniels',45.422207,-75.847364,1
@@ -96,7 +96,7 @@
 1139,'1139','Vanier / Dunkerque',45.430752,-75.817716,2
 1140,'1140','Cormier / Bagot',45.402528,-75.851032,1
 1141,'1141','Cormier / Chartier',45.403959,-75.852293,1
-1142,'1142','Cormier / Bagot',45.402581,-75.850335,1
+1142,'1142','Bagot / Cormier',45.402581,-75.850335,1
 1147,'1147','Cormier / Chartier',45.40414,-75.852245,2
 1151,'1151','Wilfrid-Lavigne / Klock',45.422699,-75.850006,1
 1153,'1153','Eardley / Parker',45.397779,-75.848188,1
@@ -106,7 +106,7 @@
 1158,'1158','Frank-Robinson / Patrimoine',45.394772,-75.840976,1
 1159,'1159','Eardley / Court',45.396089,-75.845365,1
 1161,'1161','Eardley / Roméo-Gendron',45.399112,-75.850419,1
-1162,'1162','Wychwood / Smiley',45.392872,-75.842315,2
+1162,'1162','Wychwood / Lord-Aylmer',45.392872,-75.842315,2
 1163,'1163','Eardley / Dalhousie',45.398727,-75.850065,1
 1164,'1164','Wychwood / Lord-Aylmer',45.390263,-75.842071,2
 1165,'1165','Eardley / Adélard-Sauvé',45.400356,-75.852584,1
@@ -152,7 +152,7 @@
 1234,'1234','Chemin D''Aylmer / Fraser',45.396301,-75.825105,1
 1247,'1247','Fraser / Riopelle',45.387431,-75.823009,1
 1248,'1248','Fraser / Chapel',45.390128,-75.823584,2
-1250,'1250','Fraser / Joe-Archambault',45.389679,-75.823361,1
+1250,'1250','Fraser / Chapel',45.389679,-75.823361,1
 1251,'1251','Lucerne / Victor-Beaudry',45.385258,-75.812221,2
 1252,'1252','Fraser / Riopelle',45.38788,-75.823245,2
 1253,'1253','Lucerne / Victor-Beaudry',45.384965,-75.813022,2
@@ -172,7 +172,7 @@
 1285,'1285','Côté / Lamoureux',45.381507,-75.808673,2
 1286,'1286','Chemin D''Aylmer / Maple Grove',45.397633,-75.813899,1
 1287,'1287','Lamoureux / Vanier',45.38128,-75.804749,1
-1288,'1288','Chemin D''Aylmer / Grimes',45.396742,-75.817695,1
+1288,'1288','Chemin D''Aylmer / Victor-Beaudry',45.396742,-75.817695,1
 1289,'1289','Vanier / Madaire',45.383579,-75.804749,1
 1290,'1290','Chemin D''Aylmer / Grimes',45.396863,-75.818278,1
 1291,'1291','Vanier / St-Médard',45.385833,-75.80486,1
@@ -198,7 +198,7 @@
 1316,'1316','Vanier / St-Médard',45.385829,-75.804922,1
 1317,'1317','Vanier / Lucerne',45.386092,-75.805106,1
 1318,'1318','Jean-De La Fontaine / Alexandre-Dumas',45.411998,-75.798572,2
-1319,'1319','Jean-De La Fontaine / Alexandre-Dumas',45.413032,-75.798521,1
+1319,'1319','Jean-De La Fontaine / Mcconnell',45.413032,-75.798521,1
 1320,'1320','Lucerne / Royale',45.41495,-75.761793,2
 1321,'1321','Lucerne / Royale',45.414951,-75.761666,2
 1323,'1323','Vanier / Kilroy',45.439036,-75.819168,2
@@ -225,7 +225,7 @@
 1352,'1352','Chemin D''Aylmer / Hippodrome',45.402861,-75.799261,1
 1354,'1354','Chemin D''Aylmer / Vanier',45.400081,-75.807096,1
 1355,'1355','Chemin D''Aylmer / Hippodrome',45.402477,-75.799797,1
-1358,'1358','Chemin D''Aylmer / Rivermead',45.404468,-75.794122,1
+1358,'1358','P-O-B Rivermead',45.404468,-75.794122,1
 1361,'1361','Chemin D''Aylmer / Honfleur',45.406209,-75.789801,2
 1362,'1362','Chemin D''Aylmer / Atholl Doune',45.407219,-75.786928,1
 1363,'1363','Chemin D''Aylmer / Honfleur',45.405845,-75.790384,2
@@ -238,18 +238,18 @@
 1374,'1374','Chemin D''Aylmer / Chaudière',45.410618,-75.776828,1
 1376,'1376','Chemin D''Aylmer / Chaudière',45.410504,-75.777785,2
 1377,'1377','P-O-B Rivermead',45.403798,-75.793461,1
-1378,'1378','Chemin D''Aylmer / Pont Champlain',45.413553,-75.768778,2
+1378,'1378','Chemin D''Aylmer / Berkly-Powell',45.413553,-75.768778,2
 1379,'1379','Pink / Auguste-Mondoux',45.442123,-75.814565,2
-1381,'1381','Chemin D''Aylmer / Pont Champlain',45.414542,-75.766404,2
+1381,'1381','Chemin D''Aylmer / Samuel-De-Champlain',45.414542,-75.766404,2
 1382,'1382','Chemin D''Aylmer / Royale',45.416276,-75.762731,1
-1383,'1383','Chemin D''Aylmer / Pont Champlain',45.414839,-75.765,2
+1383,'1383','Chemin D''Aylmer / Samuel-De-Champlain',45.414839,-75.765,2
 1384,'1384','Chemin D''Aylmer / Royale',45.416024,-75.762792,2
-1386,'1386','Chemin D''Aylmer / Pont Champlain',45.411874,-75.773434,1
-1388,'1388','Chemin D''Aylmer / Pont Champlain',45.41199,-75.773664,2
+1386,'1386','Chemin D''Aylmer / Augusta',45.411874,-75.773434,1
+1388,'1388','Chemin D''Aylmer / Augusta',45.41199,-75.773664,2
 1391,'1391','Mgne / Vanier',45.463948,-75.822164,2
 1392,'1392','Mgne / Vanier',45.463681,-75.821738,2
 1393,'1393','Mcconnell / Jean-De La Fontaine',45.413067,-75.798984,2
-1394,'1394','Mcconnell / Jean-De La Fontaine',45.413198,-75.798283,2
+1394,'1394','Mcconnell / Beaumarchais',45.413198,-75.798283,2
 1395,'1395','Pink / Auguste-Mondoux',45.441943,-75.815483,2
 1396,'1396','Jean-De La Fontaine / Pierre-De Ronsard',45.408843,-75.799256,2
 1397,'1397','Jean-De La Fontaine / Pierre-De Ronsard',45.408755,-75.799,1
@@ -263,7 +263,7 @@
 1405,'1405','Pink / Prado',45.442723,-75.804568,2
 1406,'1406','Colline / Chemin D''Aylmer',45.396188,-75.83199,2
 1407,'1407','Pink / Prado',45.442643,-75.804401,2
-1408,'1408','Colline / Artisans',45.39839,-75.832256,1
+1408,'1408','Colline / Explorateurs',45.39839,-75.832256,1
 1409,'1409','Pink / Vernon',45.443012,-75.800532,2
 1410,'1410','Colline / Artisans',45.398418,-75.832439,2
 1411,'1411','Pink / Vernon',45.442955,-75.799636,2
@@ -287,19 +287,19 @@
 1446,'1446','Samuel-Edey / Paysans',45.409151,-75.829292,1
 1448,'1448','Caveau / Samuel-Edey',45.406738,-75.829359,2
 1450,'1450','Caveau / Samuel-Edey',45.406567,-75.829695,1
-1451,'1451','Mcconnell / Wilfrid-Lavigne',45.410363,-75.838383,1
+1451,'1451','Allumettières / Wilfrid-Lavigne',45.410363,-75.838383,1
 1452,'1452','Vallon / Caveau',45.405845,-75.831938,2
 1454,'1454','Vallon / Caveau',45.405818,-75.832144,1
-1456,'1456','Vallon / Pionniers',45.403393,-75.831405,2
+1456,'1456','Vallon / Draveurs',45.403393,-75.831405,2
 1458,'1458','Chemin D''Aylmer / Rivermead',45.404703,-75.794099,1
 1459,'1459','Conservatoire / Louvre',45.441526,-75.810804,2
 1460,'1460','Conservatoire / Louvre',45.441463,-75.810639,2
 1461,'1461','Louvre / Grand-Palais',45.4412,-75.806929,1
 1462,'1462','Louvre / Grand-Palais',45.441336,-75.806744,2
-1463,'1463','Acropole / Prado',45.440358,-75.803871,1
-1464,'1464','Acropole / Andromède',45.440204,-75.804232,1
-1465,'1465','Andromède / Prado',45.440607,-75.800766,2
-1466,'1466','Andromède / Prado',45.4406,-75.80175,1
+1463,'1463','Prado / Andromède',45.440358,-75.803871,1
+1464,'1464','Prado / Acropole',45.440204,-75.804232,1
+1465,'1465','Andromède / Petite-Ourse',45.440607,-75.800766,2
+1466,'1466','Andromède / Petite-Ourse',45.4406,-75.80175,1
 1467,'1467','Andromède / Nova',45.442149,-75.7991,2
 1468,'1468','Andromède / Nova',45.442335,-75.798297,1
 1470,'1470','Klock / Tilleuls',45.410409,-75.849815,2
@@ -311,12 +311,12 @@
 1483,'1483','Raton-Laveur / Loup-Gris',45.419795,-75.855149,2
 1484,'1484','Raton-Laveur / Marmotte',45.421698,-75.856241,2
 1485,'1485','Samuel-Edey / Mcconnell',45.411153,-75.829514,2
-1486,'1486','Samuel-Edey / Mcconnell',45.41034,-75.829581,1
+1486,'1486','Samuel-Edey / Chasseurs',45.41034,-75.829581,1
 1488,'1488','Raton-Laveur / Antoine-Boucher',45.423603,-75.856555,2
 1489,'1489','Raton-Laveur / Marmotte',45.422646,-75.856571,2
 1490,'1490','Verger / Pivoines',45.412552,-75.849303,2
 1492,'1492','Verger / Hydrangées',45.41278,-75.84607,2
-1493,'1493','Verger / Pivoines',45.412869,-75.846493,1
+1493,'1493','Verger / Hydrangées',45.412869,-75.846493,1
 1494,'1494','Verger / Champignons',45.412932,-75.84384,1
 1495,'1495','Verger / Champignons',45.413097,-75.843129,1
 1497,'1497','Verger / Trèfles',45.413326,-75.839973,1
@@ -333,7 +333,7 @@
 1550,'1550','Front / Marché',45.414908,-75.857593,2
 1551,'1551','Front / Marché',45.414946,-75.857776,2
 1552,'1552','Front / Renard',45.416089,-75.856333,2
-1553,'1553','Front / Loup-Gris',45.41624,-75.856079,2
+1553,'1553','Front / Renard',45.41624,-75.856079,2
 1558,'1558','Principale / Bancroft',45.394867,-75.846435,2
 1559,'1559','Park / Symmes',45.39552,-75.844346,1
 1560,'1560','Principale / Broad',45.394902,-75.843768,1
@@ -1628,7 +1628,7 @@
 4650,'4650','P-O-B Georges / Foucault',45.562594,-75.426883,1
 4652,'4652','P-O-B Georges / Foucault',45.563098,-75.426275,2
 4654,'4654','Charette / Racan',45.569519,-75.430395,2
-4656,'4656','Charette / Racan',45.569608,-75.430601,2
+4656,'4656','Charette / Diotte',45.569608,-75.430601,2
 4658,'4658','Charette / Bouladier',45.571823,-75.431011,2
 4660,'4660','Charette / Bouladier',45.571928,-75.431196,2
 4661,'4661','Charette / Pierre-Laporte',45.573565,-75.431605,2
