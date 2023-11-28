@@ -1265,7 +1265,7 @@
 3854,'3854','Notre-Dame / Monseigneur-Lemieux',45.480731,-75.623811,2
 3855,'3855','Sous-Bois / Clairière',45.508071,-75.585786,2
 3856,'3856','Notre-Dame / Monseigneur-Lemieux',45.480996,-75.623222,1
-3858,'3858','Notre-Dame / Versailles',45.480751,-75.625621,2
+3858,'3858','Notre-Dame / Versailles',45.480751,-75.625621,1
 3860,'3860','Notre-Dame / Versailles',45.480984,-75.627147,1
 3861,'3861','Notre-Dame / Verchères',45.480917,-75.634752,1
 3862,'3862','Notre-Dame / Côtéville',45.480842,-75.630468,1
@@ -1441,7 +1441,7 @@
 4381,'4381','Gréber / Bienvenue',45.484235,-75.702118,1
 4384,'4384','Gréber / Nelligan',45.485989,-75.702403,2
 4385,'4385','Ernest-Gaboury / St-René O',45.48917,-75.697642,1
-4386,'4386','Davidson / Desforges',45.507113,-75.659351,2
+4386,'4386','Davidson / Desforges',45.507113,-75.659351,1
 4388,'4388','Aéroport / Jean-Louis-Malette',45.505943,-75.561403,2
 4389,'4389','Davidson / Langelier',45.507347,-75.65578,2
 4392,'4392','Mtée Paiement / Lahaie',45.500017,-75.676418,1
