@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus Société de Transport de l'Outaouais (STO) de Gatineau à MonTransit.
 
-L'app contient les horaires planifiés ainsi que les Info-Réseau de sto.ca et les dernières nouvelles de @STOGatineau sur Twitter.
+L'app contient les horaires planifiés ainsi que les dernières nouvelles de @STOGatineau sur Twitter.
 
 STO dessert Gatineau au Québec, Canada.
 
@@ -11,7 +11,7 @@ Cette application a seulement une icône temporaire : télécharger l'app MonTra
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
 Ces horaires sont générées à partir du fichier GTFS fourni par la Société de Transport de l'Outaouais (STO)
-http://www.sto.ca/index.php?id=575
+https://www.sto.ca/affaires/espace-developpeurs-donnees-ouvertes/
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-gatineau-sto-bus-android
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-gatineau-sto-bus-android
 Cette application n'est pas associée à Société de Transport de l'Outaouais (STO).
 
 Autorisations :
-- Autres : requis pour lire les Info-Réseau de sto.ca et les nouvelles de Twitter.
+- Autres : requis pour lire les nouvelles de Twitter.

@@ -56,6 +56,7 @@
                 android:value="@string/gtfs_real_time_for_poi_authority" />
         </provider>
         <!-- STO PROVIDER -->
+        <!-- DISABLED: web site updated, not available anymore
         <provider
             android:name="org.mtransit.android.commons.provider.CaSTOProvider"
             android:authorities="@string/ca_sto_authority"
@@ -69,6 +70,7 @@
                 android:name="@string/news_provider_target"
                 android:value="@string/ca_sto_news_target_for_poi_authority" />
         </provider>
+        -->
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
