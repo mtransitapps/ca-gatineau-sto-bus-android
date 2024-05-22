@@ -10,11 +10,11 @@ Cette application a seulement une icône temporaire : télécharger l'app MonTra
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par la Société de Transport de l'Outaouais (STO)
-https://www.sto.ca/affaires/espace-developpeurs-donnees-ouvertes/
-
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-gatineau-sto-bus-android
+
+Ces horaires sont générées à partir du fichier GTFS fourni par la Société de Transport de l'Outaouais (STO)
+https://www.sto.ca/affaires/espace-developpeurs-donnees-ouvertes/
 
 Cette application n'est pas associée à Société de Transport de l'Outaouais (STO).
 
