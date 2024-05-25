@@ -1,6 +1,7 @@
 name: MT sync code & data # download & parse
 on:
   workflow_dispatch: # manual
+  pull_request: # TODO REMOVE
   schedule:
     - cron: '0 12 * * 2' # Tuesdays @ 12pm UTC # WEEKLY https://crontab.guru/#0_12_*_*_2
 #   - cron: '0 12 * * 1,4' # 0 0 * * MON,THU #BI-WEEKLY https://crontab.guru/#0_12_*_*_1,4
