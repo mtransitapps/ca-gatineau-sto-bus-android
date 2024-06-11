@@ -21,14 +21,14 @@
 3201,0,'Ottawa',32
 3200,0,'Plateau',32
 3300,0,'Freeman',33
-3301,0,'Ottawa',33
+3301,0,'MHistoire',33
 3401,0,'Ottawa',34
 3400,0,'P-O-B Allum',34
-3500,0,'M.Burger',35
+3500,0,'H.De-Ville',35
 3501,0,'Ottawa',35
 3600,0,'Cgp GRoy',36
 3601,0,'Ottawa',36
-3700,0,'Cgp GRoy',37
+3700,0,'H.De-Ville',37
 3701,0,'Ottawa',37
 3800,0,'Freeman',38
 3801,0,'Ottawa',38
@@ -109,3 +109,7 @@
 47201,0,'Cité',472
 80000,0,'Lorrain',800
 80001,0,'P-O-B Allum',800
+80401,0,'Rouge-Noir',804
+85901,0,'Rouge-Noir',859
+87600,0,'Nav.Parc-Gat',876
+87601,0,'Ott-Gat',876

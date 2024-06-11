@@ -21,14 +21,14 @@
 3201,0,'Ottawa',32
 3200,0,'Plateau',32
 3300,0,'Freeman',33
-3301,0,'Ottawa',33
+3301,0,'MHistoire / Ottawa',33
 3401,0,'Ottawa',34
 3400,0,'P-O-B Allum',34
 3500,0,'H.De-Ville',35
 3501,0,'Ottawa',35
 3600,0,'Cgp GRoy',36
 3601,0,'Ottawa',36
-3700,0,'Cgp GRoy',37
+3700,0,'Cgp GRoy / H.De-Ville',37
 3701,0,'Ottawa',37
 3800,0,'Freeman',38
 3801,0,'Ottawa',38
@@ -47,7 +47,7 @@
 4900,0,'Cgp GRoy',49
 4901,0,'Gal.Aylmer',49
 5000,0,'Cgp GRoy',50
-5001,0,'Gal.Aylmer',50
+5001,0,'P-O-B Allum',50
 5200,0,'P-O-B Allum',52
 5201,0,'Rivermead',52
 5400,0,'Hochelaga',54
