@@ -142,13 +142,13 @@ public class GatineauSTOBusAgencyTools extends DefaultAgencyTools {
 	@Nullable
 	@Override
 	public String provideMissingRouteColor(@NotNull GRoute gRoute) {
-			final int rsn = Integer.parseInt(gRoute.getRouteShortName());
-			final String rln = gRoute.getRouteLongNameOrDefault();
-			if (rsn > 100 && SCHOOL_ROUTE_LONG_NAME_.matcher(rln).find()) {
-				return SCHOOL_BUS_COLOR;
-			}
-			switch (rsn) {
-			// @formatter:off
+		final int rsn = Integer.parseInt(gRoute.getRouteShortName());
+		final String rln = gRoute.getRouteLongNameOrDefault();
+		if (rsn > 100 && SCHOOL_ROUTE_LONG_NAME_.matcher(rln).find()) {
+			return SCHOOL_BUS_COLOR;
+		}
+		switch (rsn) {
+		// @formatter:off
 			case 11: return PEAK_COLOR;
 			case 15: return PEAK_COLOR;
 			case 17: return PEAK_COLOR;
@@ -174,6 +174,7 @@ public class GatineauSTOBusAgencyTools extends DefaultAgencyTools {
 			case 39: return REGULAR_COLOR;
 			case 40: return PEAK_COLOR;
 			case 41: return PEAK_COLOR;
+			case 42: return null; // TODO ?
 			case 44: return PEAK_COLOR;
 			case 45: return PEAK_COLOR;
 			case 46: return PEAK_COLOR;
@@ -272,8 +273,8 @@ public class GatineauSTOBusAgencyTools extends DefaultAgencyTools {
 			case 950: return null; // TODO ?
 			case 990: return null; // TODO ?
 			// @formatter:on
-			}
-			throw new MTLog.Fatal("Unexpected route color %s!", gRoute.toStringPlus());
+		}
+		throw new MTLog.Fatal("Unexpected route color %s!", gRoute.toStringPlus());
 	}
 
 	private static final Pattern SCHOOL_ROUTE_LONG_NAME_ = Pattern.compile("("
