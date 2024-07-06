@@ -1,0 +1,99 @@
+15,'15','Des Érables','9B0078',1572,3
+18,'18','Pré Tunney','231F20',1575,3
+20,'20','Freeman','9B0078',1598,3
+23,'23','Le Plateau','9B0078',1601,3
+25,'25','De L''amérique-Française','9B0078',1603,3
+26,'26','Le Plateau','9B0078',1604,3
+27,'27','Hautes-Plaines','9B0078',1605,3
+28,'28','Le Plateau / Pré Tunney','9B0078',1606,3
+29,'29','Des Trembles','9B0078',1607,3
+31,'31','Parc De La Montagne','231F20',1630,3
+32,'32','Plateau','9B0078',1631,3
+33,'33','Freeman / Cgp GRoy / Ottawa','231F20',1632,3
+34,'34','Plateau / Des Trembles','231F20',1633,3
+35,'35','Lac Des Fées','231F20',1634,3
+36,'36','Cgp GRoy','231F20',1635,3
+37,'37','Cgp GRoy / St-Joseph','231F20',1636,3
+38,'38','Freeman','231F20',1637,3
+39,'39','Freeman / Plateau','231F20',1638,3
+40,'40','Jardins Lavigne','9B0078',1660,3
+41,'41','Des Cèdres','9B0078',1661,3
+42,'42','Lavigne / Wychwood / Vanier ***aut24**','',1662,3
+45,'45','Wychwood','9B0078',1665,3
+47,'47','Glenwood','9B0078',1667,3
+48,'48','Lucerne Nord','9B0078',1668,3
+49,'49','Cgp GRoy / Rivermead **aut24**','231F20',1669,3
+50,'50','Cgp GRoy / Rivermead**aut24**','9B0078',1691,3
+52,'52','Lavigne / Wychwood / Vanier**aut24**','231F20',1693,3
+54,'54','Parc Champlain','9B0078',1695,3
+55,'55','Ottawa','231F20',1696,3
+56,'56','Des Trembles**aut24**','231F20',1697,3
+58,'58','Pré Tunney','9B0078',1699,3
+59,'59','Ottawa','231F20',1700,3
+62,'62','Gréber Nord','231F20',1724,3
+63,'63','Pointe-Gatineau','231F20',1725,3
+64,'64','Limbour / Freeman','231F20',1726,3
+65,'65','Côte-Des-Neiges','231F20',1727,3
+66,'66','Mont-Luc / Du Barry','231F20',1728,3
+67,'67','Fournier / Gréber','9B0078',1729,3
+68,'68','Cgp GRoy / Station Lorrain','231F20',1730,3
+69,'69','St-Louis','231F20',1731,3
+71,'71','Davidson','231F20',1754,3
+72,'72','Saint-René','',1755,3
+73,'73','Station Labrosse / Saint-René','231F20',1756,3
+74,'74','Maloney','9B0078',1757,3
+75,'75','Notre-Dame','231F20',1758,3
+76,'76','La Vérendrye','231F20',1759,3
+77,'77','Cheval-Blanc','231F20',1760,3
+78,'78','Atmec / De L''aéroport','231F20',1761,3
+79,'79','Zone Blanche','231F20',1762,3
+85,'85','Côte-Des-Neiges','9B0078',1789,3
+87,'87','Station La Cité','9B0078',1791,3
+93,'93','Masson','9B0078',1818,3
+94,'94','Masson-Angers','9B0078',1819,3
+95,'95','Buckingham','9B0078',1820,3
+97,'97','Masson-Angers / Buckingham','231F20',1822,3
+98,'98','Buckingham','9B0078',1823,3
+297,'297','Hormisdas-Gamelin','FFD800',49872,3
+325,'325','Le Plateau / St-Alexandre','FFD800',50614,3
+326,'326','Le Plateau / St-Alexandre','FFD800',50615,3
+329,'329','Le Manoir / St-Alexandre','FFD800',50618,3
+331,'331','Parc De La Montagne / St-Alexandre','FFD800',50641,3
+371,'371','Cgp GRoy / Mutchmore','FFD800',50765,3
+400,'400','Rapibus 400','231F20',51508,3
+425,'425','De L''amérique-Française / Mt-Bleu','',51575,3
+426,'426','Du Plateau / Mont-Bleu','FFD800',51576,3
+429,'429','Le Manoir / Mont-Bleu','FFD800',51579,3
+431,'431','Riel / Mont-Bleu','FFD800',51602,3
+433,'433','Cité Des Jeunes / Mont-Bleu','FFD800',51604,3
+437,'437','St-Joseph / Mont-Bleu','FFD800',51608,3
+449,'449','Rivermead / Mont-Bleu','FFD800',51641,3
+472,'472','Saint-André / Cado','FFD800',51727,3
+549,'549','Galeries D''aylmer / Nv Frontières***aut24**','FFD800',52602,3
+550,'550','Jardins Lavigne / Nv Frontières','FFD800',52624,3
+554,'554','Des Trembles / Nv Frontières**aut24**','FFD800',52628,3
+566,'566','Mont-Luc / Du Barry / Nv Frontières','FFD800',52661,3
+569,'569','Des Grands-Jardins / Nv Frontières','FFD800',52664,3
+571,'571','Ravins Boisés / Nv Frontières','FFD800',52687,3
+576,'576','La Verendrye / Nv Frontières','FFD800',52692,3
+639,'639','Plateau / Grande-Rivière','FFD800',53532,3
+640,'640','Jardins Lavigne / Grande-Rivière','FFD800',53554,3
+641,'641','Des Cèdres / Grande-Rivière','FFD800',53555,3
+645,'645','Wychwood / Grande-Rivière','FFD800',53559,3
+647,'647','Glenwood / Grande-Rivière','FFD800',53561,3
+654,'654','Parc Champlain / Grande-Rivière','FFD800',53589,3
+655,'655','Chemin Aylmer / Taché / Gr-Rivière','FFD800',53590,3
+726,'726','Le Plateau / De La Cité','',54459,3
+731,'731','Secteur Mont-Bleu / Stjo','FFD800',54485,3
+734,'734','Le Plateau / Stjo','FFD800',54488,3
+740,'740','Jardins Lavigne / Stjo','FFD800',54515,3
+752,'752','Deschenes / École Nouvelle-Ère','FFD800',54548,3
+754,'754','Parc Champlain / École Nv-Ère','FFD800',54550,3
+800,'800','Rapibus 800','231F20',55352,3
+825,'825','Amérique-Française / De L''île','FFD800',55419,3
+826,'826','Le Plateau / De L''île','FFD800',55420,3
+827,'827','Hautes-Plaines / De L''île','FFD800',55421,3
+829,'829','Le Manoir / De L''île','FFD800',55423,3
+831,'831','Secteur Mont-Bleu / De L''île','FFD800',55446,3
+833,'833','Cité-Des-Jeunes / De L''île','FFD800',55448,3
+867,'867','Fournier / De L''île','FFD800',55545,3
