@@ -21,12 +21,12 @@
 45,'45','Wychwood','9B0078',1665,3
 47,'47','Glenwood','9B0078',1667,3
 48,'48','Lucerne Nord','9B0078',1668,3
-49,'49','Cgp GRoy / Rivermead **aut24**','231F20',1669,3
-50,'50','Cgp GRoy / Rivermead**aut24**','9B0078',1691,3
-52,'52','Lavigne / Wychwood / Vanier**aut24**','231F20',1693,3
+49,'49','Cgp GRoy / Des Cèdres','231F20',1669,3
+50,'50','Cgp GRoy / Des Cèdres','9B0078',1691,3
+52,'52','Des Cèdre / Rivermead / Vanier','231F20',1693,3
 54,'54','Parc Champlain','9B0078',1695,3
 55,'55','Ottawa','231F20',1696,3
-56,'56','Des Trembles**aut24**','231F20',1697,3
+56,'56','Gal.Aylmer / Des Trembles / Cégep','231F20',1697,3
 58,'58','Pré Tunney','9B0078',1699,3
 59,'59','Ottawa','231F20',1700,3
 62,'62','Gréber Nord','231F20',1724,3
@@ -58,5 +58,3 @@
 472,'472','Saint-André / Cado','FFD800',51727,3
 800,'800','Rapibus 800','231F20',55352,3
 804,'804','Navette Lansdowne','',55356,3
-859,'859','Navette Lansdowne','',55516,3
-876,'876','Coloris Automnale','',55575,3
