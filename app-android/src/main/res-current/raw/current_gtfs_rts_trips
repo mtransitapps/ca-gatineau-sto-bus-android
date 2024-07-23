@@ -21,7 +21,7 @@
 3201,0,'Ottawa',32
 3200,0,'Plateau',32
 3300,0,'Freeman',33
-3301,0,'MHistoire',33
+3301,0,'Ottawa',33
 3401,0,'Ottawa',34
 3400,0,'P-O-B Allum',34
 3500,0,'M.Burger',35
@@ -110,3 +110,6 @@
 80000,0,'Lorrain',800
 80001,0,'P-O-B Allum',800
 80401,0,'Rouge-Noir',804
+85901,0,'Rouge-Noir',859
+87600,0,'Nav.Parc-Gat',876
+87601,0,'Ott-Gat',876
