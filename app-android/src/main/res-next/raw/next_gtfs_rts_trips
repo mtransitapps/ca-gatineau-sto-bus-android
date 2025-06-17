@@ -108,12 +108,12 @@
 20000,0,'Lorrain',200
 20001,0,'Ottawa',200
 37100,0,'Cgp GRoy',371
-37101,0,'Cgp GRoy / Ottawa',371
+37101,0,'Ottawa',371
 40000,0,'Lorrain',400
 40001,0,'Ottawa',400
 80000,0,'Lorrain',800
 80001,0,'P-O-B Allum',800
 80401,0,'Rouge-Noir',804
 85901,0,'Rouge-Noir',859
-87600,0,'Nav.Parc-Gat',876
-87601,0,'Ott-Gat',876
+87600,0,'Ctr Des Visiteurs / Visitor Center',876
+87601,0,'Parc Pindigen',876
