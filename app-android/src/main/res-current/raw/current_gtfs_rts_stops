@@ -1652,11 +1652,9 @@
 4693,'4693','Affaires / Labrosse',45.51458,-75.64610,2,1602844
 4694,'4694','Affaires / Labrosse',45.51478,-75.64626,2,1602845
 4700,'4700','Progrès / Lorraine',45.52363,-75.49367,2,1603523
-4701,'4701','Route 148 / Hauts-Bois',45.52785,-75.47782,1,1603524
 4702,'4702','Progrès / Lorraine',45.52345,-75.49379,2,1603525
 4703,'4703','Forteresse / Route 148',45.52652,-75.48144,1,1603526
 4704,'4704','Progrès / Liesse',45.52402,-75.49159,2,1603527
-4705,'4705','P-O-B Georges / Route 148',45.54211,-75.43138,2,1603528
 4706,'4706','Progrès / Genève',45.52406,-75.49202,1,1603529
 4707,'4707','Route 148 / Hauts-Bois',45.52777,-75.47773,2,1603530
 4709,'4709','Laurentides / Progrès',45.52290,-75.49591,2,1603532
@@ -1676,7 +1674,6 @@
 4726,'4726','Masson / St-Charles',45.54674,-75.42162,2,1603591
 4727,'4727','Forteresse / Route 148',45.52647,-75.48162,2,1603592
 4728,'4728','Masson / St-Charles',45.54642,-75.42170,2,1603593
-4729,'4729','Route 148 / Forteresse',45.52643,-75.48075,1,1603594
 4730,'4730','Masson / Chutes-Rhéaume',45.54822,-75.42256,2,1603616
 4731,'4731','Route 148 / Balbuzards',45.52414,-75.48599,2,1603617
 4732,'4732','Masson / Chutes-Rhéaume',45.54829,-75.42271,2,1603618
@@ -1752,17 +1749,11 @@
 7053,'7053','Érables / Sucrerie (Arrêt De Courtoisie)',45.50768,-75.73931,2,1686327
 7054,'7054','Érables / Fleurimont (Arrêt De Courtoisie)',45.51615,-75.74005,2,1686328
 7055,'7055','Érables / Fleurimont (Arrêt De Courtoisie)',45.51618,-75.73984,2,1686329
-7114,'7114','Montréal / Brabant (Arrêt De Courtoisie)',45.53012,-75.47290,2,1687165
 7115,'7115','Montréal / Forteresse (Arrêt De Courtoisie)',45.52994,-75.47282,2,1687166
-7116,'7116','Montréal / Brabant (Arrêt De Courtoisie)',45.53108,-75.47020,2,1687167
 7117,'7117','Montréal / Brabant (Arrêt De Courtoisie)',45.53095,-75.47006,2,1687168
-7118,'7118','Montréal / Brabant (Arrêt De Courtoisie)',45.53237,-75.46255,2,1687169
 7119,'7119','Montréal / Brabant (Arrêt De Courtoisie)',45.53218,-75.46244,2,1687170
-7120,'7120','Montréal / Brabant (Arrêt De Courtoisie)',45.53453,-75.45385,2,1687192
 7121,'7121','Montréal / Brabant (Arrêt De Courtoisie)',45.53436,-75.45369,2,1687193
-7122,'7122','Montréal / Brabant (Arrêt De Courtoisie)',45.53756,-75.44334,2,1687194
 7123,'7123','Montréal / Brabant (Arrêt De Courtoisie)',45.53744,-75.44327,2,1687195
-7124,'7124','Montréal / Kendall (Arrêt De Courtoisie)',45.54037,-75.43517,2,1687196
 7125,'7125','Montréal / Kendall (Arrêt De Courtoisie)',45.54024,-75.43499,2,1687197
 7130,'7130','Pink / Klock (Arrêt De Courtoisie)',45.44160,-75.82341,2,1687223
 7131,'7131','Pink / Kolck (Arrêt De Courtoisie)',45.44136,-75.82338,2,1687224
