@@ -1356,7 +1356,6 @@
 4149,'4149','Maloney E / Labrosse',45.48459,-75.63884,1,1597890
 4150,'4150','Maloney E / Sabourin',45.48476,-75.63381,1,1597912
 4151,'4151','Côtéville / Dubois',45.48408,-75.63006,1,1597913
-4167,'4167','Lorrain / Vérendrye',45.50624,-75.60939,1,1597950
 4227,'4227','Cannes / Sanary',45.48507,-75.72705,2,1598787
 4228,'4228','Cannes / Sanary',45.48497,-75.72692,1,1598788
 4230,'4230','Cannes / Rayol',45.48847,-75.72414,1,1598811
@@ -1793,12 +1792,10 @@
 7180,'7180','Mgne / Zéphyr (Arrêt De Courtoisie)',45.45547,-75.79775,2,1687378
 7181,'7181','Mgne / Zéphyr (Arrêt De Courtoisie)',45.45568,-75.79730,2,1687379
 7182,'7182','Mgne / Grives (Arrêt De Courtoisie)',45.45073,-75.78918,2,1687380
-7184,'7184','Mgne / Brise (Arrêt De Courtoisie)',45.44810,-75.78288,2,1687382
 7188,'7188','Hochelaga / Brouage (Arrêt De Courtoisie)',45.42506,-75.79173,2,1687386
 7189,'7189','Montagnais / Atholl-Doune (Arrêt De Courtoisie)',45.41566,-75.78891,2,1687387
 7190,'7190','Port-Royal / St-Malo (Arrêt De Courtoisie)',45.41890,-75.79294,2,1687409
 7192,'7192','Mgne / Grives (Arrêt De Courtoisie)',45.45069,-75.78919,2,1687411
-7194,'7194','Mgne / Brise (Arrêt De Courtoisie)',45.44816,-75.78283,2,1687413
 7250,'7250','Perry / Cook (Arrêt De Courtoisie)',45.45358,-75.88324,2,1688246
 7251,'7251','Perry / Chevreuils (Arrêt De Courtoisie)',45.45818,-75.88377,2,1688247
 7252,'7252','Perry / Ravin (Arrêt De Courtoisie)',45.46267,-75.88430,2,1688248
