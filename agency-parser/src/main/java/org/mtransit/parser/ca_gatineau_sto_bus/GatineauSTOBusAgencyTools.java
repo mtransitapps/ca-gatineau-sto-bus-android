@@ -46,6 +46,12 @@ public class GatineauSTOBusAgencyTools extends DefaultAgencyTools {
 		return MAgency.ROUTE_TYPE_BUS;
 	}
 
+	@Nullable
+	@Override
+	public String getServiceIdCleanupRegex() {
+		return "^[A-Z0-9]+-|-\\_\\d{2}[A-Z]+-\\d+-$"; // // H01J026I-Dimanche-10-_26HIV-0000001-
+	}
+
 	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
