@@ -29,11 +29,6 @@ public class GatineauSTOBusAgencyTools extends DefaultAgencyTools {
 		new GatineauSTOBusAgencyTools().start(args);
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -68,7 +63,7 @@ public class GatineauSTOBusAgencyTools extends DefaultAgencyTools {
 		routeLongName = CleanUtils.toLowerCaseUpperCaseWords(Locale.FRENCH, routeLongName, getIgnoredWords());
 		routeLongName = CEGEP_GABRIELLE_ROY_.matcher(routeLongName).replaceAll(CEGEP_GABRIELLE_ROY_REPLACEMENT);
 		routeLongName = CleanUtils.cleanSlashes(routeLongName);
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -482,7 +477,7 @@ public class GatineauSTOBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public String getStopCode(@NotNull GStop gStop) {
 		if (StringUtils.isEmpty(gStop.getStopCode())) {
-			//noinspection deprecation
+			//noinspection DiscouragedApi
 			return gStop.getStopId(); // use stop ID as stop code
 		}
 		return super.getStopCode(gStop);
@@ -490,7 +485,7 @@ public class GatineauSTOBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId = gStop.getStopId();
 		if (!CharUtils.isDigitsOnly(stopId)) {
 			final Matcher matcher = DIGITS.matcher(stopId);
