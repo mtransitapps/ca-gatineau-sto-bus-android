@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <integer name="gtfs_real_time_db_version">1</integer>
-    <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
-    <bool name="gtfs_real_time_stop_id_is_stop_code">false</bool>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,Typos,UnusedResources">
+    <!-- https://www.sto.ca/en/business/developer-space-open-data/ -->
     <string name="gtfs_real_time_agency_service_alerts_url">https://gtfs.sto.ca/download.php?file=alert&amp;key=%1$s&amp;hash=%2$s</string>
     <string name="gtfs_real_time_agency_vehicle_positions_url">https://gtfs.sto.ca/download.php?file=vehicule&amp;key=%1$s&amp;hash=%2$s</string>
     <string name="gtfs_real_time_agency_trip_updates_url">https://gtfs.sto.ca/download.php?file=trip&amp;key=%1$s&amp;hash=%2$s</string>
+    <!-- https://www.sto.ca/site/assets/files/1533/documentation_dev_gtfsrt.pdf -->
     <bool name="gtfs_real_time_url_use_hash_secret_and_date">true</bool>
     <string name="gtfs_real_time_agency_bold_words" />
     <string-array name="gtfs_real_time_agency_extra_languages">
@@ -14,9 +13,4 @@
     <string-array name="gtfs_real_time_agency_extra_bold_words">
         <item />
     </string-array>
-    <string name="gtfs_real_time_agency_time_regex" />
-    <string name="gtfs_real_time_agency_time_hour_format" />
-    <string name="gtfs_real_time_agency_time_minute_format" />
-    <string name="gtfs_real_time_agency_time_ampm_format" />
-    <string name="gtfs_real_time_agency_time_zone">@string/gtfs_rts_timezone</string>
 </resources>
