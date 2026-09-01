@@ -1,0 +1,452 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "comment": "cleanup Cegep Gabrielle-Roy variations",
+            "regex": "((^|\\W)(c[é|e]gep gabrielle-roy|cegep gab\\.roy|cegep gab-roy|c[é|e]gep groy|c[é|e]gep g-roy|cegep g-roy|c[é|e]gep g\\.roy|cgp gabrielle-r|cgp groy|cgp g-roy|g-roy)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Cgp GRoy$4"
+        }
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "11",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "15",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "17",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "18",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "20",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "21",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "22",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "23",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "24",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "25",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "26",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "27",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "28",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "29",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "31",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "32",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "33",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "34",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "35",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "36",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "37",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "38",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "39",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "40",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "41",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "44",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "45",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "46",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "47",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "48",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "49",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "50",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "51",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "52",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "53",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "54",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "55",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "56",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "57",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "58",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "59",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "60",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "61",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "62",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "63",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "64",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "65",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "66",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "67",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "68",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "69",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "71",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "73",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "74",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "75",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "76",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "77",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "78",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "79",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "85",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "87",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "88",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "93",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "94",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "95",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "97",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "98",
+            "color": "9B0078"
+        },
+        {
+            "route_short_name": "100",
+            "color": "0067AC"
+        },
+        {
+            "route_short_name": "134",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "200",
+            "color": "DA002E"
+        },
+        {
+            "route_short_name": "300",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "400",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "500",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "800",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "810",
+            "color": "231F20"
+        },
+        {
+            "route_short_name": "870",
+            "color": "9B0078"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "allow_non_descriptive_head_signs_until": {
+        "79": "20240815"
+    },
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "((^|\\W)(station|ston|sta)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2$4",
+            "comment": "Remove station/ston/sta from trip headsigns"
+        },
+        {
+            "regex": "((^|\\W)(c[é|e]gep gabrielle-roy|cegep gab\\.roy|cegep gab-roy|c[é|e]gep groy|c[é|e]gep g-roy|cegep g-roy|c[é|e]gep g\\.roy|cgp gabrielle-r|cgp groy|cgp g-roy|g-roy)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Cgp GRoy$4"
+        },
+        {
+            "regex": "((^|\\W)(college|collège|collége)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Col$4"
+        },
+        {
+            "regex": "((^|\\W)(col nf|col nouvelles frontieres|col nouvelles frontières)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Col NF$4"
+        },
+        {
+            "regex": "((^|\\W)(c stjoseph)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Col St-Jo$4"
+        },
+        {
+            "regex": "((^|\\W)(col stalex)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Col St-Alex$4"
+        },
+        {
+            "regex": "((école secondaire|ecole secondaire|école sec|ecole sec|école|ecole|e)(\\.|\\s){1,2}(\\w+))",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "É $7"
+        },
+        {
+            "regex": "grande-rivière|gr-rivière",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "Gr-Riv"
+        },
+        {
+            "regex": "((^|\\W)(galeries aylmer|gal\\.aylmer)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Gal.Aylmer$4"
+        },
+        {
+            "regex": "((^|\\W)(jardins lavigne|jlavigne)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2JLavigne$4"
+        },
+        {
+            "regex": "((^|\\W)(des allumetti[è|e]res|allumetti[è|e]res|allum)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Allum$4"
+        },
+        {
+            "regex": "((^|\\W)(c[ô|o]tes-des-neiges|coteneige)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Côtes-Des-Neiges$4"
+        },
+        {
+            "regex": "((^|\\W)(pob|p-o-b|parc o bus|parc-o-bus)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2P-O-B$4"
+        },
+        {
+            "regex": "((^|\\W)(place d'accueil|pl\\.accueil)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Pl.Accueil$4"
+        },
+        {
+            "regex": "((^|\\W)(pr[e|é] tunney)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Pré-Tunney$4"
+        },
+        {
+            "regex": "((^|\\W)(mus[e|é]e canadien de l'histoire)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Musée de l'Histoire$4"
+        },
+        {
+            "regex": "((^|\\W)(masson-angers)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2M-Angers$4"
+        },
+        {
+            "regex": "mont-bleu",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "MontBleu"
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "(^(arriv[e|é]e|d[e|é]part)|[/\\-]?\\s*(arr[e|ê]t d'arriv[e|é]e|arriv[e|é]e|d[e|é]part)|( - temps d'attente)$)",
+            "ignore_case": true
+        },
+        {
+            "regex": "((arr[e|ê]t de courtoisie\\s*)(.*))",
+            "ignore_case": true,
+            "replacement": "$3 (Arrêt de Courtoisie)"
+        },
+        {
+            "regex": "((^|\\W)(pob|p-o-b|parc o bus|parc-o-bus)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2P-O-B$4"
+        },
+        {
+            "regex": "((école secondaire|ecole secondaire|école sec|ecole sec|école|ecole|e)(\\.|\\s){1,2}(\\w+))",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "É $7"
+        },
+        {
+            "regex": "(saint)",
+            "ignore_case": true,
+            "replacement": "St"
+        },
+        {
+            "regex": "et",
+            "is_word": true,
+            "replacement": "&"
+        }
+    ]
+}
