@@ -1,0 +1,20 @@
+{
+    "target_route_type_id": 3,
+    "default_color_green": "33A949",
+    "default_color_green_comment": "GREEN (GREEN PANTONE 360 / 361 (90%) from Corporate Logo Usage PDF)",
+    "default_color": "007F89",
+    "default_color_comment": "BLUE (BLUE PANTONE 7474 from Corporate Logo Usage PDF)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_words": true,
+    "ignore_upper_case_words": [
+        "AM",
+        "PM",
+        "GD",
+        "NE",
+        "NF",
+        "STO"
+    ],
+    "service_id_cleanup_regex": "^[A-Z0-9]+-|-\\_\\d{2}[A-Z]+-\\d+-$",
+    "service_id_cleanup_regex_comment": "Regex to clean up service IDs, e.g., H01J026I-Dimanche-10-_26HIV-0000001-"
+}
