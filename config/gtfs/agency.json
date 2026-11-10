@@ -16,6 +16,6 @@
         "STO"
     ],
     "service_id_cleanup_regex_old": "^[A-Z0-9]+-|-\\_\\d{2}[A-Z]+-\\d+-$",
-    "service_id_cleanup_regex": "^[A-Z0-9]+-|-\\_|[A-Z]+-\\d+-$",
+    "service_id_cleanup_regex": "^[A-Z0-9]+-|\\_|[A-Z]+-\\d+-$",
     "service_id_cleanup_regex_comment": "Regex to clean up service IDs, e.g., H01J026I-Dimanche-10-_26HIV-0000001-"
 }
